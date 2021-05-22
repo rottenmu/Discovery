@@ -19,17 +19,13 @@ import com.nepxion.discovery.common.etcd.constant.EtcdConstant;
 import com.nepxion.discovery.common.etcd.operation.EtcdOperation;
 import com.nepxion.discovery.common.etcd.operation.EtcdSubscribeCallback;
 import com.nepxion.discovery.plugin.configcenter.adapter.ConfigAdapter;
-import com.nepxion.discovery.plugin.configcenter.logger.ConfigLogger;
 
 public class EtcdConfigAdapter extends ConfigAdapter {
     @Autowired
     private EtcdOperation etcdOperation;
 
-    @Autowired
-    private ConfigLogger configLogger;
-
-    private Watch.Listener partialListener;
-    private Watch.Listener globalListener;
+    private Watch partialWatchClient;
+    private Watch globalWatchClient;
 
     @Override
     public String getConfig(String group, String dataId) throws Exception {
@@ -39,15 +35,15 @@ public class EtcdConfigAdapter extends ConfigAdapter {
     @PostConstruct
     @Override
     public void subscribeConfig() {
-        partialListener = subscribeConfig(false);
-        globalListener = subscribeConfig(true);
+        partialWatchClient = subscribeConfig(false);
+        globalWatchClient = subscribeConfig(true);
     }
 
-    private Watch.Listener subscribeConfig(boolean globalConfig) {
+    private Watch subscribeConfig(boolean globalConfig) {
         String group = getGroup();
         String dataId = getDataId(globalConfig);
 
-        configLogger.logSubscribeStarted(globalConfig);
+        logSubscribeStarted(globalConfig);
 
         try {
             return etcdOperation.subscribeConfig(group, dataId, new EtcdSubscribeCallback() {
@@ -57,7 +53,7 @@ public class EtcdConfigAdapter extends ConfigAdapter {
                 }
             });
         } catch (Exception e) {
-            configLogger.logSubscribeFailed(e, globalConfig);
+            logSubscribeFailed(e, globalConfig);
         }
 
         return null;
@@ -65,24 +61,24 @@ public class EtcdConfigAdapter extends ConfigAdapter {
 
     @Override
     public void unsubscribeConfig() {
-        unsubscribeConfig(partialListener, false);
-        unsubscribeConfig(globalListener, true);
+        unsubscribeConfig(partialWatchClient, false);
+        unsubscribeConfig(globalWatchClient, true);
     }
 
-    private void unsubscribeConfig(Watch.Listener configListener, boolean globalConfig) {
-        if (configListener == null) {
+    private void unsubscribeConfig(Watch watchClient, boolean globalConfig) {
+        if (watchClient == null) {
             return;
         }
 
         String group = getGroup();
         String dataId = getDataId(globalConfig);
 
-        configLogger.logUnsubscribeStarted(globalConfig);
+        logUnsubscribeStarted(globalConfig);
 
         try {
-            etcdOperation.unsubscribeConfig(group, dataId, configListener);
+            etcdOperation.unsubscribeConfig(group, dataId, watchClient);
         } catch (Exception e) {
-            configLogger.logUnsubscribeFailed(e, globalConfig);
+            logUnsubscribeFailed(e, globalConfig);
         }
     }
 

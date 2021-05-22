@@ -11,7 +11,6 @@ package com.nepxion.discovery.plugin.strategy.service.decorator;
 
 import java.util.Collections;
 import java.util.Enumeration;
-import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
@@ -19,6 +18,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletRequestWrapper;
 
 import org.apache.commons.collections4.CollectionUtils;
+import org.springframework.util.LinkedCaseInsensitiveMap;
 
 public class ServiceStrategyRequestDecorator extends HttpServletRequestWrapper {
     private Map<String, List<String>> headers;
@@ -34,7 +34,8 @@ public class ServiceStrategyRequestDecorator extends HttpServletRequestWrapper {
     }
 
     private Map<String, List<String>> initializeHeaders(HttpServletRequest request) {
-        Map<String, List<String>> headers = new HashMap<>();
+        // 不区分大小写Key的Map用于适配不同的Web容器对于大小写Header的不同处理逻辑
+        Map<String, List<String>> headers = new LinkedCaseInsensitiveMap<>();
         Enumeration<String> headerNames = request.getHeaderNames();
         while (headerNames.hasMoreElements()) {
             String headerName = headerNames.nextElement();

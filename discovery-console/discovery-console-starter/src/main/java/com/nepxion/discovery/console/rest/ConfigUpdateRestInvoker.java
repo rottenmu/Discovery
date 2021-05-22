@@ -9,25 +9,22 @@ package com.nepxion.discovery.console.rest;
  * @version 1.0
  */
 
-import java.util.List;
-
 import org.springframework.cloud.client.ServiceInstance;
-import org.springframework.http.HttpEntity;
-import org.springframework.http.HttpHeaders;
-import org.springframework.http.MediaType;
 import org.springframework.web.client.RestTemplate;
+
+import com.nepxion.discovery.console.resource.ServiceResource;
 
 public class ConfigUpdateRestInvoker extends AbstractRestInvoker {
     private String config;
 
-    public ConfigUpdateRestInvoker(List<ServiceInstance> instances, RestTemplate restTemplate, String config, boolean async) {
-        super(instances, restTemplate, async);
+    public ConfigUpdateRestInvoker(ServiceResource serviceResource, String serviceId, RestTemplate restTemplate, boolean async, String config) {
+        super(serviceResource, serviceId, restTemplate, async);
 
         this.config = config;
     }
 
     @Override
-    protected String getInfo() {
+    protected String getDescription() {
         return "Config updated";
     }
 
@@ -38,12 +35,7 @@ public class ConfigUpdateRestInvoker extends AbstractRestInvoker {
 
     @Override
     protected String doRest(String url) {
-        HttpHeaders headers = new HttpHeaders();
-        headers.setContentType(MediaType.APPLICATION_JSON_UTF8);
-
-        HttpEntity<String> entity = new HttpEntity<String>(config, headers);
-
-        return restTemplate.postForEntity(url, entity, String.class).getBody();
+        return restTemplate.postForEntity(url, getInvokeEntity(config), String.class).getBody();
     }
 
     @Override

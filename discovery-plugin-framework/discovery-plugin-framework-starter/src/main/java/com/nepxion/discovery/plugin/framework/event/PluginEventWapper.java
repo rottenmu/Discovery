@@ -66,6 +66,7 @@ public class PluginEventWapper {
 
     public void fireParameterChanged() {
         RuleEntity ruleEntity = pluginAdapter.getRule();
+
         fireParameterChanged(new ParameterChangedEvent(ruleEntity != null ? ruleEntity.getParameterEntity() : null));
     }
 

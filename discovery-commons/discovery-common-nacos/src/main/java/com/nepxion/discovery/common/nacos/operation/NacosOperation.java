@@ -11,6 +11,10 @@ package com.nepxion.discovery.common.nacos.operation;
 
 import java.util.concurrent.Executor;
 
+import org.apache.commons.lang3.StringUtils;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+import org.springframework.beans.factory.DisposableBean;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.env.Environment;
 
@@ -19,7 +23,9 @@ import com.alibaba.nacos.api.config.listener.Listener;
 import com.alibaba.nacos.api.exception.NacosException;
 import com.nepxion.discovery.common.nacos.constant.NacosConstant;
 
-public class NacosOperation {
+public class NacosOperation implements DisposableBean {
+    private static final Logger LOG = LoggerFactory.getLogger(NacosOperation.class);
+
     @Autowired
     private ConfigService nacosConfigService;
 
@@ -27,9 +33,12 @@ public class NacosOperation {
     private Environment environment;
 
     public String getConfig(String group, String serviceId) throws NacosException {
-        long timeout = environment.getProperty(NacosConstant.NACOS_PLUGIN_TIMEOUT, Long.class, NacosConstant.NACOS_PLUGIN_DEFAULT_TIMEOUT);
+        String timeout = environment.getProperty(NacosConstant.NACOS_PLUGIN_TIMEOUT);
+        if (StringUtils.isEmpty(timeout)) {
+            timeout = environment.getProperty(NacosConstant.SPRING_CLOUD_NACOS_CONFIG_TIMEOUT);
+        }
 
-        return nacosConfigService.getConfig(serviceId, group, timeout);
+        return nacosConfigService.getConfig(serviceId, group, StringUtils.isNotEmpty(timeout) ? Long.valueOf(timeout) : NacosConstant.NACOS_DEFAULT_TIMEOUT);
     }
 
     public boolean removeConfig(String group, String serviceId) throws NacosException {
@@ -41,7 +50,7 @@ public class NacosOperation {
     }
 
     public Listener subscribeConfig(String group, String serviceId, Executor executor, NacosSubscribeCallback nacosSubscribeCallback) throws NacosException {
-        Listener configListener = new Listener() {
+        Listener listener = new Listener() {
             @Override
             public void receiveConfigInfo(String config) {
                 nacosSubscribeCallback.callback(config);
@@ -53,12 +62,19 @@ public class NacosOperation {
             }
         };
 
-        nacosConfigService.addListener(serviceId, group, configListener);
+        nacosConfigService.addListener(serviceId, group, listener);
 
-        return configListener;
+        return listener;
     }
 
-    public void unsubscribeConfig(String group, String serviceId, Listener configListener) {
-        nacosConfigService.removeListener(serviceId, group, configListener);
+    public void unsubscribeConfig(String group, String serviceId, Listener listener) {
+        nacosConfigService.removeListener(serviceId, group, listener);
+    }
+
+    @Override
+    public void destroy() throws Exception {
+        nacosConfigService.shutDown();
+
+        LOG.info("Shutting down Nacos config service...");
     }
 }

@@ -9,42 +9,35 @@ package com.nepxion.discovery.console.rest;
  * @version 1.0
  */
 
-import java.util.List;
-
 import org.apache.commons.lang3.StringUtils;
-import org.springframework.cloud.client.ServiceInstance;
 import org.springframework.web.client.RestTemplate;
 
+import com.nepxion.discovery.console.entity.SentinelRuleType;
+import com.nepxion.discovery.console.resource.ServiceResource;
+
 public class SentinelClearRestInvoker extends AbstractRestInvoker {
-    private String type;
+    private SentinelRuleType ruleType;
 
-    public SentinelClearRestInvoker(List<ServiceInstance> instances, RestTemplate restTemplate, String type) {
-        super(instances, restTemplate);
+    public SentinelClearRestInvoker(ServiceResource serviceResource, String serviceId, RestTemplate restTemplate, SentinelRuleType ruleType) {
+        super(serviceResource, serviceId, restTemplate);
 
-        this.type = type.trim();
+        this.ruleType = ruleType;
     }
 
     @Override
-    protected String getInfo() {
+    protected String getDescription() {
         return "Sentinel rules cleared";
     }
 
     @Override
     protected String getSuffixPath() {
-        return getPrefixPath(type) + "/clear-" + type + "-rules";
+        String path = StringUtils.equals(ruleType.toString(), "param-flow") ? "sentinel-param" : "sentinel-core";
+
+        return path + "/clear-" + ruleType + "-rules";
     }
 
     @Override
     protected String doRest(String url) {
         return restTemplate.postForEntity(url, null, String.class).getBody();
-    }
-
-    @Override
-    protected void checkPermission(ServiceInstance instance) throws Exception {
-        checkConfigRestControlPermission(instance);
-    }
-
-    private String getPrefixPath(String type) {
-        return StringUtils.equals(type, "param-flow") ? "sentinel-param" : "sentinel-core";
     }
 }

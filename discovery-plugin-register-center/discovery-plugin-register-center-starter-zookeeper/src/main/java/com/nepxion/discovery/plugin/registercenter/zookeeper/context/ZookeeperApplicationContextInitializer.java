@@ -65,6 +65,11 @@ public class ZookeeperApplicationContextInitializer extends PluginApplicationCon
             metadata.put(DiscoveryMetaDataConstant.SPRING_BOOT_VERSION, SpringBootVersion.getVersion());
             metadata.put(DiscoveryMetaDataConstant.SPRING_APPLICATION_NAME, PluginContextAware.getApplicationName(environment));
             metadata.put(DiscoveryMetaDataConstant.SPRING_APPLICATION_TYPE, PluginContextAware.getApplicationType(environment));
+            String applicationGatewayType = PluginContextAware.getApplicationGatewayType(environment);
+            if (StringUtils.isNotEmpty(applicationGatewayType)) {
+                metadata.put(DiscoveryMetaDataConstant.SPRING_APPLICATION_GATEWAY_TYPE, applicationGatewayType);
+            }
+            metadata.put(DiscoveryMetaDataConstant.SPRING_APPLICATION_PROTOCOL, PluginContextAware.getApplicationProtocol(environment));
             metadata.put(DiscoveryMetaDataConstant.SPRING_APPLICATION_UUID, PluginContextAware.getApplicationUUId(environment));
             metadata.put(DiscoveryMetaDataConstant.SPRING_APPLICATION_DISCOVERY_PLUGIN, ZookeeperConstant.ZOOKEEPER_TYPE);
             metadata.put(DiscoveryMetaDataConstant.SPRING_APPLICATION_DISCOVERY_VERSION, DiscoveryConstant.DISCOVERY_VERSION);
@@ -85,7 +90,7 @@ public class ZookeeperApplicationContextInitializer extends PluginApplicationCon
 
             }
 
-            MetadataUtil.filter(metadata);
+            MetadataUtil.filter(metadata, environment);
 
             return bean;
         } else {

@@ -1,12 +1,6 @@
 {
 	"properties": [
 		{
-			"name": "spring.application.strategy.control.enabled",
-			"type": "java.lang.Boolean",
-			"defaultValue": true,
-			"description": "Whether strategy control is enabled."
-		},
-		{
 			"name": "spring.application.strategy.zone.avoidance.rule.enabled",
 			"type": "java.lang.Boolean",
 			"defaultValue": true,
@@ -59,6 +53,46 @@
 			"type": "java.lang.Boolean",
 			"defaultValue": false,
 			"description": "Whether strategy version prefer is enabled."
+		},
+		{
+			"name": "spring.application.strategy.rest.intercept.enabled",
+			"type": "java.lang.String",
+			"defaultValue": true,
+			"description": "Whether strategy rest intercept is enabled."
+		},
+		{
+			"name": "spring.application.strategy.rest.intercept.debug.enabled",
+			"type": "java.lang.Boolean",
+			"defaultValue": false,
+			"description": "Whether strategy rest intercept debug is enabled."
+		},
+		{
+			"name": "spring.application.strategy.feign.core.header.transmission.enabled",
+			"type": "java.lang.Boolean",
+			"defaultValue": true,
+			"description": "Whether strategy feign core header transmission is enabled."
+		},
+		{
+			"name": "spring.application.strategy.rest.template.core.header.transmission.enabled",
+			"type": "java.lang.Boolean",
+			"defaultValue": true,
+			"description": "Whether strategy rest template core header transmission is enabled."
+		},
+		{
+			"name": "spring.application.strategy.web.client.core.header.transmission.enabled",
+			"type": "java.lang.Boolean",
+			"defaultValue": true,
+			"description": "Whether strategy web client core header transmission is enabled."
+		},
+		{
+			"name": "spring.application.strategy.context.request.headers",
+			"type": "java.lang.String",
+			"description": "Strategy context request headers."
+		},
+		{
+			"name": "spring.application.strategy.business.request.headers",
+			"type": "java.lang.String",
+			"description": "Strategy business request headers."
 		},
 		{
 			"name": "spring.application.strategy.monitor.enabled",
@@ -118,13 +152,37 @@
 			"name": "spring.application.strategy.tracer.span.value",
 			"type": "java.lang.String",
 			"defaultValue": "NEPXION",
-			"description": "Strategy tracer span group value."
+			"description": "Strategy tracer span value."
 		},
 		{
 			"name": "spring.application.strategy.tracer.span.tag.plugin.value",
 			"type": "java.lang.String",
 			"defaultValue": "Nepxion Discovery",
-			"description": "Strategy tracer span group tag plugin value."
+			"description": "Strategy tracer span tag plugin value."
+		},
+		{
+			"name": "spring.application.strategy.alarm.enabled",
+			"type": "java.lang.Boolean",
+			"defaultValue": false,
+			"description": "Whether strategy alarm is enabled."
+		},
+		{
+			"name": "spring.application.strategy.auto.scan.packages.enabled",
+			"type": "java.lang.Boolean",
+			"defaultValue": true,
+			"description": "Whether strategy auto scan packages is enabled."
+		},
+		{
+			"name": "spring.application.strategy.auto.scan.recursion.enabled",
+			"type": "java.lang.Boolean",
+			"defaultValue": false,
+			"description": "Whether strategy auto scan recursion is enabled."
+		},
+		{
+			"name": "spring.application.strategy.dynamic.route.group",
+			"type": "java.lang.String",
+			"defaultValue": "nepxion",
+			"description": "Strategy dynamic route group."
 		}
 	]
 }

@@ -11,7 +11,7 @@
     <parent>
         <groupId>com.nepxion</groupId>
         <artifactId>discovery-springcloud-examples</artifactId>
-        <version>6.6.0-SNAPSHOT</version>
+        <version>6.11.0-SNAPSHOT</version>
     </parent>
 
     <properties>
@@ -47,6 +47,11 @@
             <!-- <artifactId>discovery-plugin-config-center-starter-zookeeper</artifactId> -->
             <!-- <artifactId>discovery-plugin-config-center-starter-consul</artifactId> -->
             <!-- <artifactId>discovery-plugin-config-center-starter-etcd</artifactId> -->
+        </dependency>
+
+        <dependency>
+            <groupId>com.nepxion</groupId>
+            <artifactId>discovery-plugin-admin-center-starter</artifactId>
         </dependency>
 
         <dependency>

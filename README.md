@@ -1,29 +1,39 @@
-[^_^]: ![](http://nepxion.gitee.io/docs/discovery-doc/Cover.jpg)
+[^_^]: ![](http://nepxion.gitee.io/discovery/docs/discovery-doc/Cover.jpg)
 
-![](http://nepxion.gitee.io/docs/discovery-doc/Banner.png)
+![](http://nepxion.gitee.io/discovery/docs/discovery-doc/Banner.png)
 
 # Discovery【探索】微服务企业级解决方案
-[![Total lines](https://tokei.rs/b1/github/Nepxion/Discovery?category=lines)](https://tokei.rs/b1/github/Nepxion/Discovery?category=lines)  [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg?label=license)](https://github.com/Nepxion/Discovery/blob/master/LICENSE)  [![Maven Central](https://img.shields.io/maven-central/v/com.nepxion/discovery.svg?label=maven%20central)](https://search.maven.org/artifact/com.nepxion/discovery)  [![Javadocs](http://www.javadoc.io/badge/com.nepxion/discovery-plugin-framework-starter.svg)](http://www.javadoc.io/doc/com.nepxion/discovery-plugin-framework-starter)  [![Build Status](https://travis-ci.org/Nepxion/Discovery.svg?branch=master)](https://travis-ci.org/Nepxion/Discovery)  [![Codacy Badge](https://api.codacy.com/project/badge/Grade/8e39a24e1be740c58b83fb81763ba317)](https://www.codacy.com/project/HaojunRen/Discovery/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Nepxion/Discovery&amp;utm_campaign=Badge_Grade_Dashboard)  [![Stars](https://img.shields.io/github/stars/Nepxion/Discovery.svg?label=Stars&tyle=flat&logo=GitHub)](https://github.com/Nepxion/Discovery/stargazers)  [![Stars](https://gitee.com/Nepxion/Discovery/badge/star.svg)](https://gitee.com/nepxion/Discovery/stargazers)
+[![Total lines](https://tokei.rs/b1/github/Nepxion/Discovery?category=lines)](https://tokei.rs/b1/github/Nepxion/Discovery?category=lines)  [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg?label=license)](https://github.com/Nepxion/Discovery/blob/6.x.x/LICENSE)  [![Maven Central](https://img.shields.io/maven-central/v/com.nepxion/discovery.svg?label=maven%20central)](https://search.maven.org/artifact/com.nepxion/discovery)  [![Javadocs](http://www.javadoc.io/badge/com.nepxion/discovery-plugin-framework-starter.svg)](http://www.javadoc.io/doc/com.nepxion/discovery-plugin-framework-starter)  [![Build Status](https://travis-ci.org/Nepxion/Discovery.svg?branch=6.x.x)](https://travis-ci.org/Nepxion/Discovery)  [![Codacy Badge](https://api.codacy.com/project/badge/Grade/8e39a24e1be740c58b83fb81763ba317)](https://www.codacy.com/project/HaojunRen/Discovery/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Nepxion/Discovery&amp;utm_campaign=Badge_Grade_Dashboard)  [![Stars](https://img.shields.io/github/stars/Nepxion/Discovery.svg?label=Stars&tyle=flat&logo=GitHub)](https://github.com/Nepxion/Discovery/stargazers)  [![Stars](https://gitee.com/Nepxion/Discovery/badge/star.svg?theme=gvp)](https://gitee.com/nepxion/Discovery/stargazers)
 
 [![Spring Boot](https://img.shields.io/maven-central/v/org.springframework.boot/spring-boot-dependencies.svg?label=Spring%20Boot&logo=Spring)](https://search.maven.org/artifact/org.springframework.boot/spring-boot-dependencies)  [![Spring Cloud](https://img.shields.io/maven-central/v/org.springframework.cloud/spring-cloud-dependencies.svg?label=Spring%20Cloud&logo=Spring)](https://search.maven.org/artifact/org.springframework.cloud/spring-cloud-dependencies)  [![Spring Cloud Alibaba](https://img.shields.io/maven-central/v/com.alibaba.cloud/spring-cloud-alibaba-dependencies.svg?label=Spring%20Cloud%20Alibaba&logo=Spring)](https://search.maven.org/artifact/com.alibaba.cloud/spring-cloud-alibaba-dependencies)  [![Nepxion Discovery](https://img.shields.io/maven-central/v/com.nepxion/discovery.svg?label=Nepxion%20Discovery&logo=Anaconda)](https://search.maven.org/artifact/com.nepxion/discovery)
 
-[![Discovery DOC PPT](https://img.shields.io/badge/Discovery%20Doc-PPT-brightgreen?logo=Microsoft%20PowerPoint)](http://nepxion.gitee.io/docs/link-doc/discovery-ppt.html)  [![Discovery DOC PDF](https://img.shields.io/badge/Discovery%20Doc-PDF-brightgreen?logo=Adobe%20Acrobat%20Reader)](http://nepxion.gitee.io/docs/link-doc/discovery-pdf.html)  [![Discovery DOC HTML](https://img.shields.io/badge/Discovery%20Doc-HTML-brightgreen?logo=Microsoft%20Edge)](http://nepxion.gitee.io/docs/link-doc/discovery-html.html)
+[![Discovery DOC PPT](https://img.shields.io/badge/Discovery%20Doc-PPT-brightgreen?logo=Microsoft%20PowerPoint)](http://nepxion.gitee.io/discovery/docs/link-doc/discovery-ppt.html)  [![Discovery DOC PDF](https://img.shields.io/badge/Discovery%20Doc-PDF-brightgreen?logo=Adobe%20Acrobat%20Reader)](http://nepxion.gitee.io/discovery/docs/link-doc/discovery-pdf.html)  [![Discovery DOC HTML](https://img.shields.io/badge/Discovery%20Doc-HTML-brightgreen?logo=Microsoft%20Edge)](http://nepxion.gitee.io/discovery/docs/link-doc/discovery-html.html)
 
-![](http://nepxion.gitee.io/docs/icon-doc/star3.png) 如果您觉得本框架具有一定的参考价值和借鉴意义，请帮忙在页面右上角 [**Star**]
+![](http://nepxion.gitee.io/discovery/docs/icon-doc/star3.png) 如果您觉得本框架具有一定的参考价值和借鉴意义，请帮忙在页面右上角 [**Star**]
 
-![](http://nepxion.gitee.io/docs/icon-doc/star1.png) 首席作者简介
+![](http://nepxion.gitee.io/discovery/docs/icon-doc/star1.png) 首席作者简介
 - Nepxion开源社区创始人
 - 2020年阿里巴巴中国云原生峰会出品人
+- 2021年阿里巴巴技术峰会上海站演讲嘉宾
+- 2021年荣获陆奇博士主持的奇绩资本，进行风险投资的关注和调研
+- 2021年入选Gitee最有价值开源项目
 - Nacos Group Member、Spring Cloud Alibaba Member
 - Spring Cloud Alibaba、Nacos、Sentinel、OpenTracing Committer & Contributor
 
-![](http://nepxion.gitee.io/docs/discovery-doc/Logo64.png) Discovery【探索】微服务企业级解决方案
+![](http://nepxion.gitee.io/discovery/docs/icon-doc/star2.png) 商业化合作
+- DiscoveryX（7.0.0版，支持Spring Cloud 202x版）源码，价格6888元
+- Polaris（Discovery高级版，支持Finchley版、Greenwich版、Hoxton版和Spring Cloud 202x版）源码，价格6888元
+- 添加微信1394997，通过如下微信支付相关商业费用
+
+![](http://nepxion.gitee.io/discovery/docs/zxing-doc/微信支付.jpg)
+
+![](http://nepxion.gitee.io/discovery/docs/discovery-doc/Logo64.png) Discovery【探索】微服务企业级解决方案
 
 ① Discovery【探索】微服务企业级解决方案文档
 - [Discovery【探索】微服务企业级解决方案(WIKI版)](http://nepxion.com/discovery)
-- [Discovery【探索】微服务企业级解决方案(PPT版)](http://nepxion.gitee.io/docs/link-doc/discovery-ppt.html)
-- [Discovery【探索】微服务企业级解决方案(PDF版)](http://nepxion.gitee.io/docs/link-doc/discovery-pdf.html)
-- [Discovery【探索】微服务企业级解决方案(HTML版)](http://nepxion.gitee.io/docs/link-doc/discovery-html.html)
+- [Discovery【探索】微服务企业级解决方案(PPT版)](http://nepxion.gitee.io/discovery/docs/link-doc/discovery-ppt.html)
+- [Discovery【探索】微服务企业级解决方案(PDF版)](http://nepxion.gitee.io/discovery/docs/link-doc/discovery-pdf.html)
+- [Discovery【探索】微服务企业级解决方案(HTML版)](http://nepxion.gitee.io/discovery/docs/link-doc/discovery-html.html)
 
 ② Discovery【探索】微服务企业级解决方案源码。请访问Gitee镜像获得最佳体验
 - [源码Gitee同步镜像](https://gitee.com/Nepxion/Discovery)
@@ -33,18 +43,22 @@
 - [指南Gitee同步镜像](https://gitee.com/Nepxion/DiscoveryGuide)
 - [指南Github原镜像](https://github.com/Nepxion/DiscoveryGuide)
 
-④ Discovery【探索】微服务框架指南示例说明
-- 对于入门级玩家，参考[6.x.x指南示例极简版](https://github.com/Nepxion/DiscoveryGuide/tree/6.x.x-simple)，分支为6.x.x-simple。涉及到指南篇里的蓝绿灰度发布的基本功能，![](http://nepxion.gitee.io/docs/icon-doc/information_message.png) 参考[新手快速入门](https://gitee.com/nepxion/DiscoveryGuide/blob/6.x.x-simple/GUIDE.md)
+④ Discovery【探索】微服务企业级解决方案指南示例说明
+- 对于入门级玩家，参考[6.x.x指南示例极简版](https://github.com/Nepxion/DiscoveryGuide/tree/6.x.x-simple)，分支为6.x.x-simple
 - 对于熟练级玩家，参考[6.x.x指南示例精进版](https://github.com/Nepxion/DiscoveryGuide/tree/6.x.x)，分支为6.x.x。除上述《极简版》功能外，涉及到指南篇里的绝大多数高级功能
 - 对于骨灰级玩家，参考[6.x.x指南示例高级版](https://github.com/Nepxion/DiscoveryGuide/tree/6.x.x-complex)，分支为6.x.x-complex。除上述《精进版》功能外，涉及到指南篇里的ActiveMQ、MongoDB、RabbitMQ、Redis、RocketMQ、MySQL等高级调用链和蓝绿灰度调用链的整合
 - 上述指南实例分支是针对Spring Cloud旧版本。对于Spring Cloud 202x版本，参考[202x版指南示例精进版](https://github.com/Nepxion/DiscoveryGuide/tree/master)，分支为master
 
-![](http://nepxion.gitee.io/docs/polaris-doc/Logo64.png) Polaris【北极星】企业级云原生微服务框架
+⑤ Discovery【探索】微服务企业级解决方案快速入门文档
+- [Gitee Wiki](https://gitee.com/nepxion/Discovery/wikis/pages)
+- [Github Wiki](https://github.com/Nepxion/Discovery/wiki)
+
+![](http://nepxion.gitee.io/discovery/docs/polaris-doc/Logo64.png) Polaris【北极星】企业级云原生微服务框架
 
 ① Polaris【北极星】企业级云原生微服务框架文档
 - [Polaris【北极星】企业级云原生微服务框架(WIKI版)](http://nepxion.com/polaris)
-- [Polaris【北极星】企业级云原生微服务框架(PDF版)](http://nepxion.gitee.io/docs/link-doc/polaris-pdf.html)
-- [Polaris【北极星】企业级云原生微服务框架(HTML版)](http://nepxion.gitee.io/docs/link-doc/polaris-html.html)
+- [Polaris【北极星】企业级云原生微服务框架(PDF版)](http://nepxion.gitee.io/discovery/docs/link-doc/polaris-pdf.html)
+- [Polaris【北极星】企业级云原生微服务框架(HTML版)](http://nepxion.gitee.io/discovery/docs/link-doc/polaris-html.html)
 
 ② Polaris【北极星】企业级云原生微服务框架源码。请访问Gitee镜像获得最佳体验
 - [源码Gitee同步镜像](https://gitee.com/polaris-paas/polaris-sdk)
@@ -54,38 +68,42 @@
 - [指南Gitee同步镜像](https://gitee.com/polaris-paas/polaris-guide)
 - [指南Github原镜像](https://github.com/polaris-paas/polaris-guide)
 
-![](http://nepxion.gitee.io/docs/icon-doc/Logo64.png) Discovery【探索】和Polaris【北极星】架构体系
+④ Polaris【北极星】企业级云原生微服务框架指南示例说明
+- Spring Cloud旧版本，参考[1.x.x指南示例](https://github.com/polaris-paas/polaris-guide/tree/1.x.x)，分支为1.x.x
+- Spring Cloud新版本，参考[2.x.x指南示例](https://github.com/polaris-paas/polaris-guide/tree/master)，分支为master
+
+![](http://nepxion.gitee.io/discovery/docs/icon-doc/Logo64.png) Discovery【探索】和Polaris【北极星】架构体系
 
 ① Discovery【探索】和Polaris【北极星】联合架构图
 
-![](http://nepxion.gitee.io/docs/polaris-doc/Architecture.jpg)
+![](http://nepxion.gitee.io/discovery/docs/polaris-doc/Architecture.jpg)
 
 ② Discovery【探索】和Polaris【北极星】联合拓扑图
 
-![](http://nepxion.gitee.io/docs/polaris-doc/Topology.jpg)
+![](http://nepxion.gitee.io/discovery/docs/polaris-doc/Topology.jpg)
 
 ③ Polaris【北极星】分层架构图
 
-![](http://nepxion.gitee.io/docs/polaris-doc/Layer.jpg)
+![](http://nepxion.gitee.io/discovery/docs/polaris-doc/Layer.jpg)
 
 ④ Discovery【探索】实施方案图
 
-![](http://nepxion.gitee.io/docs/polaris-doc/All.jpg)
+![](http://nepxion.gitee.io/discovery/docs/polaris-doc/All.jpg)
 
 ⑤ Discovery【探索】域网关实施图
 
-![](http://nepxion.gitee.io/docs/polaris-doc/DomainEnable.jpg)
+![](http://nepxion.gitee.io/discovery/docs/polaris-doc/DomainEnable.jpg)
 
 ⑥ Discovery【探索】非域网关实施图
 
-![](http://nepxion.gitee.io/docs/polaris-doc/DomainDisable.jpg)
+![](http://nepxion.gitee.io/discovery/docs/polaris-doc/DomainDisable.jpg)
 
 ⑦ Discovery【探索】全局订阅实施图
 
-![](http://nepxion.gitee.io/docs/polaris-doc/GlobalSub.jpg)
+![](http://nepxion.gitee.io/discovery/docs/polaris-doc/GlobalSub.jpg)
 
 ## 简介
-Discovery【探索】微服务框架，基于Spring Cloud & Spring Cloud Alibaba，Discovery服务注册发现、Ribbon负载均衡、Feign和RestTemplate调用、Spring Cloud Gateway和Zuul过滤等组件全方位增强的企业级微服务开源解决方案，更贴近企业级需求，更具有企业级的插件引入、开箱即用特征
+Discovery【探索】微服务框架，基于Spring Cloud & Spring Cloud Alibaba，Discovery服务注册发现、Ribbon & Spring Cloud LoadBalancer负载均衡、Feign & RestTemplate & WebClient调用、Spring Cloud Gateway & Zuul过滤等组件全方位增强的企业级微服务开源解决方案，更贴近企业级需求，更具有企业级的插件引入、开箱即用特征
 
 ① 微服务框架支持的基本功能，如下
 - 支持阿里巴巴Spring Cloud Alibaba中间件生态圈
@@ -98,45 +116,53 @@ Discovery【探索】微服务框架，基于Spring Cloud & Spring Cloud Alibaba
 - 支持Spring Spel解决蓝绿灰度参数的驱动逻辑
 - 支持Spring Matcher解决元数据匹配的通配逻辑
 - 支持Spring Cloud Gateway、Zuul网关和微服务三大模块的蓝绿灰度发布等一系列功能
-- 支持和兼容Spring Cloud Edgware版、Finchley版、Greenwich版和Hoxton版
+- 支持和兼容Spring Cloud Edgware版、Finchley版、Greenwich版、Hoxton版和202x版
 
-![](http://nepxion.gitee.io/docs/discovery-doc/Diagram.jpg)
+![](http://nepxion.gitee.io/discovery/docs/discovery-doc/Diagram.jpg)
 
 ② 微服务框架支持的应用功能，如下
 - 全链路蓝绿灰度发布
-  - 全链路版本、区域、 IP地址和端口匹配蓝绿发布
-  - 全链路版本、区域、 IP地址和端口权重灰度发布
-  - 全链路蓝 | 绿 | 兜底、蓝 | 兜底的蓝绿路由类型
-  - 全链路稳定、灰度的灰度路由类型
-  - 全链路网关、服务端到端混合蓝绿灰度发布
-  - 全链路域网关、非域网关部署
-  - 全链路条件驱动、非条件驱动  
-  - 全链路前端触发后端蓝绿灰度发布
-  - 全局订阅式蓝绿灰度发布
-  - 全链路自定义网关、服务的过滤器、负载均衡策略类触发蓝绿灰度发布
-  - 全链路动态变更元数据的蓝绿灰度发布
-  - 全链路Header、Parameter、Cookie、域名、RPC Method等参数化规则策略驱动
-  - 全链路本地和远程、局部和全局无参数化规则策略驱动
-  - 全链路条件表达式、通配表达式支持
-  - 全链路内置Header，支持定时Job的服务调用蓝绿灰度发布
+    - 全链路版本、区域、 IP地址和端口匹配蓝绿发布
+    - 全链路版本、区域、 IP地址和端口权重灰度发布
+    - 全链路蓝 | 绿 | 兜底、蓝 | 兜底的蓝绿路由类型
+    - 全链路稳定、灰度的灰度路由类型
+    - 全链路网关、服务端到端混合蓝绿灰度发布
+    - 全链路域网关、非域网关部署
+    - 全链路条件驱动、非条件驱动  
+    - 全链路前端触发后端蓝绿灰度发布
+    - 全局订阅式蓝绿灰度发布
+    - 全链路自定义网关、服务的过滤器、负载均衡策略类触发蓝绿灰度发布
+    - 全链路动态变更元数据的蓝绿灰度发布
+    - 全链路Header、Parameter、Cookie、域名、RPC Method等参数化规则策略驱动
+    - 全链路本地和远程、局部和全局无参数化规则策略驱动
+    - 全链路条件表达式、通配表达式支持
+    - 全链路内置Header，支持定时Job的服务调用蓝绿灰度发布
 - 全链路蓝绿灰度发布编排建模和流量侦测
-  - 全链路蓝绿发布编排建模
-  - 全链路灰度发布编排建模
-  - 全链路蓝绿发布流量侦测
-  - 全链路灰度发布流量侦测
-  - 全链路蓝绿灰度发布混合流量侦测
+    - 全链路蓝绿发布编排建模
+    - 全链路灰度发布编排建模
+    - 全链路蓝绿发布流量侦测
+    - 全链路灰度发布流量侦测
+    - 全链路蓝绿灰度发布混合流量侦测
 - 全链路蓝绿灰度发布容灾
-  - 发布失败下的版本故障转移
-  - 并行发布下的版本偏好
+    - 发布失败下的版本故障转移
+    - 并行发布下的版本偏好
 - 服务下线场景下全链路蓝绿灰度发布，实时性的流量绝对无损
-  - 全局唯一ID屏蔽
-  - IP地址和端口屏蔽
+    - 全局唯一ID屏蔽
+    - IP地址和端口屏蔽
 - 异步场景下全链路蓝绿灰度发布
-  - 异步跨线程Agent插件
-  - Hystrix线程池隔离插件
+    - 异步跨线程Agent插件
+    - Hystrix线程池隔离插件
 - 全链路数据库和消息队列蓝绿发布
-  - 基于多Datasource的数据库蓝绿发布
-  - 基于多Queue的消息队列蓝绿发布
+    - 基于多Datasource的数据库蓝绿发布
+    - 基于多Queue的消息队列蓝绿发布
+- 网关动态路由
+    - 路由动态添加
+    - 路由动态修改
+    - 路由动态删除
+    - 路由动态批量更新
+    - 路由查询
+    - 路由动态变更后的事件通知
+- 统一配置订阅执行器
 - 全链路规则策略推送
     - 基于远程配置中心的规则策略订阅推送
     - 基于Swagger和Rest的规则策略推送
@@ -190,19 +216,19 @@ Discovery【探索】微服务框架，基于Spring Cloud & Spring Cloud Alibaba
 
 ④ 微服务框架版本兼容列表，如下
 
-![](http://nepxion.gitee.io/docs/icon-doc/tip.png) 提醒：版本号右边， `↑` 表示>=该版本号， `↓` 表示<=该版本号
+![](http://nepxion.gitee.io/discovery/docs/icon-doc/tip.png) 提醒：版本号右边， `↑` 表示>=该版本号， `↓` 表示<=该版本号
 
 | 框架版本 | 框架分支 | 框架状态 | Spring Cloud版本 | Spring Boot版本 | Spring Cloud Alibaba版本 |
 | --- | --- | --- | --- | --- | --- |
-| 7.0.0 | master | ![](http://nepxion.gitee.io/docs/icon-doc/confirm_24.png) | 202x.x.x | 2.4.1 `↑` | N/A |
-| 6.5.0 | 6.x.x | ![](http://nepxion.gitee.io/docs/icon-doc/confirm_24.png) | Hoxton.SR5 `↑`<br>Hoxton<br>Greenwich<br>Finchley | 2.3.x.RELEASE<br>2.2.x.RELEASE<br>2.1.x.RELEASE<br>2.0.x.RELEASE | 2.2.x.RELEASE<br>2.2.x.RELEASE<br>2.1.x.RELEASE<br>2.0.x.RELEASE |
-| ~~5.6.0~~ | ~~5.x.x~~ | ![](http://nepxion.gitee.io/docs/icon-doc/delete_24.png) | Greenwich | 2.1.x.RELEASE | 2.1.x.RELEASE |
-| ~~4.15.0~~ | ~~4.x.x~~ | ![](http://nepxion.gitee.io/docs/icon-doc/delete_24.png) | Finchley | 2.0.x.RELEASE | 2.0.x.RELEASE |
-| 3.21.0 | 3.x.x | ![](http://nepxion.gitee.io/docs/icon-doc/arrow_up_24.png) | Edgware | 1.5.x.RELEASE | 1.5.x.RELEASE |
-| ~~2.0.x~~ | ~~2.x.x~~ | ![](http://nepxion.gitee.io/docs/icon-doc/delete_24.png) | Dalston | 1.x.x.RELEASE | 1.5.x.RELEASE |
-| ~~1.0.x~~ | ~~1.x.x~~ | ![](http://nepxion.gitee.io/docs/icon-doc/delete_24.png) | Camden | 1.x.x.RELEASE | 1.5.x.RELEASE |
+| 7.0.0<br>商业版 | master | ![](http://nepxion.gitee.io/discovery/docs/icon-doc/confirm_24.png) | 202x.x.x | 2.5.x<br>2.4.1 `↑` | 202x.x |
+| 6.10.0 | 6.x.x | ![](http://nepxion.gitee.io/discovery/docs/icon-doc/confirm_24.png) | Hoxton.SR5 `↑`<br>Hoxton<br>Greenwich<br>Finchley | 2.3.x.RELEASE<br>2.2.x.RELEASE<br>2.1.x.RELEASE<br>2.0.x.RELEASE | 2.2.x.RELEASE<br>2.2.x.RELEASE<br>2.1.x.RELEASE<br>2.0.x.RELEASE |
+| ~~5.6.0~~ | ~~5.x.x~~ | ![](http://nepxion.gitee.io/discovery/docs/icon-doc/delete_24.png) | Greenwich | 2.1.x.RELEASE | 2.1.x.RELEASE |
+| ~~4.15.0~~ | ~~4.x.x~~ | ![](http://nepxion.gitee.io/discovery/docs/icon-doc/delete_24.png) | Finchley | 2.0.x.RELEASE | 2.0.x.RELEASE |
+| 3.26.0 | 3.x.x | ![](http://nepxion.gitee.io/discovery/docs/icon-doc/arrow_up_24.png) | Edgware | 1.5.x.RELEASE | 1.5.x.RELEASE |
+| ~~2.0.x~~ | ~~2.x.x~~ | ![](http://nepxion.gitee.io/discovery/docs/icon-doc/delete_24.png) | Dalston | 1.x.x.RELEASE | 1.5.x.RELEASE |
+| ~~1.0.x~~ | ~~1.x.x~~ | ![](http://nepxion.gitee.io/discovery/docs/icon-doc/delete_24.png) | Camden | 1.x.x.RELEASE | 1.5.x.RELEASE |
 
-![](http://nepxion.gitee.io/docs/icon-doc/confirm_24.png) 表示维护中 | ![](http://nepxion.gitee.io/docs/icon-doc/arrow_up_24.png) 表示不维护，但可用，强烈建议升级 | ![](http://nepxion.gitee.io/docs/icon-doc/delete_24.png) 表示不维护，不可用，已废弃
+![](http://nepxion.gitee.io/discovery/docs/icon-doc/confirm_24.png) 表示维护中 | ![](http://nepxion.gitee.io/discovery/docs/icon-doc/arrow_up_24.png) 表示不维护，但可用，强烈建议升级 | ![](http://nepxion.gitee.io/discovery/docs/icon-doc/delete_24.png) 表示不维护，不可用，已废弃
 
 - 7.x.x版本（适用于202x.x.x）将继续维护
 - 6.x.x版本（同时适用于Finchley、Greenwich和Hoxton）将继续维护
@@ -212,169 +238,234 @@ Discovery【探索】微服务框架，基于Spring Cloud & Spring Cloud Alibaba
 - 2.x.x版本（适用于Dalston）已废弃
 - 1.x.x版本（适用于Camden）已废弃
 
+⑤ 相关中间件版本列表，如下
+
+| 组件类型 | 组件版本 |
+| --- | --- |
+| 基础组件 | [![Guava](https://img.shields.io/maven-central/v/com.google.guava/guava.svg?label=Guava)](https://search.maven.org/artifact/com.google.guava/guava)<br>[![Caffeine](https://img.shields.io/maven-central/v/com.github.ben-manes.caffeine/caffeine.svg?label=Caffeine)](https://search.maven.org/artifact/com.github.ben-manes.caffeine/caffeine)<br>[![Dom4J](https://img.shields.io/maven-central/v/org.dom4j/dom4j.svg?label=Dom4J)](https://search.maven.org/artifact/org.dom4j/dom4j)<br>[![Swagger](https://img.shields.io/maven-central/v/io.swagger/swagger-models?label=Swagger)](https://search.maven.org/artifact/io.swagger/swagger-models)<br>[![Swagger](https://img.shields.io/maven-central/v/io.springfox/springfox-swagger2?label=SpringFox%20Swagger)](https://search.maven.org/artifact/io.springfox/springfox-swagger2) |
+| 注册配置组件 | [![Apollo](https://img.shields.io/maven-central/v/com.ctrip.framework.apollo/apollo-client.svg?label=Apollo)](https://search.maven.org/artifact/com.ctrip.framework.apollo/apollo-client)<br>[![Zookeeper Curator](https://img.shields.io/maven-central/v/org.apache.curator/curator-framework.svg?label=Zookeeper%20Curator)](https://search.maven.org/artifact/org.apache.curator/curator-framework)<br>[![Consul](https://img.shields.io/maven-central/v/com.ecwid.consul/consul-api.svg?label=Consul)](https://search.maven.org/artifact/com.ecwid.consul/consul-api)<br>[![JEtcd](https://img.shields.io/maven-central/v/io.etcd/jetcd-core.svg?label=JEtcd)](https://search.maven.org/artifact/io.etcd/jetcd-core)<br>[![Nacos](https://img.shields.io/maven-central/v/com.alibaba.nacos/nacos-client.svg?label=Nacos)](https://search.maven.org/artifact/com.alibaba.nacos/nacos-client)<br>[![Eureka](https://img.shields.io/maven-central/v/com.netflix.eureka/eureka-client.svg?label=Eureka)](https://search.maven.org/artifact/com.netflix.eureka/eureka-client)<br>[![Redis](https://img.shields.io/maven-central/v/org.springframework.data/spring-data-redis.svg?label=Redis)](https://search.maven.org/artifact/org.springframework.data/spring-data-redis) |
+| 防护组件 | [![Sentinel](https://img.shields.io/maven-central/v/com.alibaba.csp/sentinel-core.svg?label=Sentinel)](https://search.maven.org/artifact/com.alibaba.csp/sentinel-core)<br>[![Hystrix](https://img.shields.io/maven-central/v/com.netflix.hystrix/hystrix-core.svg?label=Hystrix)](https://search.maven.org/artifact/com.netflix.hystrix/hystrix-core) |
+| 监控组件 | [![OpenTelemetry](https://img.shields.io/maven-central/v/io.opentelemetry/opentelemetry-api.svg?label=OpenTelemetry)](https://search.maven.org/artifact/io.opentelemetry/opentelemetry-api)<br>[![OpenTracing](https://img.shields.io/maven-central/v/io.opentracing/opentracing-api.svg?label=OpenTracing)](https://search.maven.org/artifact/io.opentracing/opentracing-api)<br>[![OpenTracing%20Sping%20Cloud](https://img.shields.io/maven-central/v/io.opentracing.contrib/opentracing-spring-cloud-starter.svg?label=OpenTracing%20Sping%20Cloud)](https://search.maven.org/artifact/io.opentracing.contrib/opentracing-spring-cloud-starter)<br>[![OpenTracing%20Jaeger](https://img.shields.io/maven-central/v/io.opentracing.contrib/opentracing-spring-jaeger-starter.svg?label=OpenTracing%20Jaeger)](https://search.maven.org/artifact/io.opentracing.contrib/opentracing-spring-jaeger-starter)<br>[![OpenTracing%20Concurrent](https://img.shields.io/maven-central/v/io.opentracing.contrib/opentracing-concurrent.svg?label=OpenTracing%20Concurrent)](https://search.maven.org/artifact/io.opentracing.contrib/opentracing-concurrent)<br>[![SkyWalking](https://img.shields.io/maven-central/v/org.apache.skywalking/apm-toolkit-opentracing.svg?label=SkyWalking)](https://search.maven.org/artifact/org.apache.skywalking/apm-toolkit-opentracing)<br>[![Spring Boot](https://img.shields.io/maven-central/v/de.codecentric/spring-boot-admin-dependencies.svg?label=Spring%20Boot%20Admin)](https://search.maven.org/artifact/de.codecentric/spring-boot-admin-dependencies) |
+| Spring组件 | [![Alibaba Spring](https://img.shields.io/maven-central/v/com.alibaba.spring/spring-context-support.svg?label=Alibaba%20Spring)](https://search.maven.org/artifact/com.alibaba.spring/spring-context-support)<br>[![Spring Cloud](https://img.shields.io/maven-central/v/org.springframework.cloud/spring-cloud-dependencies.svg?label=Spring%20Cloud)](https://search.maven.org/artifact/org.springframework.cloud/spring-cloud-dependencies)<br>[![Spring Cloud Alibaba](https://img.shields.io/maven-central/v/com.alibaba.cloud/spring-cloud-alibaba-dependencies.svg?label=Spring%20Cloud%20Alibaba)](https://search.maven.org/artifact/com.alibaba.cloud/spring-cloud-alibaba-dependencies)<br>[![Spring Boot](https://img.shields.io/maven-central/v/org.springframework.boot/spring-boot-dependencies.svg?label=Spring%20Boot)](https://search.maven.org/artifact/org.springframework.boot/spring-boot-dependencies) |
+
+⑥ 相关仓库代码行数列表，如下
+
+| 仓库 | 代码行数 |
+| --- | --- |
+| Discovery | [![Total lines](https://tokei.rs/b1/github/Nepxion/Discovery?category=lines)](https://tokei.rs/b1/github/Nepxion/Discovery?category=lines) |
+| DiscoveryGuide | [![Total lines](https://tokei.rs/b1/github/Nepxion/DiscoveryGuide?category=lines)](https://tokei.rs/b1/github/Nepxion/DiscoveryGuide?category=lines) |
+| DiscoveryPlatform | [![Total lines](https://tokei.rs/b1/github/Nepxion/DiscoveryPlatform?category=lines)](https://tokei.rs/b1/github/Nepxion/DiscoveryPlatform?category=lines) |
+| DiscoveryAgent | [![Total lines](https://tokei.rs/b1/github/Nepxion/DiscoveryAgent?category=lines)](https://tokei.rs/b1/github/Nepxion/DiscoveryAgent?category=lines) |
+| DiscoveryUI | [![Total lines](https://tokei.rs/b1/github/Nepxion/DiscoveryUI?category=lines)](https://tokei.rs/b1/github/Nepxion/DiscoveryUI?category=lines) |
+| DiscoveryContrib | [![Total lines](https://tokei.rs/b1/github/Nepxion/DiscoveryContrib?category=lines)](https://tokei.rs/b1/github/Nepxion/DiscoveryContrib?category=lines) |
+
 ## 鸣谢
-![](http://nepxion.gitee.io/docs/icon-doc/star4.png) 郑重致谢
-- 感谢阿里巴巴中间件Nacos、Sentinel和Spring Cloud Alibaba团队，尤其是Nacos负责人@彦林、@于怀，Sentinel负责人@宿何、@子衿，Spring Cloud Alibaba负责人@小马哥、@洛夜、@亦盏的技术支持
+![](http://nepxion.gitee.io/discovery/docs/icon-doc/star4.png) 郑重致谢
+- 感谢阿里巴巴中间件Nacos、Sentinel和Spring Cloud Alibaba团队，尤其是Nacos负责人@彦林、@于怀，Sentinel负责人@宿何、@子衿，Spring Cloud Alibaba负责人@良名、@小马哥、@洛夜、@亦盏的技术支持
 - 感谢携程Apollo团队，尤其是@宋顺的技术支持
 - 感谢所有Committers和Contributors
 - 感谢所有帮忙分析和定位问题的同学
 - 感谢所有提出宝贵建议和意见的同学
 - 感谢阿里巴巴中间件Nacos和Spring Cloud Alibaba团队，纳入本框架为相关开源项目
 
-<img src="http://nepxion.gitee.io/docs/discovery-doc/AwardNacos1.jpg" alt="Nacos" width="50%"><img src="http://nepxion.gitee.io/docs/discovery-doc/AwardSCA1.jpg" alt="Spring Cloud Alibaba" width="50%">
+<img src="http://nepxion.gitee.io/discovery/docs/discovery-doc/AwardNacos1.jpg" alt="Nacos" width="50%"><img src="http://nepxion.gitee.io/discovery/docs/discovery-doc/AwardSCA1.jpg" alt="Spring Cloud Alibaba" width="50%">
 
 - 感谢支持和使用本框架的公司和企业。不完全统计，目前社区开源项目（包括本框架以及关联框架或组件）已经被如下公司使用或者调研
 
 <table>
   <tbody>
       <tr align="center">
-      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/docs/logo-doc/华为.png"></td>
-      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/docs/logo-doc/腾讯.png"></td>
-      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/docs/logo-doc/京东.png"></td>
-      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/docs/logo-doc/顺丰.png"></td>
-      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/docs/logo-doc/中国移动.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/华为.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/腾讯.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/京东.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/顺丰.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/中国移动.png"></td>
     </tr>
     <tr align="center">
-      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/docs/logo-doc/平安银行.png"></td>
-      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/docs/logo-doc/平安科技.png"></td>
-      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/docs/logo-doc/平安一账通.png"></td>
-      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/docs/logo-doc/招商银行.png"></td>
-      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/docs/logo-doc/民生银行.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/平安银行.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/平安科技.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/平安一账通.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/招商银行.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/民生银行.png"></td>
     </tr>
     <tr align="center">
-      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/docs/logo-doc/浦发银行信用卡.png"></td>
-      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/docs/logo-doc/三峡银行.png"></td>
-      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/docs/logo-doc/亿联银行.png"></td>
-      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/docs/logo-doc/中国人寿.png"></td>
-      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/docs/logo-doc/太平洋保险.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/浦发银行信用卡.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/三峡银行.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/亿联银行.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/中国人寿.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/太平洋保险.png"></td>
     </tr>
     <tr align="center">
-      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/docs/logo-doc/中国太平.png"></td>
-      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/docs/logo-doc/众安保险.png"></td>
-      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/docs/logo-doc/珍保.png"></td>
-      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/docs/logo-doc/国家电网.png"></td>
-      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/docs/logo-doc/东方航空.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/中国太平.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/众安保险.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/珍保.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/国家电网.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/东方航空.png"></td>
    </tr>
     <tr align="center">
-      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/docs/logo-doc/恒大.png"></td>
-      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/docs/logo-doc/碧桂园.png"></td>
-      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/docs/logo-doc/华住会.png"></td>
-      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/docs/logo-doc/东风汽车.png"></td>
-      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/docs/logo-doc/南瑞.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/恒大.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/碧桂园.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/华住会.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/东风汽车.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/南瑞.png"></td>
     </tr>
     <tr align="center">
-      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/docs/logo-doc/宇信.png"></td>
-      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/docs/logo-doc/蔷薇.png"></td>
-      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/docs/logo-doc/掌门.png"></td>
-      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/docs/logo-doc/跟谁学.png"></td>
-      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/docs/logo-doc/瑞幸.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/宇信.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/蔷薇.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/掌门.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/跟谁学.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/瑞幸.png"></td>
     </tr>
     <tr align="center">
-      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/docs/logo-doc/城家.png"></td>
-      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/docs/logo-doc/海尔.png"></td>
-      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/docs/logo-doc/三七互娱.png"></td>
-      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/docs/logo-doc/诺亚财富.png"></td>
-      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/docs/logo-doc/快盈.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/城家.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/海尔.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/三七互娱.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/诺亚财富.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/快盈.png"></td>
      </tr>
     <tr align="center">
-      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/docs/logo-doc/喜马拉雅.png"></td>
-      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/docs/logo-doc/微鲸.png"></td>
-      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/docs/logo-doc/东华软件.png"></td>
-      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/docs/logo-doc/捷顺.png"></td>
-      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/docs/logo-doc/御家汇.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/喜马拉雅.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/微鲸.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/东华软件.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/捷顺.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/御家汇.png"></td>
     </tr>
     <tr align="center">
-      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/docs/logo-doc/融都.png"></td>
-      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/docs/logo-doc/天阙.png"></td>
-      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/docs/logo-doc/惠借.png"></td>
-      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/docs/logo-doc/新云网.png"></td>
-      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/docs/logo-doc/毅德零空.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/融都.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/天阙.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/惠借.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/新云网.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/毅德零空.png"></td>
     </tr>
     <tr align="center">
-      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/docs/logo-doc/软通动力.png"></td>
-      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/docs/logo-doc/冰鉴.png"></td>
-      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/docs/logo-doc/轻舟.png"></td>
-      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/docs/logo-doc/数梦工场.png"></td>
-      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/docs/logo-doc/星艺装饰.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/软通动力.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/冰鉴.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/轻舟.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/数梦工场.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/星艺装饰.png"></td>
     </tr>
     <tr align="center">
-      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/docs/logo-doc/青客.png"></td>
-      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/docs/logo-doc/顶昂.png"></td>
-      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/docs/logo-doc/卖客星球.png"></td>
-      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/docs/logo-doc/思必驰.png"></td>
-      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/docs/logo-doc/弘人.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/青客.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/顶昂.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/卖客星球.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/思必驰.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/弘人.png"></td>
     </tr>
     <tr align="center">
-      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/docs/logo-doc/依威能源.png"></td>
-      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/docs/logo-doc/伯乔.png"></td>
-      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/docs/logo-doc/创软.png"></td>
-      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/docs/logo-doc/颐尔信.png"></td>
-      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/docs/logo-doc/炫贵.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/依威能源.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/伯乔.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/创软.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/颐尔信.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/炫贵.png"></td>
     </tr>
     <tr align="center">
-      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/docs/logo-doc/明略.png"></td>
-      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/docs/logo-doc/必胜道.png">
-      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/docs/logo-doc/中交兴路.png"></td>
-      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/docs/logo-doc/太谷电力.png"></td>
-      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/docs/logo-doc/小电.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/明略.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/必胜道.png">
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/中交兴路.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/太谷电力.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/小电.png"></td>
     </tr>
     <tr align="center">
-      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/docs/logo-doc/学海.png"></td>
-      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/docs/logo-doc/资云同商.png"></td>
-      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/docs/logo-doc/巨玩.png"></td>
-      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/docs/logo-doc/吾享.png"></td>
-      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/docs/logo-doc/风影.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/学海.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/资云同商.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/巨玩.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/吾享.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/风影.png"></td>
     </tr>
     <tr align="center">
-      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/docs/logo-doc/云帐房.png"></td>
-      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/docs/logo-doc/壹站.png"></td>
-      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/docs/logo-doc/蓝蜂.png"></td>
-      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/docs/logo-doc/智慧校园.png"></td>
-      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/docs/logo-doc/睿住.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/云帐房.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/壹站.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/蓝蜂.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/智慧校园.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/睿住.png"></td>
     </tr>
     <tr align="center">
-      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/docs/logo-doc/天音.png"></td>
-      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/docs/logo-doc/药链.png"></td>
-      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/docs/logo-doc/琢创.png"></td>
-      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/docs/logo-doc/悟空丰运.png"></td>
-      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/docs/logo-doc/思派.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/天音.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/药链.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/琢创.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/悟空丰运.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/思派.png"></td>
     </tr>
     <tr align="center">
-      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/docs/logo-doc/手心美业.png"></td>
-      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/docs/logo-doc/神州商龙.png"></td>
-      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/docs/logo-doc/润民.png"></td>
-      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/docs/logo-doc/鑫安利中.png"></td>
-      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/docs/logo-doc/橙单.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/手心美业.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/神州商龙.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/润民.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/鑫安利中.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/橙单.png"></td>
     </tr>
     <tr align="center">
-      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/docs/logo-doc/万达信息.png"></td>
-      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/docs/logo-doc/百世快递.png"></td>
-      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/docs/logo-doc/贝壳找房.png"></td>
-      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/docs/logo-doc/KK直播.png"></td>
-      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/docs/logo-doc/雪球科技.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/万达信息.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/百世快递.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/贝壳找房.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/KK直播.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/雪球科技.png"></td>
     </tr>
     <tr align="center">
-      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/docs/logo-doc/中商惠民.png"></td>
-      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/docs/logo-doc/果果乐学.png"></td>
-      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/docs/logo-doc/林氏木业.png"></td>
-      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/docs/logo-doc/蓝亮.png"></td>
-      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/docs/logo-doc/吹星屯.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/中商惠民.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/果果乐学.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/林氏木业.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/兰亮.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/吹星屯.png"></td>
     </tr>
     <tr align="center">
-      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/docs/logo-doc/诺基亚.png"></td>
-      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/docs/logo-doc/中科云谷.png"></td>
-      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/docs/logo-doc/希捷速必达.png"></td>
-      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/docs/logo-doc/趣淘鲸.png"></td>
-      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/docs/logo-doc/创迹.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/诺基亚.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/中科云谷.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/希捷速必达.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/趣淘鲸.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/创迹.png"></td>
+    </tr>
+    <tr align="center">
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/联想.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/物易云通.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/翡翠东方.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/爱纷美.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/保险极客.png"></td>
+    </tr>
+    <tr align="center">
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/遨游酒店.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/艾科智泊.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/车电网.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/菲森科技.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/筑网科技.png"></td>
+    </tr>
+    <tr align="center">
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/中科曙光.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/博智林机器人.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/欣和企业.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/阿优.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/汇元.png"></td>
+    </tr>
+    <tr align="center">
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/中国联通.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/中国透云.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/天九共享.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/十二度精密技术.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/远迈.png"></td>
+    </tr>
+    <tr align="center">
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/国家电投.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/正丁云商.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/乐摇摇.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/中航讯.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/知视科技.png"></td>
+    </tr>
+    <tr align="center">
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/浙商证券.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/遥望.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/老来网.png"></td>
+      <td width="20%"><img style="max-height:75%;max-width:75%;" src="http://nepxion.gitee.io/discovery/docs/logo-doc/万邑通.png"></td>
+      <td width="20%"></td>
     </tr>
   </tbody>
 </table>
 
-![](http://nepxion.gitee.io/docs/icon-doc/edit_32.png) 为提供更好的专业级服务，请更多已经使用本框架的公司和企业联系我，并希望在[Github Issues](https://github.com/Nepxion/Discovery/issues/56)上登记
+![](http://nepxion.gitee.io/discovery/docs/icon-doc/edit_32.png) 为提供更好的专业级服务，请更多已经使用本框架的公司和企业联系我，并希望在[Github Issues](https://github.com/Nepxion/Discovery/issues/56)上登记
 
-![](http://nepxion.gitee.io/docs/icon-doc/chart_bar_32.png) 某大型互联网教育公司在生产环境全套接入Nepxion Discovery框架的服务实例数截至到2020年12月已达到2600个
+![](http://nepxion.gitee.io/discovery/docs/icon-doc/chart_bar_32.png) 某大型银行信用卡新核心系统在生产环境接入Nepxion Discovery框架的服务实例数（包括异地双活，同城双活，多机房全部汇总）将近10000个
 
-<img src="http://nepxion.gitee.io/docs/discovery-doc/Result.jpg" width="150"/>
+![](http://nepxion.gitee.io/discovery/docs/icon-doc/chart_bar_32.png) 某大型互联网教育公司在生产环境接入Nepxion Discovery框架的服务实例数截至到2021年2月已达到2600多个，基本接入完毕
+
+<img src="http://nepxion.gitee.io/discovery/docs/discovery-doc/Result.jpg"/>
 
 ## 目录
 - [简介](#简介)
@@ -385,15 +476,20 @@ Discovery【探索】微服务框架，基于Spring Cloud & Spring Cloud Alibaba
     - [发布主页](#发布主页)
     - [指南主页](#指南主页)
     - [文档主页](#文档主页)
-    - [贡献主页](#贡献主页)	
+    - [贡献主页](#贡献主页)
+    - [入门主页](#入门主页)
 - [工程架构](#工程架构)
     - [工程清单](#工程清单)
     - [架构核心](#架构核心)
-    - [依赖引入](#依赖引入)	
+    - [依赖引入](#依赖引入)
 - [准备工作](#准备工作)
     - [环境搭建](#环境搭建)
     - [启动服务](#启动服务)
     - [环境验证](#环境验证)
+- [蓝绿灰度发布概念](#蓝绿灰度发布概念)
+    - [蓝绿发布](#蓝绿发布)
+    - [灰度发布](#灰度发布)
+    - [滚动发布](#滚动发布)
 - [全链路蓝绿灰度发布](#全链路蓝绿灰度发布)
     - [全链路蓝绿发布](#全链路蓝绿发布)
         - [全链路版本匹配蓝绿发布](#全链路版本匹配蓝绿发布)
@@ -445,6 +541,11 @@ Discovery【探索】微服务框架，基于Spring Cloud & Spring Cloud Alibaba
         - [异步跨线程DiscoveryAgent扩展](#异步跨线程DiscoveryAgent扩展)
     - [异步场景下Hystrix线程池隔离解决方案](#异步场景下Hystrix线程池隔离解决方案)
 - [全链路数据库和消息队列蓝绿发布](#全链路数据库和消息队列蓝绿发布)
+- [网关动态路由](#网关动态路由)
+    - [网关动态路由接入](#网关动态路由接入)
+    - [Spring-Cloud-Gateway网关动态路由](#Spring-Cloud-Gateway网关动态路由)
+    - [Zuul网关动态路由](#Zuul网关动态路由)
+- [统一配置订阅执行器](#统一配置订阅执行器)
 - [规则策略定义](#规则策略定义)
     - [规则策略格式定义](#规则策略格式定义)
     - [规则策略内容定义](#规则策略内容定义)
@@ -476,7 +577,7 @@ Discovery【探索】微服务框架，基于Spring Cloud & Spring Cloud Alibaba
         - [降级规则](#降级规则)
         - [授权规则](#授权规则)
         - [系统规则](#系统规则)
-        - [热点参数流控规则](#热点参数流控规则)	
+        - [热点参数流控规则](#热点参数流控规则)
     - [基于Sentinel-LimitApp扩展的防护](#基于Sentinel-LimitApp扩展的防护)
         - [基于服务名的防护](#基于服务名的防护)
         - [基于组的防护](#基于组的防护)
@@ -494,6 +595,8 @@ Discovery【探索】微服务框架，基于Spring Cloud & Spring Cloud Alibaba
         - [自定义埋点调用链监控](#自定义埋点调用链监控)
     - [全链路日志监控](#全链路日志监控)
         - [蓝绿灰度埋点日志监控](#蓝绿灰度埋点日志监控)
+    - [全链路告警监控](#全链路告警监控)
+        - [蓝绿灰度告警监控](#蓝绿灰度告警监控)
     - [全链路指标监控](#全链路指标监控)
         - [Prometheus监控](#Prometheus监控)
         - [Grafana监控](#Grafana监控)
@@ -505,6 +608,7 @@ Discovery【探索】微服务框架，基于Spring Cloud & Spring Cloud Alibaba
     - [基于服务名前缀自动创建组名](#基于服务名前缀自动创建组名)
     - [基于运维平台运行参数自动创建版本号](#基于运维平台运行参数自动创建版本号)
     - [基于用户自定义创建版本号](#基于用户自定义创建版本号)
+- [自动扫描目录](#自动扫描目录)
 - [配置文件](#配置文件)
     - [流量染色配置](#流量染色配置)
     - [中间件属性配置](#中间件属性配置)
@@ -535,7 +639,7 @@ Discovery【探索】微服务框架，基于Spring Cloud & Spring Cloud Alibaba
 ## 请联系我
 微信、钉钉、公众号和文档
 
-![](http://nepxion.gitee.io/docs/zxing-doc/微信-1.jpg)![](http://nepxion.gitee.io/docs/zxing-doc/钉钉-1.jpg)![](http://nepxion.gitee.io/docs/zxing-doc/公众号-1.jpg)![](http://nepxion.gitee.io/docs/zxing-doc/文档-1.jpg)
+![](http://nepxion.gitee.io/discovery/docs/zxing-doc/微信-1.jpg)![](http://nepxion.gitee.io/discovery/docs/zxing-doc/钉钉-1.jpg)![](http://nepxion.gitee.io/discovery/docs/zxing-doc/公众号-1.jpg)![](http://nepxion.gitee.io/discovery/docs/zxing-doc/文档-1.jpg)
 
 ## 相关链接
 
@@ -555,10 +659,9 @@ Discovery【探索】微服务框架，基于Spring Cloud & Spring Cloud Alibaba
 [Polaris指南主页](https://github.com/Nepxion/PolarisGuide)
 
 ### 文档主页
-[文档主页](https://gitee.com/Nepxion/Docs/tree/master/web-doc)
+[文档主页](https://gitee.com/Nepxion/Discovery/tree/wiki/docs/web-doc)
 
 ### 贡献主页
-
 - [Nepxion Discovery - Spring Cloud灰度发布神器](https://carlzone.blog.csdn.net/article/details/109787397)
 - [Nepxion Discovery - 灰度发布初体验](https://carlzone.blog.csdn.net/article/details/109839808)
 - [Nepxion Discovery - 项目结构简介](https://carlzone.blog.csdn.net/article/details/110183368)
@@ -573,6 +676,10 @@ Discovery【探索】微服务框架，基于Spring Cloud & Spring Cloud Alibaba
 - [Nepxion Discovery - Discovery Agent 解决异步场景线程 ThreadLocal 上下文丢失问题](https://blog.csdn.net/u012410733/article/details/111405081)
 - [Nepxion Discovery - 全链路调用链监控](https://carlzone.blog.csdn.net/article/details/111806972)
 
+### 入门主页
+- [Gitee Wiki](https://gitee.com/nepxion/Discovery/wikis/pages)
+- [Github Wiki](https://github.com/Nepxion/Discovery/wiki)
+
 ## 工程架构
 
 ### 工程清单
@@ -580,88 +687,110 @@ Discovery【探索】微服务框架，基于Spring Cloud & Spring Cloud Alibaba
 
 | 工程名 | 描述 |
 | --- | --- |
-| <img src="http://nepxion.gitee.io/docs/icon-doc/direction_south.png"> discovery-commons | 通用模块目录 |
-| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/docs/icon-doc/direction_west.png"> discovery-common | 通用模块 |
-| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/docs/icon-doc/direction_west.png"> discovery-common-apollo | 封装Apollo通用操作逻辑 |
-| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/docs/icon-doc/direction_west.png"> discovery-common-nacos | 封装Nacos通用操作逻辑 |
-| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/docs/icon-doc/direction_west.png"> discovery-common-redis | 封装Redis通用操作逻辑 |
-| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/docs/icon-doc/direction_west.png"> discovery-common-zookeeper | 封装Zookeeper通用操作逻辑 |
-| <img src="http://nepxion.gitee.io/docs/icon-doc/direction_south.png"> discovery-plugin-framework | 基本框架目录 |
-| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/docs/icon-doc/direction_west.png"> discovery-plugin-framework-starter| 基本框架的Starter |
-| <img src="http://nepxion.gitee.io/docs/icon-doc/direction_south.png"> discovery-plugin-register-center | 注册中心目录 |
-| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/docs/icon-doc/direction_west.png"> discovery-plugin-register-center-starter | 注册中心的Starter |
-| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/docs/icon-doc/direction_west.png"> discovery-plugin-register-center-starter-eureka | 注册中心的Eureka Starter |
-| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/docs/icon-doc/direction_west.png"> discovery-plugin-register-center-starter-consul | 注册中心的Consul Starter |
-| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/docs/icon-doc/direction_west.png"> discovery-plugin-register-center-starter-zookeeper | 注册中心的Zookeeper Starter |
-| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/docs/icon-doc/direction_west.png"> discovery-plugin-register-center-starter-nacos | 注册中心的Nacos Starter |
-| <img src="http://nepxion.gitee.io/docs/icon-doc/direction_south.png"> discovery-plugin-config-center | 配置中心目录 |
-| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/docs/icon-doc/direction_west.png"> discovery-plugin-config-center-starter | 配置中心的Starter |
-| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/docs/icon-doc/direction_west.png"> discovery-plugin-config-center-starter-apollo | 配置中心的Apollo Starter |
-| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/docs/icon-doc/direction_west.png"> discovery-plugin-config-center-starter-nacos | 配置中心的Nacos Starter |
-| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/docs/icon-doc/direction_west.png"> discovery-plugin-config-center-starter-redis | 配置中心的Redis Starter |
-| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/docs/icon-doc/direction_west.png"> discovery-plugin-config-center-starter-zookeeper | 配置中心的Zookeeper Starter |
-| <img src="http://nepxion.gitee.io/docs/icon-doc/direction_south.png"> discovery-plugin-admin-center | 管理中心目录 |
-| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/docs/icon-doc/direction_west.png"> discovery-plugin-admin-center-starter | 管理中心的Starter |
-| <img src="http://nepxion.gitee.io/docs/icon-doc/direction_south.png"> discovery-plugin-strategy | 路由策略目录 |
-| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/docs/icon-doc/direction_west.png"> discovery-plugin-strategy-starter | 路由策略的Starter |
-| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/docs/icon-doc/direction_west.png"> discovery-plugin-strategy-starter-service | 路由策略在微服务端的Starter |
-| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/docs/icon-doc/direction_west.png"> discovery-plugin-strategy-starter-service-sentinel | 路由策略在微服务端的Sentinel Starter |
-| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/docs/icon-doc/direction_west.png"> discovery-plugin-strategy-starter-zuul | 路由策略在Zuul网关端的Starter |
-| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/docs/icon-doc/direction_west.png"> discovery-plugin-strategy-starter-gateway | 路由策略在Spring Cloud Gateway网关端的Starter |
-| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/docs/icon-doc/direction_west.png"> discovery-plugin-strategy-starter-hystrix | 路由策略下，Hystrix做线程模式的服务隔离必须引入插件的Starter |
-| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/docs/icon-doc/direction_west.png"> discovery-plugin-strategy-starter-opentelemetry | 路由策略的OpenTelemetry调用链的Starter |
-| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/docs/icon-doc/direction_west.png"> discovery-plugin-strategy-starter-opentracing | 路由策略的OpenTracing调用链的Starter |
-| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/docs/icon-doc/direction_west.png"> discovery-plugin-strategy-starter-skywalking | 路由策略的SkyWalking调用链的Starter |
-| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/docs/icon-doc/direction_west.png"> discovery-plugin-strategy-starter-sentinel | 路由策略的Sentinel Starter |
-| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/docs/icon-doc/direction_west.png"> discovery-plugin-strategy-starter-sentinel-local | 路由策略的Sentinel Local配置订阅的Starter |
-| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/docs/icon-doc/direction_west.png"> discovery-plugin-strategy-starter-sentinel-apollo | 路由策略的Sentinel Apollo配置订阅的Starter |
-| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/docs/icon-doc/direction_west.png"> discovery-plugin-strategy-starter-sentinel-nacos | 路由策略的Sentinel Nacos配置订阅的Starter |
-| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/docs/icon-doc/direction_west.png"> discovery-plugin-strategy-starter-sentinel-monitor | 路由策略的Sentinel监控抽象的Starter |
-| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/docs/icon-doc/direction_west.png"> discovery-plugin-strategy-starter-sentinel-opentelemetry | 路由策略的Sentinel OpenTelemetry调用链的Starter |
-| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/docs/icon-doc/direction_west.png"> discovery-plugin-strategy-starter-sentinel-opentracing | 路由策略的Sentinel OpenTracing调用链的Starter |
-| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/docs/icon-doc/direction_west.png"> discovery-plugin-strategy-starter-sentinel-skywalking | 路由策略的Sentinel SkyWalking调用链的Starter |
-| <img src="http://nepxion.gitee.io/docs/icon-doc/direction_south.png"> discovery-plugin-test | 测试模块目录 |
-| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/docs/icon-doc/direction_west.png"> discovery-plugin-test-starter | 自动化测试的Starter |
-| <img src="http://nepxion.gitee.io/docs/icon-doc/direction_south.png"> discovery-console | 控制平台目录 |
-| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/docs/icon-doc/direction_west.png"> discovery-console-starter | 控制平台的starter |
-| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/docs/icon-doc/direction_west.png"> discovery-console-starter-apollo | 控制平台的Apollo Starter |
-| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/docs/icon-doc/direction_west.png"> discovery-console-starter-nacos | 控制平台的Nacos Starter |
-| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/docs/icon-doc/direction_west.png"> discovery-console-starter-redis | 控制平台的Redis Starter |
-| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/docs/icon-doc/direction_west.png"> discovery-console-starter-zookeeper | 控制平台的Zookeeper Starter |
-| <img src="http://nepxion.gitee.io/docs/icon-doc/direction_south.png"> discovery-springcloud-examples | 示例目录 |
-| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/docs/icon-doc/direction_west.png"> discovery-springcloud-example-admin | Spring Boot Admin服务台示例 |
-| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/docs/icon-doc/direction_west.png"> discovery-springcloud-example-console | 控制平台示例 |
-| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/docs/icon-doc/direction_west.png"> discovery-springcloud-example-eureka | Eureka服务器示例 |
-| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/docs/icon-doc/direction_west.png"> discovery-springcloud-example-service | 微服务示例 |
-| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/docs/icon-doc/direction_west.png"> discovery-springcloud-example-zuul | Zuul网关示例 |
-| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/docs/icon-doc/direction_west.png"> discovery-springcloud-example-gateway | Spring Cloud Gateway网关示例 |
+| <img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_south.png"> discovery-commons | 通用模块目录 |
+| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> discovery-common | 通用模块 |
+| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> discovery-common-apollo | 封装Apollo通用配置操作逻辑 |
+| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> discovery-common-nacos | 封装Nacos通用配置操作逻辑 |
+| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> discovery-common-redis | 封装Redis通用配置操作逻辑 |
+| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> discovery-common-zookeeper | 封装Zookeeper通用配置操作逻辑 |
+| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> discovery-common-consul | 封装Consul通用配置操作逻辑 |
+| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> discovery-common-etcd | 封装Etcd通用配置操作逻辑 |
+| <img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_south.png"> discovery-plugin-framework | 基本框架目录 |
+| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> discovery-plugin-framework-starter| 基本框架的Starter |
+| <img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_south.png"> discovery-plugin-register-center | 注册中心目录 |
+| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> discovery-plugin-register-center-starter | 注册中心的Starter |
+| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> discovery-plugin-register-center-starter-eureka | 注册中心的Eureka Starter |
+| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> discovery-plugin-register-center-starter-consul | 注册中心的Consul Starter |
+| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> discovery-plugin-register-center-starter-zookeeper | 注册中心的Zookeeper Starter |
+| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> discovery-plugin-register-center-starter-nacos | 注册中心的Nacos Starter |
+| <img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_south.png"> discovery-plugin-config-center | 配置中心目录 |
+| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> discovery-plugin-config-center-starter | 配置中心的Starter |
+| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> discovery-plugin-config-center-starter-apollo | 配置中心的Apollo Starter |
+| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> discovery-plugin-config-center-starter-nacos | 配置中心的Nacos Starter |
+| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> discovery-plugin-config-center-starter-redis | 配置中心的Redis Starter |
+| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> discovery-plugin-config-center-starter-zookeeper | 配置中心的Zookeeper Starter |
+| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> discovery-plugin-config-center-starter-consul | 配置中心的Consul Starter |
+| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> discovery-plugin-config-center-starter-etcd | 配置中心的Etcd Starter |
+| <img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_south.png"> discovery-plugin-admin-center | 管理中心目录 |
+| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> discovery-plugin-admin-center-starter | 管理中心的Starter |
+| <img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_south.png"> discovery-plugin-strategy | 路由策略目录 |
+| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> discovery-plugin-strategy-starter | 路由策略的Starter |
+| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> discovery-plugin-strategy-starter-service | 路由策略在微服务端的Starter |
+| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> discovery-plugin-strategy-starter-zuul | 路由策略在Zuul网关端的Starter |
+| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> discovery-plugin-strategy-starter-gateway | 路由策略在Spring Cloud Gateway网关端的Starter |
+| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> discovery-plugin-strategy-starter-hystrix | 路由策略的Hystrix线程池隔离模式插件的Starter |
+| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> discovery-plugin-strategy-starter-opentelemetry | 路由策略的OpenTelemetry调用链的Starter |
+| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> discovery-plugin-strategy-starter-opentracing | 路由策略的OpenTracing调用链的Starter |
+| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> discovery-plugin-strategy-starter-skywalking | 路由策略的SkyWalking调用链的Starter |
+| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> discovery-plugin-strategy-starter-sentinel-datasource | 路由策略的Sentinel配置中心的Starter |
+| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> discovery-plugin-strategy-starter-sentinel-limiter | 路由策略的Sentinel Limiter高级限流熔断的Starter |
+| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> discovery-plugin-strategy-starter-sentinel-monitor | 路由策略的Sentinel监控抽象的Starter |
+| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> discovery-plugin-strategy-starter-sentinel-opentelemetry | 路由策略的Sentinel OpenTelemetry调用链的Starter |
+| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> discovery-plugin-strategy-starter-sentinel-opentracing | 路由策略的Sentinel OpenTracing调用链的Starter |
+| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> discovery-plugin-strategy-starter-sentinel-skywalking | 路由策略的Sentinel SkyWalking调用链的Starter |
+| <img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_south.png"> discovery-plugin-test | 测试模块目录 |
+| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> discovery-plugin-test-starter | 自动化测试的Starter |
+| <img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_south.png"> discovery-console | 控制平台目录 |
+| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> discovery-console-starter | 控制平台的starter |
+| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> discovery-console-starter-apollo | 控制平台的Apollo Starter |
+| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> discovery-console-starter-nacos | 控制平台的Nacos Starter |
+| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> discovery-console-starter-redis | 控制平台的Redis Starter |
+| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> discovery-console-starter-zookeeper | 控制平台的Zookeeper Starter |
+| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> discovery-console-starter-consul | 控制平台的Consul Starter |
+| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> discovery-console-starter-etcd | 控制平台的Etcd Starter |
+| <img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_south.png"> discovery-springcloud-examples | 示例目录 |
+| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> discovery-springcloud-example-admin | Spring Boot Admin服务台示例 |
+| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> discovery-springcloud-example-console | 控制平台示例 |
+| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> discovery-springcloud-example-eureka | Eureka服务器示例 |
+| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> discovery-springcloud-example-service | 微服务示例 |
+| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> discovery-springcloud-example-zuul | Zuul网关示例 |
+| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> discovery-springcloud-example-gateway | Spring Cloud Gateway网关示例 |
 
-② DiscoveryAgent工程清单
-
-| 工程名 | 描述 |
-| --- | --- |
-| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/docs/icon-doc/direction_west.png"> discovery-agent-starter | 异步跨线程Agent Starter |
-| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/docs/icon-doc/direction_west.png"> discovery-agent-starter-plugin-strategy | 路由策略的异步跨线程Agent Plugin Starter |
-| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/docs/icon-doc/direction_west.png"> discovery-agent-starter-plugin-mdc | MDC日志的异步跨线程Agent Plugin Starter |
-| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/docs/icon-doc/direction_west.png"> discovery-agent-example | 异步跨线程示例 |
-
-③ DiscoveryContrib工程清单
+② DiscoveryPlatform工程清单
 
 | 工程名 | 描述 |
 | --- | --- |
-| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/docs/icon-doc/direction_west.png"> discovery-contrib-plugin-starter | 第三方非微服务范畴中间件的蓝绿灰度发布Contrib Plugin Starter |
-| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/docs/icon-doc/direction_west.png"> discovery-contrib-plugin-starter-rocketmq | RocketMQ的蓝绿灰度发布Contrib Plugin Starter |
-| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/docs/icon-doc/direction_west.png"> discovery-contrib-plugin-starter-shardingsphere | ShardingSphere日志的蓝绿灰度发布Contrib Plugin Starter |
-| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/docs/icon-doc/direction_west.png"> discovery-contrib-example | 第三方非微服务范畴中间件的蓝绿灰度发布示例 |
+| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> discovery-platform-starter-server | 控制平台服务端 Starter |
+| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> discovery-platform-starter-server-mysql | 控制平台服务端的数据库MySQL插件 Starter |
+| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> discovery-platform-starter-server-h2 | 控制平台服务端的H2插件 Starter|
+| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> discovery-platform-starter-server-ldap | 控制平台服务端的Ldap插件 Starter|
+| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> discovery-platform-starter-server-ui | 控制平台服务端界面 |
+| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> discovery-platform-starter-client | 控制平台客户端 Starter |
+| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> discovery-platform-application | 控制平台服务端可执行应用 |
+
+③ DiscoveryAgent工程清单
+
+| 工程名 | 描述 |
+| --- | --- |
+| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> discovery-agent-starter | 异步跨线程Agent Starter |
+| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> discovery-agent-starter-plugin-strategy | 路由策略的异步跨线程Agent Plugin Starter |
+| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> discovery-agent-starter-plugin-mdc | MDC日志的异步跨线程Agent Plugin Starter |
+| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> discovery-agent-example | 异步跨线程示例 |
+
+④ DiscoveryUI工程清单
+
+| 工程名 | 描述 |
+| --- | --- |
+| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> desktop | Nepxion Discovery 服务治理平台前端桌面版 |
+| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> web | Nepxion Discovery 服务治理平台前端Web版 |
+
+⑤ DiscoveryContrib工程清单
+
+| 工程名 | 描述 |
+| --- | --- |
+| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> discovery-contrib-plugin-starter | 第三方非微服务范畴中间件的蓝绿灰度发布Contrib Plugin Starter |
+| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> discovery-contrib-plugin-starter-rocketmq | RocketMQ的蓝绿灰度发布Contrib Plugin Starter |
+| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> discovery-contrib-plugin-starter-shardingsphere | ShardingSphere日志的蓝绿灰度发布Contrib Plugin Starter |
+| &nbsp;&nbsp;<img src="http://nepxion.gitee.io/discovery/docs/icon-doc/direction_west.png"> discovery-contrib-example | 第三方非微服务范畴中间件的蓝绿灰度发布示例 |
 
 ### 架构核心
 - 服务治理架构图
 
-![](http://nepxion.gitee.io/docs/discovery-doc/Govern.jpg)
+![](http://nepxion.gitee.io/discovery/docs/discovery-doc/Govern.jpg)
 
 - 模块结构图
 
-![](http://nepxion.gitee.io/docs/discovery-doc/Module.jpg)
+![](http://nepxion.gitee.io/discovery/docs/discovery-doc/Module.jpg)
 
 ### 依赖引入
 
@@ -681,7 +810,7 @@ Discovery【探索】微服务框架，基于Spring Cloud & Spring Cloud Alibaba
 
 ② 配置中心依赖引入
 
-配置中心中间件的四个插件，选择引入其中一个
+配置中心中间件的六个插件，选择引入其中一个
 ```xml
 <dependency>
     <groupId>com.nepxion</groupId>
@@ -689,6 +818,8 @@ Discovery【探索】微服务框架，基于Spring Cloud & Spring Cloud Alibaba
     <artifactId>discovery-plugin-config-center-starter-nacos</artifactId>
     <artifactId>discovery-plugin-config-center-starter-redis</artifactId>
     <artifactId>discovery-plugin-config-center-starter-zookeeper</artifactId>
+    <artifactId>discovery-plugin-config-center-starter-consul</artifactId>
+    <artifactId>discovery-plugin-config-center-starter-etcd</artifactId>
     <version>${discovery.version}</version>
 </dependency>
 ```
@@ -719,24 +850,22 @@ Discovery【探索】微服务框架，基于Spring Cloud & Spring Cloud Alibaba
 
 ⑤ 防护插件依赖引入
 
-- Sentinel防护插件。只适用于微服务端
+- Sentinel防护的数据源插件
 
 ```xml
 <dependency>
     <groupId>com.nepxion</groupId>
-    <artifactId>discovery-plugin-strategy-starter-service-sentinel</artifactId>
+    <artifactId>discovery-plugin-strategy-starter-sentinel-datasource</artifactId>
     <version>${discovery.version}</version>
 </dependency>
 ```
 
-- Sentinel防护的数据源插件，选择引入其中一个
+- Sentinel防护的Sentinel Limiter高级限流熔断插件。只适用于Servlet模式
 
 ```xml
 <dependency>
     <groupId>com.nepxion</groupId>
-    <artifactId>discovery-plugin-strategy-sentinel-starter-nacos</artifactId>
-    <artifactId>discovery-plugin-strategy-sentinel-starter-apollo</artifactId>
-    <artifactId>discovery-plugin-strategy-sentinel-starter-local</artifactId>
+    <artifactId>discovery-plugin-strategy-starter-sentinel-limiter</artifactId>
     <version>${discovery.version}</version>
 </dependency>
 ```
@@ -769,13 +898,13 @@ Discovery【探索】微服务框架，基于Spring Cloud & Spring Cloud Alibaba
 
 支持微服务端、网关Zuul端和网关Spring Cloud Gateway端，选择引入其中一个
 
-![](http://nepxion.gitee.io/docs/icon-doc/warning.png) 需要注意，该模块支持F版或更高版本
+![](http://nepxion.gitee.io/discovery/docs/icon-doc/warning.png) 需要注意，该模块支持F版或更高版本
 ```xml
 <dependency>
     <groupId>com.nepxion</groupId>
-    <artifactId>discovery-plugin-strategy-sentinel-starter-opentelemetry</artifactId>
-    <artifactId>discovery-plugin-strategy-sentinel-starter-opentracing</artifactId>
-    <artifactId>discovery-plugin-strategy-sentinel-starter-skywalking</artifactId>
+    <artifactId>discovery-plugin-strategy-starter-sentinel-opentelemetry</artifactId>
+    <artifactId>discovery-plugin-strategy-starter-sentinel-opentracing</artifactId>
+    <artifactId>discovery-plugin-strategy-starter-sentinel-skywalking</artifactId>
     <version>${discovery.version}</version>
 </dependency>
 ```
@@ -827,7 +956,7 @@ Discovery【探索】微服务框架，基于Spring Cloud & Spring Cloud Alibaba
 
 - 部署拓扑图
 
-![](http://nepxion.gitee.io/docs/discovery-doc/BasicTopology.jpg)
+![](http://nepxion.gitee.io/discovery/docs/discovery-doc/BasicTopology.jpg)
 
 全链路路径， 如下
 ```
@@ -857,11 +986,11 @@ zuul
 
 - 在Postman中多种同步和异步的调用方式，异步方式需要增加DiscoveryAgent，才能保证蓝绿发布路由调用的成功
 
-![](http://nepxion.gitee.io/docs/icon-doc/information.png) 特别提醒
+![](http://nepxion.gitee.io/discovery/docs/icon-doc/information.png) 〔Spring Cloud 202x版〕特别提醒
 
 > 对于Spring Cloud 202x版，由于它采用的负载均衡Spring Cloud LoadBalancer是基于异步的WebFlux，所以必须加上DiscoveryAgent，如下方式
 
-> -javaagent:C:/opt/discovery-agent/discovery-agent-starter-${discovery.agent.version}.jar -Dthread.scan.packages=reactor.core.publisher
+> -javaagent:C:/opt/discovery-agent/discovery-agent-starter-${discovery.agent.version}.jar
 
 | URL | 调用方式 |
 | --- | --- |
@@ -872,6 +1001,62 @@ zuul
 
 - 上述步骤在下面每次更改规则策略的时候执行，并验证结果和规则策略的期望值是否相同
 
+## 蓝绿灰度发布概念
+
+### 蓝绿发布
+
+蓝绿发布 Blue-Green Deployment
+
+① 概念
+
+不停机旧版本，部署新版本，通过用户标记将流量在新版本和老版本切换，属无损发布
+
+② 优点
+
+新版本升级和老版本回滚迅速。用户可以灵活控制流量走向
+
+③ 缺点
+
+成本较高，需要部署两套环境（蓝/绿）。新版本出现问题，切换不及时，会造成大面积故障
+
+![](http://nepxion.gitee.io/discovery/docs/discovery-doc/BlueGreenConcept.jpg)
+
+### 灰度发布
+
+灰度发布 Gray Release（又名金丝雀发布 Canary Release）
+
+① 概念
+
+不停机旧版本，部署新版本，低比例流量（例如：5%）切换到新版本，高比例流量（例如：95%）走旧版本，通过监控观察无问题，逐步扩大范围，最终把所有流量都迁移到新版本上，下线旧版本。属无损发布
+
+② 优点
+
+灵活简单，不需要用户标记驱动。安全性高，新版本如果出现问题，只会发生在低比例的流量上
+
+③ 缺点
+
+流量配比递增的配置修改，带来额外的操作成本。用户覆盖狭窄，低比例流量未必能发现所有问题
+
+![](http://nepxion.gitee.io/discovery/docs/discovery-doc/GrayConcept.jpg)
+
+### 滚动发布
+
+滚动发布 Rolling Release
+
+① 概念
+
+每次只升级一个或多个服务，升级完成监控观察，不断执行这个过程，直到集群中的全部旧版本升级到新版本。停止旧版本的过程中，无法精确计算旧版本是否已经完成它正在执行的工作，需要靠业务自身去判断。属有损发布
+
+② 优点
+
+出现问题影响范围很小，只会发生在若干台正在滚动发布的服务上
+
+③ 缺点
+
+发布和回滚需要较长的时间周期。按批次停止旧版本，启动新版本，由于旧版本不保留，一旦全部升级完毕后才发现问题，则无法快速回滚，必须重新降级部署
+
+![](http://nepxion.gitee.io/discovery/docs/discovery-doc/RollingConcept.jpg)
+
 ## 全链路蓝绿灰度发布
 
 ### 全链路蓝绿发布
@@ -879,7 +1064,11 @@ zuul
 
 > 实施概要：只涉及当前正在发布的服务，例如，对于 〔网关〕->〔A服务〕->〔B服务〕->〔C服务〕->〔D服务〕调用链来说，如果当前只是B服务和C服务正在实施发布，那么，只需要把B服务和C服务配置到规则策略中，其它则不需要配置。发布结束后，即B服务和C服务的所有实例都完全一致，例如，版本号都只有唯一一个，那么清除掉在配置中心配置的规则策略即可，从而进行下一轮全链路蓝绿发布
 
-![](http://nepxion.gitee.io/docs/discovery-doc/BlueGreen.jpg)
+![](http://nepxion.gitee.io/discovery/docs/discovery-doc/BlueGreen.jpg)
+
+![](http://nepxion.gitee.io/discovery/docs/icon-doc/tip.png) 小贴士
+
+n-d-的含义：n为Nepxion首字母，d为Discovery首字母
 
 #### 全链路版本匹配蓝绿发布
 增加Spring Cloud Gateway的版本匹配蓝绿发布策略，Group为discovery-guide-group，Data Id为discovery-guide-gateway，策略内容如下，实现从Spring Cloud Gateway发起的调用全链路都走版本为1.0的服务
@@ -891,7 +1080,7 @@ zuul
     </strategy>
 </rule>
 ```
-![](http://nepxion.gitee.io/docs/discovery-doc/DiscoveryGuide2-1.jpg)
+![](http://nepxion.gitee.io/discovery/docs/discovery-doc/DiscoveryGuide2-1.jpg)
 
 如果希望每个服务的版本分别指定，那么策略内容如下，实现从Spring Cloud Gateway发起的调用走1.0版本的a服务，走1.1版本的b服务
 ```xml
@@ -921,7 +1110,7 @@ zuul
 ```
 表示discovery-guide-service-b服务的版本调用范围是1开头的所有版本，或者是1.2开头的所有版本（末尾必须是1个字符），多个用分号隔开
 
-![](http://nepxion.gitee.io/docs/icon-doc/tip.png) 提醒：非条件驱动下的全链路蓝绿发布跟Header驱动下的全链路蓝绿发布等效，例如
+![](http://nepxion.gitee.io/discovery/docs/icon-doc/tip.png) 提醒：非条件驱动下的全链路蓝绿发布跟Header驱动下的全链路蓝绿发布等效，例如
 ```
 n-d-version=1.0
 n-d-version={"discovery-guide-service-a":"1.0", "discovery-guide-service-b":"1.0"}
@@ -929,7 +1118,7 @@ n-d-version={"discovery-guide-service-a":"1.0", "discovery-guide-service-b":"1.0
 
 版本匹配蓝绿发布架构图
 
-![](http://nepxion.gitee.io/docs/discovery-doc/RouteVersion.jpg)
+![](http://nepxion.gitee.io/discovery/docs/discovery-doc/RouteVersion.jpg)
 
 #### 全链路区域匹配蓝绿发布
 增加Zuul的区域匹配蓝绿发布策略，Group为discovery-guide-group，Data Id为discovery-guide-zuul，策略内容如下，实现从Zuul发起的调用全链路都走区域为dev的服务
@@ -941,7 +1130,7 @@ n-d-version={"discovery-guide-service-a":"1.0", "discovery-guide-service-b":"1.0
     </strategy>
 </rule>
 ```
-![](http://nepxion.gitee.io/docs/discovery-doc/DiscoveryGuide2-3.jpg)
+![](http://nepxion.gitee.io/discovery/docs/discovery-doc/DiscoveryGuide2-3.jpg)
 
 如果希望每个服务的版本分别指定，那么策略内容如下，实现从Zuul发起的调用走dev区域的a服务，走qa区域的b服务
 ```xml
@@ -971,7 +1160,7 @@ d* - 表示调用范围为d开头的所有区域
 ```
 表示discovery-guide-service-b服务的区域调用范围是d开头的所有区域，或者是q开头的所有区域（末尾必须是1个字符），多个用分号隔开
 
-![](http://nepxion.gitee.io/docs/icon-doc/tip.png) 提醒：非条件驱动下的全链路蓝绿发布跟Header驱动下的全链路蓝绿发布等效，例如
+![](http://nepxion.gitee.io/discovery/docs/icon-doc/tip.png) 提醒：非条件驱动下的全链路蓝绿发布跟Header驱动下的全链路蓝绿发布等效，例如
 ```
 n-d-region=dev
 n-d-region={"discovery-guide-service-a":"dev", "discovery-guide-service-b":"dev"}
@@ -979,7 +1168,7 @@ n-d-region={"discovery-guide-service-a":"dev", "discovery-guide-service-b":"dev"
 
 区域匹配蓝绿发布架构图
 
-![](http://nepxion.gitee.io/docs/discovery-doc/RouteRegion.jpg)
+![](http://nepxion.gitee.io/discovery/docs/discovery-doc/RouteRegion.jpg)
 
 #### 全链路IP地址和端口匹配蓝绿发布
 增加Zuul的IP地址和端口匹配蓝绿发布策略，Group为discovery-guide-group，Data Id为discovery-guide-zuul，策略内容如下，实现从Zuul发起的调用走指定IP地址和端口，或者指定IP地址，或者指定端口（下面策略以端口为例）的服务
@@ -993,7 +1182,7 @@ n-d-region={"discovery-guide-service-a":"dev", "discovery-guide-service-b":"dev"
     </strategy>
 </rule>
 ```
-![](http://nepxion.gitee.io/docs/discovery-doc/DiscoveryGuide2-5.jpg)
+![](http://nepxion.gitee.io/discovery/docs/discovery-doc/DiscoveryGuide2-5.jpg)
 
 如果希望每个服务的IP地址或者端口分别指定，那么策略内容如下，实现从Zuul发起的调用走3001端口的a服务，走4001端口的b服务
 ```xml
@@ -1023,7 +1212,7 @@ n-d-region={"discovery-guide-service-a":"dev", "discovery-guide-service-b":"dev"
 ```
 表示discovery-guide-service-b服务的端口调用范围是3开头的所有端口，或者是4开头的所有端口（末尾必须是1个字符），多个用分号隔开
 
-![](http://nepxion.gitee.io/docs/icon-doc/tip.png) 提醒：非条件驱动下的全链路蓝绿发布跟Header驱动下的全链路蓝绿发布等效，例如
+![](http://nepxion.gitee.io/discovery/docs/icon-doc/tip.png) 提醒：非条件驱动下的全链路蓝绿发布跟Header驱动下的全链路蓝绿发布等效，例如
 ```
 n-d-address=3001
 n-d-address={"discovery-guide-service-a":"3001", "discovery-guide-service-b":"3001"}
@@ -1031,14 +1220,14 @@ n-d-address={"discovery-guide-service-a":"3001", "discovery-guide-service-b":"30
 
 IP地址和端口匹配蓝绿发布架构图
 
-![](http://nepxion.gitee.io/docs/discovery-doc/RouteAddress.jpg)
+![](http://nepxion.gitee.io/discovery/docs/discovery-doc/RouteAddress.jpg)
 
 ### 全链路条件蓝绿发布
 
 #### 全链路版本条件匹配蓝绿发布
 通过Header、Parameter、Cookie驱动参数和条件表达式结合，把业务定义的这三个驱动参数转化成全链路传递的策略路由Header，执行基于版本匹配的蓝、绿、兜底三条路由驱动，实现全链路版本条件匹配蓝绿发布
 
-![](http://nepxion.gitee.io/docs/icon-doc/information.png) 驱动参数
+![](http://nepxion.gitee.io/discovery/docs/icon-doc/information.png) 驱动参数
 
 ① Header、Parameter、Cookie参数传递。对于要驱动发布的参数，例如，业务参数user，可以选择Header、Parameter、Cookie其中任意一个传递，都是等效的
 
@@ -1046,11 +1235,11 @@ IP地址和端口匹配蓝绿发布架构图
 
 ③ Header、Parameter、Cookie参数混合。对于要驱动发布的参数，如果不止一个，例如，业务参数user、age、address，可以全部是Header或者Parameter或者Cookie，也可以是这三者混合传递：user通过Header传递，age通过Parameter传递，address通过Cookie传递
 
-![](http://nepxion.gitee.io/docs/icon-doc/information.png) 条件表达式
+![](http://nepxion.gitee.io/discovery/docs/icon-doc/information.png) 条件表达式
 
 ① Spring Spel的条件表达式，支持等于=、不等于!=、大于>、小于<、与&&、或||、匹配matches，以及加减乘除取模等全部标准表达式用法
 
-![](http://nepxion.gitee.io/docs/icon-doc/tip.png) 小贴士
+![](http://nepxion.gitee.io/discovery/docs/icon-doc/tip.png) 小贴士
 
 通过Spring Spel的matches条件表达式
 
@@ -1074,6 +1263,10 @@ IP地址和端口匹配蓝绿发布架构图
 
 其中，`#`H['a']，Spring Spel表达式用来表述驱动参数a的专有格式
 
+![](http://nepxion.gitee.io/discovery/docs/icon-doc/tip.png) 小贴士
+
+H的含义：H为Http首字母，即取值Http类型的参数，包括Header、Parameter、Cookie
+
 ③ Spring Spel的逻辑表达，需要注意
 
 - 任何值都大于null。当某个参数未传值，但又指定了该参数大于的表达逻辑，那么表达式结果为false。例如，#H['a'] > '2'，但a未传递进来，a即null，则null > 2，表达式结果为false
@@ -1093,24 +1286,20 @@ IP地址和端口匹配蓝绿发布架构图
 
 `#`H['a'] == '1' `&amp;&amp;` `#`H['b'] `&lt;`= '2' `&amp;&amp;` `#`H['c'] != '3'
 
-![](http://nepxion.gitee.io/docs/icon-doc/information.png) 规则策略配置
+![](http://nepxion.gitee.io/discovery/docs/icon-doc/information.png) 规则策略配置
 
 增加Spring Cloud Gateway的版本条件匹配蓝绿发布策略，Group为discovery-guide-group，Data Id为discovery-guide-gateway，策略内容如下
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <rule>
-    <!-- 基于Http Header传递的策略路由，全局缺省路由（第三优先级） -->
     <strategy>
         <version>{"discovery-guide-service-a":"1.0", "discovery-guide-service-b":"1.0"}</version>
     </strategy>
     
-    <!-- 基于Http Header传递的定制化策略路由，支持蓝绿部署和灰度发布两种模式。如果都不命中，则执行上面的全局缺省路由 -->
     <strategy-customization>
-        <!-- 全链路蓝绿部署：条件命中的匹配方式（第一优先级），支持版本匹配、区域匹配、IP地址和端口匹配、版本权重匹配、区域权重匹配 -->
-        <!-- Header节点不允许缺失 -->
         <conditions type="blue-green">
-            <condition id="blue-condition" header="#H['a'] == '1'" version-id="blue-version-route"/>
-            <condition id="green-condition" header="#H['a'] == '1' &amp;&amp; #H['b'] == '2'" version-id="green-version-route"/>
+            <condition id="blue-condition" expression="#H['a'] == '1'" version-id="blue-version-route"/>
+            <condition id="green-condition" expression="#H['a'] == '1' &amp;&amp; #H['b'] == '2'" version-id="green-version-route"/>
         </conditions>
 
         <routes>
@@ -1120,25 +1309,29 @@ IP地址和端口匹配蓝绿发布架构图
     </strategy-customization>
 </rule>
 ```
-![](http://nepxion.gitee.io/docs/discovery-doc/DiscoveryGuide2-8.jpg)
+![](http://nepxion.gitee.io/discovery/docs/discovery-doc/DiscoveryGuide2-8.jpg)
 
-![](http://nepxion.gitee.io/docs/icon-doc/information.png) 规则策略解释
+![](http://nepxion.gitee.io/discovery/docs/icon-doc/information.png) 规则策略解释
 
-① 当外部调用带有的Header中的值a=1同时b=2，执行绿路由
+![](http://nepxion.gitee.io/discovery/docs/icon-doc/tip.png) 特别提醒
 
-`<condition>`节点中 **header="#H['a'] == '1' &amp;&amp; #H['b'] == '2'"** 对应的 **version-id="green-version-route"** ，找到下面`<route>`节点中 **id="green-version-route" type="version"** 的那项，那么路由即为
+> 为准确体现相关变量（例如上文中的 **a** ）支持Header、Parameter、Cookie中的任意一个，表达式格式为 **expression="#H['a'] == '1'"**
+
+① 当外部调用带有的Header/Parameter/Cookies中的值a=1同时b=2，执行绿路由
+
+`<condition>`节点中 **expression="#H['a'] == '1' &amp;&amp; #H['b'] == '2'"** 对应的 **version-id="green-version-route"** ，找到下面`<route>`节点中 **id="green-version-route" type="version"** 的那项，那么路由即为
 ```
 {"discovery-guide-service-a":"1.0", "discovery-guide-service-b":"1.0"}
 ```
 
-② 当外部调用带有的Header中的值a=1，执行蓝路由
+② 当外部调用带有的Header/Parameter/Cookies中的值a=1，执行蓝路由
 
-`<condition>`节点中 **header="#H['a'] == '1'"** 对应的 **version-id="blue-version-route"** ，找到下面`<route>`节点中 **id="blue-version-route" type="version"** 的那项，那么路由即为
+`<condition>`节点中 **expression="#H['a'] == '1'"** 对应的 **version-id="blue-version-route"** ，找到下面`<route>`节点中 **id="blue-version-route" type="version"** 的那项，那么路由即为
 ```
 {"discovery-guide-service-a":"1.1", "discovery-guide-service-b":"1.1"}
 ```
 
-③ 当外部调用带有的Header中的值都不命中，或者未传值，执行兜底路由
+③ 当外部调用带有的Header/Parameter/Cookies中的值都不命中，或者未传值，执行兜底路由
 
 - 执行`<strategy>`节点中的全局缺省路由，那么路由即为
 
@@ -1148,7 +1341,7 @@ IP地址和端口匹配蓝绿发布架构图
 
 - 如果全局缺省路由未配置，则执行Spring Cloud Ribbon轮询策略
    
-④ 假如不愿意从网关外部传入Header，那么支持策略下内置Header来决策蓝绿发布，可以代替外部传入Header，参考如下配置
+④ 假如不愿意从网关外部传入Header/Parameter/Cookies，那么支持策略下内置Header来决策蓝绿发布，可以代替外部传入Header/Parameter/Cookies，参考如下配置
 ```xml
 <headers>
    <header key="a" value="1"/>
@@ -1156,7 +1349,7 @@ IP地址和端口匹配蓝绿发布架构图
 ```
 内置Header一般使用场景为定时Job的服务定时去调用其它服务，希望实施蓝绿灰度发布。当服务侧配置了内置Header，而网关也传递给对应Header给该服务，通过开关来决定，网关传递的Header为优先还是服务侧内置的Header优先
 
-![](http://nepxion.gitee.io/docs/icon-doc/warning.png) 需要注意，Spring Cloud Gateway在Finchley版不支持该方式
+![](http://nepxion.gitee.io/discovery/docs/icon-doc/warning.png) 需要注意，Spring Cloud Gateway在Finchley版不支持该方式
 
 ⑤ 路由类型支持如下
 
@@ -1176,11 +1369,11 @@ IP地址和端口匹配蓝绿发布架构图
 
 ⑧ 策略支持Spring Matcher的通配方式
 
-![](http://nepxion.gitee.io/docs/icon-doc/information.png) 上述方式，可以通过[全链路蓝绿发布编排建模](#全链路蓝绿发布编排建模)方式执行，并通过[全链路蓝绿发布流量侦测](#全链路蓝绿发布流量侦测)进行验证
+![](http://nepxion.gitee.io/discovery/docs/icon-doc/information.png) 上述方式，可以通过[全链路蓝绿发布编排建模](#全链路蓝绿发布编排建模)方式执行，并通过[全链路蓝绿发布流量侦测](#全链路蓝绿发布流量侦测)进行验证
 
-![](http://nepxion.gitee.io/docs/discovery-doc/DiscoveryDesktop10.jpg)
+![](http://nepxion.gitee.io/discovery/docs/discovery-doc/DiscoveryDesktop10.jpg)
 
-![](http://nepxion.gitee.io/docs/discovery-doc/DiscoveryDesktop15.jpg)
+![](http://nepxion.gitee.io/discovery/docs/discovery-doc/DiscoveryDesktop15.jpg)
 
 #### 全链路区域条件匹配蓝绿发布
 参考[全链路版本条件匹配蓝绿发布](#全链路版本条件匹配蓝绿发布)
@@ -1203,7 +1396,7 @@ IP地址和端口匹配蓝绿发布架构图
 
 > 实施概要：只涉及当前正在发布的服务，例如，对于 〔网关〕->〔A服务〕->〔B服务〕->〔C服务〕->〔D服务〕调用链来说，如果当前只是B服务和C服务正在实施发布，那么，只需要把B服务和C服务配置到规则策略中，其它则不需要配置。发布结束后，即B服务和C服务的所有实例都完全一致，例如，版本号都只有唯一一个，那么清除掉在配置中心配置的规则策略即可，从而进行下一轮全链路灰度发布
 
-![](http://nepxion.gitee.io/docs/discovery-doc/Gray.jpg)
+![](http://nepxion.gitee.io/discovery/docs/discovery-doc/Gray.jpg)
 
 #### 全链路版本权重灰度发布
 增加Spring Cloud Gateway的版本权重灰度发布策略，Group为discovery-guide-group，Data Id为discovery-guide-gateway，策略内容如下，实现从Spring Cloud Gateway发起的调用全链路1.0版本流量权重为90%，1.1版本流量权重为10%
@@ -1215,7 +1408,7 @@ IP地址和端口匹配蓝绿发布架构图
     </strategy>
 </rule>
 ```
-![](http://nepxion.gitee.io/docs/discovery-doc/DiscoveryGuide2-2.jpg)
+![](http://nepxion.gitee.io/discovery/docs/discovery-doc/DiscoveryGuide2-2.jpg)
 
 如果希望每个服务的版本权重分别指定，那么策略内容如下，实现从Spring Cloud Gateway发起的调用a服务1.0版本流量权重为90%，1.1版本流量权重为10%，b服务1.0版本流量权重为80%，1.1版本流量权重为20%
 ```xml
@@ -1233,7 +1426,7 @@ IP地址和端口匹配蓝绿发布架构图
 2. <version-weight>{"discovery-guide-service-a":"1.0=90;1.1=10", "discovery-guide-service-b":"1.0=90;1.1=10"}</version-weight>
 ```
 
-![](http://nepxion.gitee.io/docs/icon-doc/tip.png) 提醒：非条件驱动下的全链路灰度发布跟Header驱动下的全链路灰度发布等效，例如
+![](http://nepxion.gitee.io/discovery/docs/icon-doc/tip.png) 提醒：非条件驱动下的全链路灰度发布跟Header驱动下的全链路灰度发布等效，例如
 ```
 n-d-version-weight=1.0=90;1.1=10
 n-d-version-weight={"discovery-guide-service-a":"1.0=90;1.1=10", "discovery-guide-service-b":"1.0=90;1.1=10"}
@@ -1249,7 +1442,7 @@ n-d-version-weight={"discovery-guide-service-a":"1.0=90;1.1=10", "discovery-guid
     </strategy>
 </rule>
 ```
-![](http://nepxion.gitee.io/docs/discovery-doc/DiscoveryGuide2-4.jpg)
+![](http://nepxion.gitee.io/discovery/docs/discovery-doc/DiscoveryGuide2-4.jpg)
 
 如果希望每个服务的区域权重分别指定，那么策略内容如下，实现从Zuul发起的调用a服务dev区域流量权重为85%，qa区域流量权重为15%，b服务dev区域流量权重为75%，qa区域流量权重为25%
 ```xml
@@ -1267,7 +1460,7 @@ n-d-version-weight={"discovery-guide-service-a":"1.0=90;1.1=10", "discovery-guid
 2. <region-weight>{"discovery-guide-service-a":"dev=85;qa=15", "discovery-guide-service-b":"dev=85;qa=15"}</region-weight>
 ```
 
-![](http://nepxion.gitee.io/docs/icon-doc/tip.png) 提醒：非条件驱动下的全链路灰度发布跟Header驱动下的全链路灰度发布等效，例如
+![](http://nepxion.gitee.io/discovery/docs/icon-doc/tip.png) 提醒：非条件驱动下的全链路灰度发布跟Header驱动下的全链路灰度发布等效，例如
 ```
 n-d-region-weight=dev=85;qa=15
 n-d-region-weight={"discovery-guide-service-a":"dev=85;qa=15", "discovery-guide-service-b":"dev=85;qa=15"}
@@ -1276,24 +1469,20 @@ n-d-region-weight={"discovery-guide-service-a":"dev=85;qa=15", "discovery-guide-
 ### 全链路条件灰度发布
 
 #### 全链路版本条件权重灰度发布
-![](http://nepxion.gitee.io/docs/icon-doc/information.png) 规则策略配置
+![](http://nepxion.gitee.io/discovery/docs/icon-doc/information.png) 规则策略配置
 
 增加Zuul的版本条件权重灰度发布策略，Group为discovery-guide-group，Data Id为discovery-guide-zuul，策略内容如下
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <rule>
-    <!-- 基于Http Header传递的策略路由，全局缺省路由（第三优先级） -->
     <strategy>
         <version>{"discovery-guide-service-a":"1.0", "discovery-guide-service-b":"1.0"}</version>
     </strategy>
 
-    <!-- 基于Http Header传递的定制化策略路由，支持蓝绿部署和灰度发布两种模式。如果都不命中，则执行上面的全局缺省路由 -->
     <strategy-customization>
-        <!-- 全链路灰度发布：条件命中的随机权重（第二优先级），支持版本匹配、区域匹配、IP地址和端口匹配 -->
-        <!-- Header节点允许缺失，当含Header和未含Header的配置并存时，以未含Header的配置为优先 -->
         <conditions type="gray">
-            <!-- <condition id="gray-condition" header="#H['a'] == '1'" version-id="gray-version-route=10;stable-version-route=90"/> -->
-            <!-- <condition id="gray-condition" header="#H['a'] == '1' &amp;&amp; #H['b'] == '2'" version-id="gray-version-route=85;stable-version-route=15"/> -->
+            <!-- <condition id="gray-condition" expression="#H['a'] == '1'" version-id="gray-version-route=10;stable-version-route=90"/> -->
+            <!-- <condition id="gray-condition" expression="#H['a'] == '1' &amp;&amp; #H['b'] == '2'" version-id="gray-version-route=85;stable-version-route=15"/> -->
             <condition id="gray-condition" version-id="gray-version-route=95;stable-version-route=5"/>
         </conditions>
 
@@ -1304,9 +1493,9 @@ n-d-region-weight={"discovery-guide-service-a":"dev=85;qa=15", "discovery-guide-
     </strategy-customization>
 </rule>
 ```
-![](http://nepxion.gitee.io/docs/discovery-doc/DiscoveryGuide2-9.jpg)
+![](http://nepxion.gitee.io/discovery/docs/discovery-doc/DiscoveryGuide2-9.jpg)
 
-![](http://nepxion.gitee.io/docs/icon-doc/information.png) 规则策略解释
+![](http://nepxion.gitee.io/discovery/docs/icon-doc/information.png) 规则策略解释
 
 网关随机权重调用服务，服务链路按照版本匹配方式调用
 
@@ -1323,13 +1512,13 @@ n-d-region-weight={"discovery-guide-service-a":"dev=85;qa=15", "discovery-guide-
 - region 区域
 - address IP地址和端口
 
-![](http://nepxion.gitee.io/docs/icon-doc/tip.png) 提醒：条件权重灰度发布支持参数驱动，但建议使用无参方式，同时兜底路由（全局缺省路由）也不需要
+![](http://nepxion.gitee.io/discovery/docs/icon-doc/tip.png) 提醒：条件权重灰度发布支持参数驱动，但建议使用无参方式，同时兜底路由（全局缺省路由）也不需要
 
-![](http://nepxion.gitee.io/docs/icon-doc/information.png) 上述方式，可以通过[全链路灰度发布编排建模](#全链路灰度发布编排建模)方式执行，并通过[全链路灰度发布流量侦测](#全链路灰度发布流量侦测)进行验证
+![](http://nepxion.gitee.io/discovery/docs/icon-doc/information.png) 上述方式，可以通过[全链路灰度发布编排建模](#全链路灰度发布编排建模)方式执行，并通过[全链路灰度发布流量侦测](#全链路灰度发布流量侦测)进行验证
 
-![](http://nepxion.gitee.io/docs/discovery-doc/DiscoveryDesktop14.jpg)
+![](http://nepxion.gitee.io/discovery/docs/discovery-doc/DiscoveryDesktop14.jpg)
 
-![](http://nepxion.gitee.io/docs/discovery-doc/DiscoveryDesktop17.jpg)
+![](http://nepxion.gitee.io/discovery/docs/discovery-doc/DiscoveryDesktop17.jpg)
 
 #### 全链路区域条件权重灰度发布
 参考[全链路版本条件权重灰度发布](#全链路版本条件权重灰度发布)
@@ -1455,9 +1644,9 @@ A部门服务直接访问B部门服务
 1. n-d-address-blacklist=192.168.43.101:1201;192.168.*.102;1301
 ```
 
-![](http://nepxion.gitee.io/docs/icon-doc/tip.png) 全链路前端触发后端蓝绿灰度发布全景功能
+![](http://nepxion.gitee.io/discovery/docs/icon-doc/tip.png) 全链路前端触发后端蓝绿灰度发布全景功能
 
-![](http://nepxion.gitee.io/docs/discovery-doc/Introduction.jpg)
+![](http://nepxion.gitee.io/discovery/docs/discovery-doc/Introduction.jpg)
 
 #### 全链路参数策略
 ① Header参数策略
@@ -1470,9 +1659,9 @@ A部门服务直接访问B部门服务
 spring.application.strategy.rest.intercept.enabled=true
 # 启动和关闭Header传递的Debug日志打印，注意：每调用一次都会打印一次，会对性能有所影响，建议压测环境和生产环境关闭。缺失则默认为false
 spring.application.strategy.rest.intercept.debug.enabled=true
-# 路由策略的时候，对REST方式调用拦截的时候（支持Feign或者RestTemplate调用），希望把来自外部自定义的Header参数（用于框架内置上下文Header，例如：trace-id, span-id等）传递到服务里，那么配置如下值。如果多个用“;”分隔，不允许出现空格
+# 路由策略的时候，对REST方式调用拦截的时候（支持Feign、RestTemplate或者WebClient调用），希望把来自外部自定义的Header参数（用于框架内置上下文Header，例如：trace-id, span-id等）传递到服务里，那么配置如下值。如果多个用“;”分隔，不允许出现空格
 spring.application.strategy.context.request.headers=trace-id;span-id
-# 路由策略的时候，对REST方式调用拦截的时候（支持Feign或者RestTemplate调用），希望把来自外部自定义的Header参数（用于业务系统自定义Header，例如：mobile）传递到服务里，那么配置如下值。如果多个用“;”分隔，不允许出现空格
+# 路由策略的时候，对REST方式调用拦截的时候（支持Feign、RestTemplate或者WebClient调用），希望把来自外部自定义的Header参数（用于业务系统自定义Header，例如：mobile）传递到服务里，那么配置如下值。如果多个用“;”分隔，不允许出现空格
 spring.application.strategy.business.request.headers=user;mobile;location
 ```
 
@@ -1499,11 +1688,11 @@ spring.application.strategy.business.request.headers=user;mobile;location
 
 - 根据env1.nepxion.com域名路由到env1环境
 
-![](http://nepxion.gitee.io/docs/discovery-doc/DiscoveryGuide2-15.jpg)
+![](http://nepxion.gitee.io/discovery/docs/discovery-doc/DiscoveryGuide2-15.jpg)
 
 - 根据common.nepxion.com域名路由到common环境
 
-![](http://nepxion.gitee.io/docs/discovery-doc/DiscoveryGuide2-16.jpg)
+![](http://nepxion.gitee.io/discovery/docs/discovery-doc/DiscoveryGuide2-16.jpg)
 
 参考[全链路自定义过滤器触发蓝绿灰度发布](#全链路自定义过滤器触发蓝绿灰度发布)示例，以根据域名全链路环境隔离为例，根据域名前缀中的环境名路由到相应的全链路环境中
 
@@ -1525,7 +1714,7 @@ spring.application.strategy.business.request.headers=user;mobile;location
     </strategy>
 </rule>
 ```
-![](http://nepxion.gitee.io/docs/discovery-doc/DiscoveryGuide2-10.jpg)
+![](http://nepxion.gitee.io/discovery/docs/discovery-doc/DiscoveryGuide2-10.jpg)
 
 如果采用上述方式，可以考虑关闭下面的开关
 ```
@@ -1542,6 +1731,7 @@ spring.application.strategy.gateway.core.header.transmission.enabled=true
 spring.application.strategy.zuul.core.header.transmission.enabled=true
 spring.application.strategy.feign.core.header.transmission.enabled=true
 spring.application.strategy.rest.template.core.header.transmission.enabled=true
+spring.application.strategy.web.client.core.header.transmission.enabled=true
 ```
 
 ### 全链路自定义蓝绿灰度发布
@@ -1655,7 +1845,7 @@ public class MyGatewayStrategyRouteFilter extends DefaultGatewayStrategyRouteFil
             return bRouteAddress;
         }
 
-        return super.getRouteEnvironment();
+        return super.getRouteAddress();
     }
 
     @Autowired
@@ -1971,6 +2161,11 @@ public ServiceStrategyRouteFilter serviceStrategyRouteFilter() {
 ```
 
 #### 全链路自定义负载均衡策略类触发蓝绿灰度发布
+
+![](http://nepxion.gitee.io/discovery/docs/icon-doc/information.png) 〔Spring Cloud 202x版〕特别提醒
+
+> 对于Spring Cloud 202x版，由于它已经移除了Ribbon，所以apply(Server server)方法上的入参，com.netflix.loadbalancer.Server需要改成org.springframework.cloud.client.ServiceInstance
+
 下面代码既适用于Zuul和Spring Cloud Gateway网关，也适用于微服务。继承DefaultDiscoveryEnabledStrategy，可以有多个，通过@Bean方式注入
 ```java
 // 实现了组合策略，版本路由策略+区域路由策略+IP地址和端口路由策略+自定义策略
@@ -2165,7 +2360,7 @@ curl -X PUT 'http://ip:port/eureka/apps/{appId}/{instanceId}/metadata?version=st
 
 自行研究
 
-![](http://nepxion.gitee.io/docs/icon-doc/warning.png) 需要注意
+![](http://nepxion.gitee.io/discovery/docs/icon-doc/warning.png) 需要注意
 
 ① 并非所有的注册中心都支持动态元数据变更方式，需要使用者自行研究
 
@@ -2194,7 +2389,7 @@ curl -X PUT 'http://ip:port/eureka/apps/{appId}/{instanceId}/metadata?version=st
 
 登录认证，用户名和密码为admin/admin或者nepxion/nepxion。控制台支持简单的认证，用户名和密码配置在上述控制台的bootstrap.properties中，使用者可以自己扩展AuthenticationResource并注入，实现更专业的认证功能
 
- ![](http://nepxion.gitee.io/docs/discovery-doc/DiscoveryDesktop8.jpg)
+ ![](http://nepxion.gitee.io/discovery/docs/discovery-doc/DiscoveryDesktop8.jpg)
 
 ### 全链路编排建模
 
@@ -2202,7 +2397,7 @@ curl -X PUT 'http://ip:port/eureka/apps/{appId}/{instanceId}/metadata?version=st
 
 #### 全链路蓝绿发布编排建模
 
-![](http://nepxion.gitee.io/docs/discovery-doc/DiscoveryDesktop9.jpg)
+![](http://nepxion.gitee.io/discovery/docs/discovery-doc/DiscoveryDesktop9.jpg)
 
 ① 导航栏上选择〔全链路服务蓝绿发布〕
 
@@ -2227,13 +2422,13 @@ curl -X PUT 'http://ip:port/eureka/apps/{appId}/{instanceId}/metadata?version=st
 - 服务discovery-guide-service-a，〔蓝版本〕=1.1，〔绿版本〕=1.0，〔兜底版本〕=1.0
 - 服务discovery-guide-service-b，〔蓝版本〕=1.1，〔绿版本〕=1.0，〔兜底版本〕=1.0
 
-![](http://nepxion.gitee.io/docs/discovery-doc/DiscoveryDesktop10.jpg)
+![](http://nepxion.gitee.io/discovery/docs/discovery-doc/DiscoveryDesktop10.jpg)
 
 ⑤ 如果希望内置Header参数，可以〔蓝绿参数〕的文本框中输入
 
 ⑥ 全链路编排建模完毕，点击工具栏上【保存】按钮进行保存，也可以先点击【预览】按钮，在弹出的【预览配置】对话框中，确认规则策略无误后再保存。使用者可以访问Nacos界面查看相关的规则策略是否已经存在
 
-![](http://nepxion.gitee.io/docs/discovery-doc/DiscoveryDesktop11.jpg)
+![](http://nepxion.gitee.io/discovery/docs/discovery-doc/DiscoveryDesktop11.jpg)
 
 ⑦ 对于已经存在的策略配置，可以通过点击工具栏上【打开】按钮，在弹出的【打开配置】对话框中，根据上述逻辑相似，确定〔订阅参数〕项后，选择〔打开远程配置〕（载入Nacos上对应的规则策略）或者〔打开本地配置〕（载入本地硬盘上规则策略文件rule.xml）
 
@@ -2243,7 +2438,7 @@ curl -X PUT 'http://ip:port/eureka/apps/{appId}/{instanceId}/metadata?version=st
 
 ① 导航栏上选择〔全链路服务灰度发布〕
 
-![](http://nepxion.gitee.io/docs/discovery-doc/DiscoveryDesktop13.jpg)
+![](http://nepxion.gitee.io/discovery/docs/discovery-doc/DiscoveryDesktop13.jpg)
 
 根据[全链路版本条件权重灰度发布](#全链路版本条件权重灰度发布)示例中的场景
 
@@ -2251,7 +2446,7 @@ curl -X PUT 'http://ip:port/eureka/apps/{appId}/{instanceId}/metadata?version=st
 
 其它步骤跟[全链路蓝绿发布编排建模](#全链路蓝绿发布编排建模)相似，但比其简单
 
-![](http://nepxion.gitee.io/docs/discovery-doc/DiscoveryDesktop14.jpg)
+![](http://nepxion.gitee.io/discovery/docs/discovery-doc/DiscoveryDesktop14.jpg)
 
 ### 全链路流量侦测
 
@@ -2289,7 +2484,7 @@ curl -X PUT 'http://ip:port/eureka/apps/{appId}/{instanceId}/metadata?version=st
 
 ⑥ 点击工具栏上【开始】按钮开始侦测，在侦测执行过程中，可以点击工具栏上【停止】按钮停止侦测
 
-![](http://nepxion.gitee.io/docs/discovery-doc/DiscoveryDesktop15.jpg)
+![](http://nepxion.gitee.io/discovery/docs/discovery-doc/DiscoveryDesktop15.jpg)
 
 从上述截图中，可以看到
 
@@ -2297,11 +2492,11 @@ curl -X PUT 'http://ip:port/eureka/apps/{appId}/{instanceId}/metadata?version=st
 
 ⑦ 点击工具栏上【查看】按钮查看拓扑图上所有节点配置的规则策略，包括局部配置和全局配置
 
-![](http://nepxion.gitee.io/docs/discovery-doc/DiscoveryDesktop16.jpg)
+![](http://nepxion.gitee.io/discovery/docs/discovery-doc/DiscoveryDesktop16.jpg)
 
 ⑧ 支持直接n-d-version策略路由Header驱动的蓝绿发布流量侦测
 
-![](http://nepxion.gitee.io/docs/discovery-doc/DiscoveryDesktop7.jpg)
+![](http://nepxion.gitee.io/discovery/docs/discovery-doc/DiscoveryDesktop7.jpg)
 
 #### 全链路灰度发布流量侦测
 
@@ -2317,7 +2512,7 @@ curl -X PUT 'http://ip:port/eureka/apps/{appId}/{instanceId}/metadata?version=st
 
 其它步骤跟[全链路蓝绿发布流量侦测](#全链路蓝绿发布流量侦测)相似，但比其简单
 
-![](http://nepxion.gitee.io/docs/discovery-doc/DiscoveryDesktop17.jpg)
+![](http://nepxion.gitee.io/discovery/docs/discovery-doc/DiscoveryDesktop17.jpg)
 
 从上述截图中，可以看到
 
@@ -2330,36 +2525,24 @@ curl -X PUT 'http://ip:port/eureka/apps/{appId}/{instanceId}/metadata?version=st
 
 在网关上配置了蓝绿发布规则策略，在a服务上配置了灰度发布规则策略
 
-![](http://nepxion.gitee.io/docs/discovery-doc/DiscoveryDesktop5.jpg)
+![](http://nepxion.gitee.io/discovery/docs/discovery-doc/DiscoveryDesktop5.jpg)
 
 ② 全链路灰度发布 + 蓝绿发布混合模式下流量侦测
 
 在网关上配置了灰度发布规则策略，在a服务上配置了蓝绿发布规则策略
 
-![](http://nepxion.gitee.io/docs/discovery-doc/DiscoveryDesktop6.jpg)
+![](http://nepxion.gitee.io/discovery/docs/discovery-doc/DiscoveryDesktop6.jpg)
 
 附录：全链路流量侦测接口
 
 通过discovery-plugin-admin-center-starter内置基于LoadBalanced RestTemplate的接口方法，实现全链路侦测，用于查看全链路中调用的各个服务的版本、区域、环境、可用区、IP地址和端口等是否符合和满足蓝绿灰度条件。使用方式，如下
 
-① 请求方式
-```
-POST
-```
-② 请求路径
+| 操作 | 路径 | 内容 | 方式 |
+| --- | --- | --- | --- |
+| 网关为入口 | `http://[网关IP:PORT]/[A服务名]/inspector/inspect` | `{"serviceIdList":["B服务名", "C服务名", ....]}` | POST |
+| 服务为入口 | `http://[A服务IP:PORT]/inspector/inspect` | `{"serviceIdList":["B服务名", "C服务名", ....]}` | POST |
 
-网关为入口，路径为
-```
-http://[网关IP:PORT]/[A服务名]/inspector/inspect
-```
-服务为入口，路径为
-```
-http://[A服务IP:PORT]/inspector/inspect
-```
-③ 请求内容，服务名列表不分前后次序
-```
-{"serviceIdList":["B服务名", "C服务名", ....]}
-```
+![](http://nepxion.gitee.io/discovery/docs/icon-doc/tip.png) 提醒：内容项中服务名列表不分前后次序
 
 ## 全链路蓝绿灰度发布容灾
 
@@ -2407,7 +2590,7 @@ spring.application.strategy.version.prefer.enabled=true
     </strategy-blacklist>
 </rule>
 ```
-![](http://nepxion.gitee.io/docs/discovery-doc/DiscoveryGuide2-11.jpg)
+![](http://nepxion.gitee.io/discovery/docs/discovery-doc/DiscoveryGuide2-11.jpg)
 
 ② 全链路Header传递方式
 
@@ -2433,7 +2616,7 @@ n-d-id-blacklist=e92edde5-0153-4ec8-9cbb-b4d3f415aa33;af043384-c8a5-451e-88f4-45
     </strategy-blacklist>
 </rule>
 ```
-![](http://nepxion.gitee.io/docs/discovery-doc/DiscoveryGuide2-12.jpg)
+![](http://nepxion.gitee.io/discovery/docs/discovery-doc/DiscoveryGuide2-12.jpg)
 
 ② 全链路Header传递方式
 
@@ -2442,13 +2625,31 @@ n-d-address-blacklist=192.168.43.101:1201;192.168.*.102;1301
 ```
 
 ## 异步场景下全链路蓝绿灰度发布
+Discovery框架存在着如下全链路传递上下文的场景，包括
+- 策略路由Header全链路从网关传递到服务
+- 调用链埋点全链路从网关传递到服务
+- 业务自定义的上下文的传递
+
+上述上下文会在如下异步场景中丢失，包括
+- WebFlux Reactor响应式异步
+- Spring异步，@Async注解异步
+- Hystrix线程池隔离模式异步
+- 线程，线程池异步
+- SLF4J日志异步
+
+通过DiscoveryAgent，解决上述痛点。Discovery框架利用DiscoveryAgent字节码增强技术，完美解决各种调用场景下的异步，包括
+- Spring Cloud Gateway过滤器中的上下文传递
+- Zuul过滤器中的上下文传递
+- Feign拦截器中的上下文转发
+- RestTemplate拦截器中的上下文转发
+- WebClient拦截器中的上下文转发
 
 ### 异步场景下DiscoveryAgent解决方案
-全链路策略路由Header和调用链Span在Hystrix线程池隔离模式下或者线程、线程池、@Async注解等异步调用Feign或者RestTemplate时，通过线程上下文切换会存在丢失Header的问题，通过下述步骤解决，同时适用于网关端和服务端。该方案可以替代Hystrix线程池隔离模式下的解决方案，也适用于其它有相同使用场景的基础框架和业务场景，例如：Dubbo
+![](http://nepxion.gitee.io/discovery/docs/icon-doc/information.png) DiscoveryAgent不仅适用于Discovery框架，也适用于一切具有类似使用场景的基础框架（例如：Dubbo）和业务系统
 
-ThreadLocal的作用是提供线程内的局部变量，在多线程环境下访问时能保证各个线程内的ThreadLocal变量各自独立。在异步场景下，由于出现线程切换的问题，例如主线程切换到子线程，会导致线程ThreadLocal上下文丢失。DiscoveryAgent通过Java Agent方式解决这些痛点
+ThreadLocal的作用是提供线程内的局部变量，在多线程环境下访问时能保证各个线程内的ThreadLocal变量各自独立。在异步场景下，由于出现线程切换的问题，例如，主线程切换到子线程，会导致线程ThreadLocal上下文丢失。DiscoveryAgent通过Java Agent方式解决这些痛点
 
-涵盖所有Java框架的异步场景，解决如下7个异步场景下丢失线程ThreadLocal上下文的问题
+涵盖所有Java框架的异步场景，解决如下8个异步场景下丢失线程ThreadLocal上下文的问题
 - WebFlux Reactor
 - `@`Async
 - Hystrix Thread Pool Isolation
@@ -2463,32 +2664,48 @@ ThreadLocal的作用是提供线程内的局部变量，在多线程环境下访
 - 通过[https://github.com/Nepxion/DiscoveryAgent/releases](https://github.com/Nepxion/DiscoveryAgent/releases)下载最新版本的Discovery Agent
 - 编译[https://github.com/Nepxion/DiscoveryAgent](https://github.com/Nepxion/DiscoveryAgent)产生discovery-agent目录
 
+#### 异步跨线程DiscoveryAgent清单
+① discovery-agent-starter-`$`{discovery.version}.jar为Agent引导启动程序，JVM启动时进行加载
+
+② agent.config为基准扫描目录配置文件
+
+绝大多数情况下不需要修改，当然使用者也可以增加和删除agent.config的基准扫描目录。默认配置如下
+```
+# Base thread scan packages
+agent.plugin.thread.scan.packages=reactor.core.publisher;org.springframework.aop.interceptor;com.netflix.hystrix
+```
+
+基准扫描目录，含义如下
+- WebFlux Reactor异步场景下的扫描目录对应为reactor.core.publisher
+- `@`Async场景下的扫描目录对应为org.springframework.aop.interceptor
+- Hystrix线程池隔离场景下的扫描目录对应为com.netflix.hystrix
+
+③ plugin/discovery-agent-starter-plugin-strategy-`$`{discovery.version}.jar插件，解决Nepxion Discovery上下文异步场景
+
+④ plugin/discovery-agent-starter-plugin-mdc-`$`{discovery.version}.jar插件，解决SLF4J MDC日志上下文异步场景
+
+⑤ 业务系统可以自定义plugin，解决业务自己定义的上下文异步场景
+
 #### 异步跨线程DiscoveryAgent使用
-- discovery-agent-starter-`$`{discovery.version}.jar为Agent引导启动程序，JVM启动时进行加载；discovery-agent/plugin目录包含discovery-agent-starter-plugin-strategy-`$`{discovery.version}.jar为Nepxion Discovery自带的实现方案，业务系统可以自定义plugin，解决业务自己定义的上下文跨线程传递
+① 使用示例
 - 通过如下-javaagent启动，基本格式，如下
 
 ```
--javaagent:/discovery-agent/discovery-agent-starter-${discovery.agent.version}.jar -Dthread.scan.packages=com.abc;com.xyz
+-javaagent:C:/opt/discovery-agent/discovery-agent-starter-${discovery.agent.version}.jar -Dthread.scan.packages=com.nepxion.discovery.guide.service.feign
 ```
 
-例如
-
-```
--javaagent:C:/opt/discovery-agent/discovery-agent-starter-${discovery.agent.version}.jar -Dthread.scan.packages=reactor.core.publisher;org.springframework.aop.interceptor;com.netflix.hystrix;com.nepxion.discovery.guide.service.feign
-```
-
-参数说明
-- /discovery-agent：Agent所在的目录，需要对应到实际的目录上
-- `-D`thread.scan.packages：Runnable，Callable对象所在的扫描目录，该目录下的Runnable，Callable对象都会被装饰。该目录最好精细和准确，这样可以减少被装饰的对象数，提高性能，目录如果有多个，用“;”分隔。参数定义为
-    - WebFlux Reactor异步场景下的扫描目录对应为reactor.core.publisher，可以解决基于Reactor的Spring Cloud LoadBalancer异步负载均衡下的上下文传递
-    - `@`Async场景下的扫描目录对应为org.springframework.aop.interceptor
-    - Hystrix线程池隔离场景下的扫描目录对应为com.netflix.hystrix
-    - 线程，线程池的扫描目录对应为自定义Runnable，Callable对象所在类的目录
-    - 上述扫描路径如果含有“;”，可能会在某些操作系统中无法被识别，请用`""`进行引入，例如，-Dthread.scan.packages="com.abc;com.xyz"
+② 参数说明
+- C:/opt/discovery-agent：Agent所在的目录，需要对应到实际的目录上
+- `-D`thread.scan.packages：Runnable/Callable/Thread/ThreadPool等异步类所在的扫描目录，该目录下的异步类都会被装饰
+    - 扫描目录最好精细和准确，目录越详细，越可以减少被装饰的对象数，从一定程度上可以提高性能
+    - 扫描目录如果有多个，用“;”分隔
+    - 扫描目录如果含有“;”，可能会在某些操作系统中无法被识别，请用`""`进行引入，例如，`-Dthread.scan.packages="com.abc;com.xyz"`
+    - 扫描目录下没有Runnable/Callable/Thread/ThreadPool等异步类存在，那么thread.scan.packages也不需要配置，最终启动命令行简化为`-javaagent:C:/opt/discovery-agent/discovery-agent-starter-${discovery.agent.version}.jar`
+- `-D`thread.gateway.enabled：Spring Cloud Gateway端策略Header输出到异步子线程。默认开启
+- `-D`thread.zuul.enabled：Zuul端策略Header输出到异步子线程。默认开启
+- `-D`thread.service.enabled：服务端策略Header输出到异步子线程。默认开启
+- `-D`thread.mdc.enabled：SLF4J MDC日志输出到异步子线程。默认开启
 - `-D`thread.request.decorator.enabled：异步调用场景下在服务端的Request请求的装饰，当主线程先于子线程执行完的时候，Request会被Destory，导致Header仍旧拿不到，开启装饰，就可以确保拿到。默认为开启，根据实践经验，大多数场景下，需要开启该开关
-- `-D`thread.mdc.enabled：SLF4J MDC日志输出到异步子线程。默认关闭，如果需要，则开启该开关
-
-![](http://nepxion.gitee.io/docs/icon-doc/tip.png) 提醒：对于扫描目录，请务必根据实际场景做配置，例如，不存在WebFlux Reactor的异步场景，就不必把reactor.core.publisher配置到扫描目录中
 
 #### 异步跨线程DiscoveryAgent扩展
 - 根据规范开发一个插件，插件提供了钩子函数，在某个类被加载的时候，可以注册一个事件到线程上下文切换事件当中，实现业务自定义ThreadLocal的跨线程传递
@@ -2768,7 +2985,7 @@ spring.application.strategy.hystrix.threadlocal.supported=true
 
 ① 服务a在版本为1.0的时候，数据库的数据源指向db1；服务a在版本为1.1的时候，数据库的数据源指向db2
 
-② 服务b在区域为dev的时候，消息队列指向queue1；服务b在区域为dev的时候，消息队列指向queue2
+② 服务b在区域为dev的时候，消息队列指向queue1；服务b在区域为qa的时候，消息队列指向queue2
 
 ③ 服务c在环境为env1的时候，数据库的数据源指向db1；服务c在环境为env2的时候，数据库的数据源指向db2
 
@@ -2820,10 +3037,351 @@ spring.application.parameter.event.onstart.enabled=true
 ```
 参考[https://github.com/Nepxion/DiscoveryContrib](https://github.com/Nepxion/DiscoveryContrib)里的实现方式
 
+## 网关动态路由
+网关动态路由功能，主要包括
+
+- 路由动态添加
+- 路由动态修改
+- 路由动态删除
+- 路由动态批量更新
+- 路由查询
+- 路由动态变更后，通过事件总线方式发出事件通知
+
+上述操作，可以通过
+
+- 网关暴露Rest Endpoint接口实施
+- 控制台暴露Rest Endpoint接口，对同一个网关下若干个实例批量实施
+- 网关订阅配置中心（包括Nacos、Apollo、Consul、Etcd、Redis、Zookeeper）批量实施
+
+### Spring-Cloud-Gateway网关动态路由
+![](http://nepxion.gitee.io/discovery/docs/icon-doc/tip.png) 提醒：Spring Cloud Gateway网关在自动路由模式下，动态路由不能工作
+
+① Spring Cloud Gateway网关的动态路由配置格式
+
+- 精简配置
+
+```
+[
+    {
+        "id": "route0", 
+        "uri": "lb://discovery-guide-service-a", 
+        "predicates": [
+            "Path=/discovery-guide-service-a/**,/x/**,/y/**"
+        ], 
+        "filters": [
+            "StripPrefix=1"
+        ]
+    }
+]
+```
+
+- 完整配置
+
+```
+[
+    {
+        "id": "route0", 
+        "uri": "lb://discovery-guide-service-a", 
+        "predicates": [
+            "Path=/discovery-guide-service-a/**,/x/**,/y/**"
+        ], 
+        "filters": [
+            "StripPrefix=1"
+        ], 
+        "order": 0,
+        "metadata": {}
+    }
+]
+```
+
+② Spring Cloud Gateway网关的Rest Endpoint接口
+
+| 操作 | 路径 | 参数 | 方式 |
+| --- | --- | --- | --- |
+| 增加网关路由 | `http://[网关IP:PORT]/spring-cloud-gateway-route/add` | 单个动态路由配置 | POST |
+| 修改网关路由 | `http://[网关IP:PORT]/spring-cloud-gateway-route/modify` | 单个动态路由配置 | POST |
+| 删除网关路由 | `http://[网关IP:PORT]/spring-cloud-gateway-route/delete` | 路由Id | POST |
+| 更新全部网关路由 | `http://[网关IP:PORT]/spring-cloud-gateway-route/update-all` | 多个动态路由配置 | POST |
+| 根据路由Id查看网关路由 | `http://[网关IP:PORT]/spring-cloud-gateway-route/view` | 路由Id | GET |
+| 查看全部网关路由| `http://[网关IP:PORT]/spring-cloud-gateway-route/view-all` | 无 | GET |
+
+③ 控制台的Rest Endpoint接口
+
+| 操作 | 路径 | 参数 | 方式 |
+| --- | --- | --- | --- |
+| 增加网关路由 | `http://[控制台IP:PORT]/route/add/spring-cloud-gateway/{serviceId}` | 单个动态路由配置 | POST |
+| 修改网关路由 | `http://[控制台IP:PORT]/route/modify/spring-cloud-gateway/{serviceId}` | 单个动态路由配置 | POST |
+| 删除网关路由 | `http://[控制台IP:PORT]/route/delete/spring-cloud-gateway/{serviceId}` | 路由Id | POST |
+| 更新全部网关路由 | `http://[控制台IP:PORT]/route/update-all/spring-cloud-gateway/{serviceId}` | 多个动态路由配置 | GET |
+| 查看全部网关路由| `http://[控制台IP:PORT]/route/view-all/spring-cloud-gateway/{serviceId}` | 无 | GET |
+
+④ 网关订阅配置中心
+
+网关订阅配置中心的使用方式，如下
+
+- Key为
+    - Nacos、Redis、Zookeeper配置中心，Group为{group}，DataId为{网关serviceId}-dynamic-route
+    - Apollo、Consul、Etcd配置中心，Key的格式为{group}-{网关serviceId}-dynamic-route
+    - {group}为注册中心元数据group值
+- Value参考`① Spring Cloud Gateway网关的动态路由配置格式`
+
+![](http://nepxion.gitee.io/discovery/docs/discovery-doc/DiscoveryGuide7-9.jpg)
+
+支持如下开关开启该动能，默认是关闭的
+```
+# 开启和关闭网关订阅配置中心的动态路由策略。缺失则默认为false
+spring.application.strategy.gateway.dynamic.route.enabled=true
+```
+
+配置中心配置的网关动态路由推送到网关后，网关会自动根据已经存在的路由表进行判断后实施增删改操作，而不是全部清空后再全部插入，这样有助于提高性能和安全性。网关控制台上会打印出如下日志
+```java
+--- Gateway Dynamic Routes Update Information ----
+Total count=3
+Added count=1
+Modified count=1
+Deleted count=1
+--------------------------------------------------
+```
+
+⑤ 事件总线通知的订阅
+
+```java
+@EventBus
+public class MySubscriber {
+    @Subscribe
+    public void onGatewayStrategyRouteAdded(GatewayStrategyRouteAddedEvent gatewayStrategyRouteAddedEvent) {
+        System.out.println("增加网关路由=" + gatewayStrategyRouteAddedEvent.getGatewayStrategyRouteEntity());
+    }
+
+    @Subscribe
+    public void onGatewayStrategyRouteModified(GatewayStrategyRouteModifiedEvent gatewayStrategyRouteModifiedEvent) {
+        System.out.println("修改网关路由=" + gatewayStrategyRouteModifiedEvent.getGatewayStrategyRouteEntity());
+    }
+
+    @Subscribe
+    public void onGatewayStrategyRouteDeleted(GatewayStrategyRouteDeletedEvent gatewayStrategyRouteDeletedEvent) {
+        System.out.println("删除网关路由=" + gatewayStrategyRouteDeletedEvent.getRouteId());
+    }
+
+    @Subscribe
+    public void onGatewayStrategyRouteUpdatedAll(GatewayStrategyRouteUpdatedAllEvent gatewayStrategyRouteUpdatedAllEvent) {
+        System.out.println("更新全部网关路由=" + gatewayStrategyRouteUpdatedAllEvent.getGatewayStrategyRouteEntityList());
+    }
+}
+```
+
+### Zuul网关动态路由
+![](http://nepxion.gitee.io/discovery/docs/icon-doc/tip.png) 提醒：Zuul网关在自动路由模式下，动态路由可以工作
+
+① Zuul网关的动态路由配置格式
+
+- 精简配置
+
+```
+[
+    {
+        "id": "route0",
+        "serviceId": "discovery-guide-service-a",
+        "path": "/discovery-guide-service-a/**"
+    },
+    {
+        "id": "route1",
+        "serviceId": "discovery-guide-service-a",
+        "path": "/x/**"
+    },
+    {
+        "id": "route2",
+        "serviceId": "discovery-guide-service-a",
+        "path": "/y/**"
+    }
+]
+```
+
+如果希望一个服务只映射一个动态路由路径，则不需要id，可以简化为
+
+```
+[
+    {
+        "serviceId": "discovery-guide-service-a",
+        "path": "/x/**"
+    }
+]
+```
+
+- 完整配置
+
+```
+[
+    {
+        "id": "route0",
+        "serviceId": "discovery-guide-service-a",
+        "path": "/discovery-guide-service-a/**",
+        "url": null,
+        "stripPrefix": true,
+        "retryable": null,
+        "sensitiveHeaders": [],
+        "customSensitiveHeaders": false
+    },
+    {
+        "id": "route1",
+        "serviceId": "discovery-guide-service-a",
+        "path": "/x/**",
+        "url": null,
+        "stripPrefix": true,
+        "retryable": null,
+        "sensitiveHeaders": [],
+        "customSensitiveHeaders": false
+    },
+    {
+        "id": "route2",
+        "serviceId": "discovery-guide-service-a",
+        "path": "/y/**",
+        "url": null,
+        "stripPrefix": true,
+        "retryable": null,
+        "sensitiveHeaders": [],
+        "customSensitiveHeaders": false
+    }
+]
+```
+
+② Zuul网关的Rest Endpoint接口
+
+| 操作 | 路径 | 参数 | 方式 |
+| --- | --- | --- | --- |
+| 增加网关路由 | `http://[网关IP:PORT]/zuul-route/add` | 单个动态路由配置 | POST |
+| 修改网关路由 | `http://[网关IP:PORT]/zuul-route/modify` | 单个动态路由配置 | POST |
+| 删除网关路由 | `http://[网关IP:PORT]/zuul-route/delete` | 路由Id | POST |
+| 更新全部网关路由 | `http://[网关IP:PORT]/zuul-route/update-all` | 多个动态路由配置 | POST |
+| 根据路由Id查看网关路由 | `http://[网关IP:PORT]/zuul-route/view` | 路由Id | GET |
+| 查看全部网关路由| `http://[网关IP:PORT]/zuul-route/view-all` | 无 | GET |
+
+③ 控制台的Rest Endpoint接口
+
+| 操作 | 路径 | 参数 | 方式 |
+| --- | --- | --- | --- |
+| 增加网关路由 | `http://[控制台IP:PORT]/route/add/zuul/{serviceId}` | 单个动态路由配置 | POST |
+| 修改网关路由 | `http://[控制台IP:PORT]/route/modify/zuul/{serviceId}` | 单个动态路由配置 | POST |
+| 删除网关路由 | `http://[控制台IP:PORT]/route/delete/zuul/{serviceId}` | 路由Id | POST |
+| 更新全部网关路由 | `http://[控制台IP:PORT]/route/zuul/update-all/{serviceId}` | 多个动态路由配置 | GET |
+| 查看全部网关路由| `http://[控制台IP:PORT]/route/zuul/view-all/{serviceId}` | 无 | GET |
+
+④ 网关订阅配置中心
+
+网关订阅配置中心的使用方式，如下
+
+- Key为
+    - Nacos、Redis、Zookeeper配置中心，Group为{group}，DataId为{网关serviceId}-dynamic-route
+    - Apollo、Consul、Etcd配置中心，Key的格式为{group}-{网关serviceId}-dynamic-route
+    - {group}为注册中心元数据group值
+- Value参考`① Zuul网关的动态路由配置格式`
+
+![](http://nepxion.gitee.io/discovery/docs/discovery-doc/DiscoveryGuide7-10.jpg)
+
+支持如下开关开启该动能，默认是关闭的
+```
+# 开启和关闭网关订阅配置中心的动态路由策略。缺失则默认为false
+spring.application.strategy.zuul.dynamic.route.enabled=true
+```
+
+配置中心配置的网关动态路由推送到网关后，网关会自动根据已经存在的路由表进行判断后实施增删改操作，而不是全部清空后再全部插入，这样有助于提高性能和安全性。网关控制台上会打印出如下日志
+```java
+----- Zuul Dynamic Routes Update Information -----
+Total count=3
+Added count=1
+Modified count=1
+Deleted count=1
+--------------------------------------------------
+```
+
+⑤ 事件总线通知的订阅
+
+```java
+@EventBus
+public class MySubscriber {
+    @Subscribe
+    public void onZuulStrategyRouteAdded(ZuulStrategyRouteAddedEvent zuulStrategyRouteAddedEvent) {
+        System.out.println("增加网关路由=" + zuulStrategyRouteAddedEvent.getZuulStrategyRouteEntity());
+    }
+
+    @Subscribe
+    public void onZuulStrategyRouteModified(ZuulStrategyRouteModifiedEvent zuulStrategyRouteModifiedEvent) {
+        System.out.println("修改网关路由=" + zuulStrategyRouteModifiedEvent.getZuulStrategyRouteEntity());
+    }
+
+    @Subscribe
+    public void onZuulStrategyRouteDeleted(ZuulStrategyRouteDeletedEvent zuulStrategyRouteDeletedEvent) {
+        System.out.println("删除网关路由=" + zuulStrategyRouteDeletedEvent.getRouteId());
+    }
+
+    @Subscribe
+    public void onZuulStrategyRouteUpdatedAll(ZuulStrategyRouteUpdatedAllEvent zuulStrategyRouteUpdatedAllEvent) {
+        System.out.println("更新全部网关路由=" + zuulStrategyRouteUpdatedAllEvent.getZuulStrategyRouteEntityList());
+    }
+}
+```
+
+## 统一配置订阅执行器
+
+统一配置订阅执行器，基于Nacos、Apollo、Consul、Etcd、Redis、Zookeeper六种配置中心，通过封装适配成同样的写法，通过切换继承类，可切换配置中心，无须修改其它代码
+
+Spring Cloud配置动态刷新机制固化在一个比较单一的场景（例如，通过@Value方式）里，无法满足更灵活更高级的订阅场景，例如，Spring Cloud Gateway和Zuul网关通过改变配置中心的路由信息无法动态刷新路由路径
+
+本框架提供更简单灵活的实现方式，以Nacos为例子，使用者先确定订阅的Group和DataId，在Nacos界面填入这两个参数对应的配置内容，然后通过回调方法处理业务逻辑。具体使用方式，如下
+```java
+// 把继承类（extends）换成如下任何一个，即可切换配置中心，代码无需任何变动
+// 1. NacosProcessor
+// 2. ApolloProcessor
+// 3. ConsulProcessor
+// 4. EtcdProcessor
+// 5. ZookeeperProcessor
+// 6. RedisProcessor
+// Group和DataId自行决定，需要注意
+// 1. 对于Nacos、Redis、Zookeeper配置中心，Group和DataId需要和界面相对应
+// 2. 对于Apollo、Consul、Etcd配置中心，Key的格式为Group-DataId
+// 3. 千万不能和蓝绿灰度发布的Group和DataId冲突
+public class MyConfigProcessor extends NacosProcessor {
+    // private String group = "DEFAULT_GROUP";
+    private String group = "nepxion";
+
+    @Value("${" + DiscoveryConstant.SPRING_APPLICATION_NAME + "}")
+    private String dataId;
+
+    @Override
+    public String getGroup() {
+        return group;
+    }
+
+    @Override
+    public String getDataId() {
+        return dataId;
+    }
+
+    @Override
+    public String getDescription() {
+        // description为日志打印显示而设置，作用是帮助使用者在日志上定位订阅是否在执行
+        return "My operation";
+    }
+
+    @Override
+    public void callbackConfig(String config) {
+        // config为配置中心对应键值的内容变更，使用者可以根据此变更对业务模块做回调处理
+        System.out.println(config);
+    }
+}
+```
+在配置类里@Bean方式进行执行器类创建
+```java
+@Bean
+public MyConfigProcessor myConfigProcessor() {
+    return new MyConfigProcessor();
+}
+```
+
 ## 规则策略定义
 
 ### 规则策略格式定义
-![](http://nepxion.gitee.io/docs/icon-doc/warning.png) 需要注意，服务名大小写规则
+![](http://nepxion.gitee.io/discovery/docs/icon-doc/warning.png) 需要注意，服务名大小写规则
 - 在配置文件（application.properties、application.yaml等）里，定义服务名（spring.application.name）不区分大小写
 - 在规则文件（XML、Json）里，引用的服务名必须小写
 - 在Nacos、Apollo、Redis等远程配置中心的Key，包含的服务名必须小写
@@ -3010,17 +3568,17 @@ XML最全的示例如下，Json示例见源码discovery-springcloud-example-serv
         <!-- 单引号 ' 转义为 &apos; -->
 
         <!-- 全链路蓝绿部署：条件命中的匹配方式（第一优先级），支持版本匹配、区域匹配、IP地址和端口匹配、版本权重匹配、区域权重匹配 -->
-        <!-- Header节点不允许缺失 -->
+        <!-- Expression节点不允许缺失 -->
         <conditions type="blue-green">
-            <condition id="1" header="#H['a'] == '1' &amp;&amp; #H['b'] == '2'" version-id="a-1" region-id="b-1" address-id="c-1" version-weight-id="d-1" region-weight-id="e-1"/>
-            <condition id="2" header="#H['c'] == '3'" version-id="a-2" region-id="b-2" address-id="c-2" version-weight-id="d-2" region-weight-id="e-2"/>
+            <condition id="1" expression="#H['a'] == '1' &amp;&amp; #H['b'] == '2'" version-id="a-1" region-id="b-1" address-id="c-1" version-weight-id="d-1" region-weight-id="e-1"/>
+            <condition id="2" expression="#H['c'] == '3'" version-id="a-2" region-id="b-2" address-id="c-2" version-weight-id="d-2" region-weight-id="e-2"/>
         </conditions>
 
         <!-- 全链路灰度发布：条件命中的随机权重（第二优先级），支持版本匹配、区域匹配、IP地址和端口匹配 -->
-        <!-- Header节点允许缺失，当含Header和未含Header的配置并存时，以未含Header的配置为优先 -->
+        <!-- Expression节点允许缺失，当含Expression和未含Expression的配置并存时，以未含Expression的配置为优先 -->
         <conditions type="gray">
-            <condition id="1" header="#H['a'] == '1' &amp;&amp; #H['b'] == '2'" version-id="a-1=10;a-2=90" region-id="b-1=20;b-2=80" address-id="c-1=30;c-2=70"/>
-            <condition id="2" header="#H['c'] == '3'" version-id="a-1=90;a-2=10" region-id="b-1=80;b-2=20" address-id="c-1=70;c-2=30"/>
+            <condition id="1" expression="#H['a'] == '1' &amp;&amp; #H['b'] == '2'" version-id="a-1=10;a-2=90" region-id="b-1=20;b-2=80" address-id="c-1=30;c-2=70"/>
+            <condition id="2" expression="#H['c'] == '3'" version-id="a-1=90;a-2=10" region-id="b-1=80;b-2=20" address-id="c-1=70;c-2=30"/>
             <condition id="3" version-id="a-1=5;a-2=95" region-id="b-1=5;b-2=95" address-id="c-1=5;c-2=95"/>
         </conditions>
 
@@ -3089,7 +3647,7 @@ XML最全的示例如下，Json示例见源码discovery-springcloud-example-serv
 ### 基于远程配置中心的规则策略订阅推送
 Apollo订阅推送界面
 
-![](http://nepxion.gitee.io/docs/discovery-doc/Apollo1.jpg)
+![](http://nepxion.gitee.io/discovery/docs/discovery-doc/Apollo1.jpg)
 
 ① 参考Apollo官方文档[https://github.com/ctripcorp/apollo](https://github.com/ctripcorp/apollo)相关文档，搭建Apollo环境，以及熟悉相关的基本操作
 
@@ -3110,23 +3668,35 @@ Apollo订阅推送界面
 
 Nacos订阅推送界面
 
-![](http://nepxion.gitee.io/docs/discovery-doc/Nacos2.jpg)
+![](http://nepxion.gitee.io/discovery/docs/discovery-doc/Nacos2.jpg)
 - 参考Nacos官方文档[https://github.com/alibaba/nacos](https://github.com/alibaba/nacos)相关文档，搭建Nacos环境，以及熟悉相关的基本操作
 
 - 添加配置步骤跟Apollo配置界面中的【在页面中添加配置】操作项相似
 
 Redis订阅推送界面
 
-![](http://nepxion.gitee.io/docs/discovery-doc/Redis.jpg)
+![](http://nepxion.gitee.io/discovery/docs/discovery-doc/Redis.jpg)
+
+Consul订阅推送界面
+
+![](http://nepxion.gitee.io/discovery/docs/discovery-doc/Consul.jpg)
+
+Zookeeper订阅推送界面
+
+略
+
+Etcd订阅推送界面
+
+略
 
 ### 基于Swagger和Rest的规则策略推送
 服务侧单个推送界面
 
-![](http://nepxion.gitee.io/docs/discovery-doc/Swagger1.jpg)
+![](http://nepxion.gitee.io/discovery/docs/discovery-doc/Swagger1.jpg)
 
 控制平台批量推送界面
 
-![](http://nepxion.gitee.io/docs/discovery-doc/Swagger2.jpg)
+![](http://nepxion.gitee.io/discovery/docs/discovery-doc/Swagger2.jpg)
 
 ### 基于图形化桌面端和Web端的规则策略推送
 
@@ -3135,7 +3705,7 @@ Redis订阅推送界面
 ## 全链路环境隔离和路由
 基于服务实例的元数据Metadata的env参数和全链路传递的环境Header值进行对比实现隔离，当从网关传递来的环境Header（n-d-env）值和提供端实例的元数据Metadata环境配置值相等才能调用。环境隔离下，调用端实例找不到符合条件的提供端实例，把流量路由到一个通用或者备份环境
 
-![](http://nepxion.gitee.io/docs/discovery-doc/IsolationEnvironment.jpg)
+![](http://nepxion.gitee.io/discovery/docs/discovery-doc/IsolationEnvironment.jpg)
 
 ### 全链路环境隔离
 在网关或者服务端，配置环境元数据，在同一套环境下，env值必须是一样的，这样才能达到在同一个注册中心下，环境隔离的目的
@@ -3150,7 +3720,7 @@ spring.cloud.nacos.discovery.metadata.env=env1
 spring.application.strategy.environment.route=common
 ```
 
-![](http://nepxion.gitee.io/docs/icon-doc/warning.png) 需要注意
+![](http://nepxion.gitee.io/discovery/docs/icon-doc/warning.png) 需要注意
 
 - 如果存在环境，优先寻址环境的服务实例
 - 如果不存在环境，则寻址Common环境的服务实例（未设置元数据Metadata的env参数的服务实例也归为Common环境）
@@ -3160,7 +3730,7 @@ spring.application.strategy.environment.route=common
 
 ## 全链路可用区亲和性隔离和路由
 
-![](http://nepxion.gitee.io/docs/discovery-doc/IsolationZone.jpg)
+![](http://nepxion.gitee.io/discovery/docs/discovery-doc/IsolationZone.jpg)
 
 ### 全链路可用区亲和性隔离
 基于调用端实例和提供端实例的元数据Metadata的zone配置值进行对比实现隔离
@@ -3182,11 +3752,16 @@ spring.application.strategy.zone.affinity.enabled=false
 spring.application.strategy.zone.route.enabled=true
 ```
 
-![](http://nepxion.gitee.io/docs/icon-doc/warning.png) 需要注意
+![](http://nepxion.gitee.io/discovery/docs/icon-doc/warning.png) 需要注意
 
 - 不归属任何可用区，含义是服务实例未设置任何zone元数据值。可用区亲和性路由功能，是为了尽量保证流量不损失
-- 如果采用Eureka注册中心，Ribbon本身就具有可用区亲和性功能，跟本框架类似。如果使用者采用了Eureka注册中心下的Ribbon可用区亲和性功能，请关闭本框架提供的相似功能，以免冲突
 - 本框架提供的可用区亲和性功能适用于一切注册中心
+- 如果采用Eureka注册中心，Ribbon本身就具有可用区亲和性功能，跟本框架类似。通过如下开关，来选择使用Eureka原生的功能，还是本框架的功能
+
+```
+# 启动和关闭Eureka原生的可用区亲和性。当采用的注册中心是Eureka，并希望使用本框架的可用区亲和性功能，需要关闭Eureka原生的可用区亲和性功能，因为两者是冲突的
+niws.loadbalancer.zoneAvoidanceRule.enabled=false
+```
 
 ## 全链路服务隔离和准入
 
@@ -3220,11 +3795,11 @@ spring.application.strategy.scan.packages=com.nepxion.discovery.guide.service.fe
 ```
 Reject to invoke because of isolation with different service group
 ```
-![](http://nepxion.gitee.io/docs/discovery-doc/DiscoveryGuide6-1.jpg)
+![](http://nepxion.gitee.io/discovery/docs/discovery-doc/DiscoveryGuide6-1.jpg)
 
 如果加上n-d-service-group=discovery-guide-group的Header，那么两者保持Group相同，则调用通过。这是解决异构系统调用微服务被隔离的一种手段
 
-![](http://nepxion.gitee.io/docs/discovery-doc/DiscoveryGuide6-2.jpg)
+![](http://nepxion.gitee.io/discovery/docs/discovery-doc/DiscoveryGuide6-2.jpg)
 
 ### 注册发现隔离和准入
 
@@ -3250,33 +3825,28 @@ Reject to invoke because of isolation with different service group
 
 集成Sentinel熔断隔离限流降级平台
 
-![](http://nepxion.gitee.io/docs/discovery-doc/Sentinel3.jpg)
-![](http://nepxion.gitee.io/docs/discovery-doc/Sentinel4.jpg)
+![](http://nepxion.gitee.io/discovery/docs/discovery-doc/Sentinel3.jpg)
+![](http://nepxion.gitee.io/discovery/docs/discovery-doc/Sentinel4.jpg)
 
 通过集成Sentinel，在服务端实现该功能
 
-![](http://nepxion.gitee.io/docs/icon-doc/information.png) 由于该块功能早于Spring Cloud Alibaba Sentinel而产生，下述功能可以通过Spring Cloud Alibaba Sentinel功能来实现
+![](http://nepxion.gitee.io/discovery/docs/icon-doc/information.png) 由于该块功能早于Spring Cloud Alibaba Sentinel而产生，下述功能可以通过Spring Cloud Alibaba Sentinel功能来实现
 
-封装NacosDataSource和ApolloDataSource，支持Nacos和Apollo两个远程配置中心，零代码实现Sentinel功能。更多的远程配置中心，请参照Sentinel官方的DataSource并自行集成
+Sentinel订阅配置中心的使用方式，如下
 
-- Nacos的Key格式
+- Key为
+    - Nacos、Redis、Zookeeper配置中心，Group为{group}，DataId为{serviceId}-{规则类型}
+    - Apollo、Consul、Etcd配置中心，Key的格式为{group}-{serviceId}-{规则类型}
+    - {group}为注册中心元数据group值
+- Value为Json格式的规则
 
-```
-Group为元数据中配置的[组名]，Data Id为[服务名]-[规则类型]
-```
-
-- Apollo的Key格式
-
-```
-[组名]-[服务名]-[规则类型]
-```
 
 支持远程配置中心和本地规则文件的读取逻辑，即优先读取远程配置，如果不存在或者规则错误，则读取本地规则文件。动态实现远程配置中心对于规则的热刷新
 
 支持如下开关开启该动能，默认是关闭的
 ```
 # 启动和关闭Sentinel限流降级熔断权限等原生功能的数据来源扩展。缺失则默认为false
-spring.application.strategy.sentinel.enabled=true
+spring.application.strategy.sentinel.datasource.enabled=true
 ```
 
 ### 原生Sentinel注解
@@ -3330,7 +3900,7 @@ public class BFeignImpl extends AbstractFeignImpl implements BFeign {
     }
 ]
 ```
-![](http://nepxion.gitee.io/docs/discovery-doc/DiscoveryGuide7-1.jpg)
+![](http://nepxion.gitee.io/discovery/docs/discovery-doc/DiscoveryGuide7-1.jpg)
 
 #### 降级规则
 增加服务discovery-guide-service-b的规则，Group为discovery-guide-group，Data Id为discovery-guide-service-b-sentinel-degrade，规则内容如下
@@ -3346,7 +3916,7 @@ public class BFeignImpl extends AbstractFeignImpl implements BFeign {
     }
 ]
 ```
-![](http://nepxion.gitee.io/docs/discovery-doc/DiscoveryGuide7-2.jpg)
+![](http://nepxion.gitee.io/discovery/docs/discovery-doc/DiscoveryGuide7-2.jpg)
 
 #### 授权规则
 增加服务discovery-guide-service-b的规则，Group为discovery-guide-group，Data Id为discovery-guide-service-b-sentinel-authority，规则内容如下
@@ -3359,7 +3929,7 @@ public class BFeignImpl extends AbstractFeignImpl implements BFeign {
     }
 ]
 ```
-![](http://nepxion.gitee.io/docs/discovery-doc/DiscoveryGuide7-3.jpg)
+![](http://nepxion.gitee.io/discovery/docs/discovery-doc/DiscoveryGuide7-3.jpg)
 
 #### 系统规则
 增加服务discovery-guide-service-b的规则，Group为discovery-guide-group，Data Id为discovery-guide-service-b-sentinel-system，规则内容如下
@@ -3376,7 +3946,7 @@ public class BFeignImpl extends AbstractFeignImpl implements BFeign {
     }
 ]
 ```
-![](http://nepxion.gitee.io/docs/discovery-doc/DiscoveryGuide7-4.jpg)
+![](http://nepxion.gitee.io/discovery/docs/discovery-doc/DiscoveryGuide7-4.jpg)
 
 #### 热点参数流控规则
 增加服务discovery-guide-service-b的规则，Group为discovery-guide-group，Data Id为discovery-guide-service-b-sentinel-param-flow，规则内容如下
@@ -3397,7 +3967,7 @@ public class BFeignImpl extends AbstractFeignImpl implements BFeign {
     }
 ]
 ```
-![](http://nepxion.gitee.io/docs/discovery-doc/DiscoveryGuide7-5.jpg)
+![](http://nepxion.gitee.io/discovery/docs/discovery-doc/DiscoveryGuide7-5.jpg)
 
 ### 基于Sentinel-LimitApp扩展的防护
 该功能对于上面5种规则都有效，这里以授权规则展开阐述
@@ -3407,7 +3977,7 @@ public class BFeignImpl extends AbstractFeignImpl implements BFeign {
 支持如下开关开启该动能，默认是关闭的
 ```
 # 启动和关闭Sentinel LimitApp限流等功能。缺失则默认为false
-spring.application.strategy.service.sentinel.limit.app.enabled=true
+spring.application.strategy.sentinel.limit.app.enabled=true
 ```
 
 #### 基于服务名的防护
@@ -3415,7 +3985,7 @@ spring.application.strategy.service.sentinel.limit.app.enabled=true
 
 配置项，该配置项默认为n-d-service-id，可以不配置
 ```
-spring.application.strategy.service.sentinel.request.origin.key=n-d-service-id
+spring.application.strategy.sentinel.request.origin.key=n-d-service-id
 ```
 
 增加服务discovery-guide-service-b的规则，Group为discovery-guide-group，Data Id为discovery-guide-service-b-sentinel-authority，规则内容如下，表示所有discovery-guide-service-a服务允许访问discovery-guide-service-b服务
@@ -3434,7 +4004,7 @@ spring.application.strategy.service.sentinel.request.origin.key=n-d-service-id
 
 配置项
 ```
-spring.application.strategy.service.sentinel.request.origin.key=n-d-service-group
+spring.application.strategy.sentinel.request.origin.key=n-d-service-group
 ```
 
 增加服务discovery-guide-service-b的规则，Group为discovery-guide-group，Data Id为discovery-guide-service-b-sentinel-authority，规则内容如下，表示隶属my-group组的所有服务都允许访问服务discovery-guide-service-b
@@ -3453,7 +4023,7 @@ spring.application.strategy.service.sentinel.request.origin.key=n-d-service-grou
 
 配置项
 ```
-spring.application.strategy.service.sentinel.request.origin.key=n-d-service-version
+spring.application.strategy.sentinel.request.origin.key=n-d-service-version
 ```
 
 增加服务discovery-guide-service-b的规则，Group为discovery-guide-group，Data Id为discovery-guide-service-b-sentinel-authority，规则内容如下，表示版本为1.0的所有服务都允许访问服务discovery-guide-service-b
@@ -3472,7 +4042,7 @@ spring.application.strategy.service.sentinel.request.origin.key=n-d-service-vers
 
 配置项
 ```
-spring.application.strategy.service.sentinel.request.origin.key=n-d-service-region
+spring.application.strategy.sentinel.request.origin.key=n-d-service-region
 ```
 
 增加服务discovery-guide-service-b的规则，Group为discovery-guide-group，Data Id为discovery-guide-service-b-sentinel-authority，规则内容如下，表示区域为dev的所有服务都允许访问服务discovery-guide-service-b
@@ -3491,7 +4061,7 @@ spring.application.strategy.service.sentinel.request.origin.key=n-d-service-regi
 
 配置项
 ```
-spring.application.strategy.service.sentinel.request.origin.key=n-d-service-env
+spring.application.strategy.sentinel.request.origin.key=n-d-service-env
 ```
 
 增加服务discovery-guide-service-b的规则，Group为discovery-guide-group，Data Id为discovery-guide-service-b-sentinel-authority，规则内容如下，表示环境为env1的所有服务都允许访问服务discovery-guide-service-b
@@ -3510,7 +4080,7 @@ spring.application.strategy.service.sentinel.request.origin.key=n-d-service-env
 
 配置项
 ```
-spring.application.strategy.service.sentinel.request.origin.key=n-d-service-zone
+spring.application.strategy.sentinel.request.origin.key=n-d-service-zone
 ```
 
 增加服务discovery-guide-service-b的规则，Group为discovery-guide-group，Data Id为discovery-guide-service-b-sentinel-authority，规则内容如下，表示可用区为zone1的所有服务都允许访问服务discovery-guide-service-b
@@ -3529,7 +4099,7 @@ spring.application.strategy.service.sentinel.request.origin.key=n-d-service-zone
 
 配置项
 ```
-spring.application.strategy.service.sentinel.request.origin.key=n-d-service-address
+spring.application.strategy.sentinel.request.origin.key=n-d-service-address
 ```
 
 增加服务discovery-guide-service-b的规则，Group为discovery-guide-group，Data Id为discovery-guide-service-b-sentinel-authority，规则内容如下，表示地址和端口为192.168.0.88:8081和192.168.0.88:8082的服务都允许访问服务discovery-guide-service-b
@@ -3547,7 +4117,7 @@ spring.application.strategy.service.sentinel.request.origin.key=n-d-service-addr
 通过适配类实现自定义组合式的防护，支持自定义Header、Parameter、Cookie参数的防护，自定义业务参数的防护，以及自定义前两者组合式的防护
 ```java
 // 自定义版本号+地域名，实现组合式熔断
-public class MyServiceSentinelRequestOriginAdapter extends DefaultServiceSentinelRequestOriginAdapter {
+public class MySentinelStrategyRequestOriginAdapter extends DefaultSentinelStrategyRequestOriginAdapter {
     @Override
     public String parseOrigin(HttpServletRequest request) {
         String version = request.getHeader(DiscoveryConstant.N_D_SERVICE_VERSION);
@@ -3560,8 +4130,8 @@ public class MyServiceSentinelRequestOriginAdapter extends DefaultServiceSentine
 在配置类里@Bean方式进行适配类创建
 ```java
 @Bean
-public ServiceSentinelRequestOriginAdapter ServiceSentinelRequestOriginAdapter() {
-    return new MyServiceSentinelRequestOriginAdapter();
+public SentinelStrategyRequestOriginAdapter sentinelStrategyRequestOriginAdapter() {
+    return new MySentinelStrategyRequestOriginAdapter();
 }
 ```
 
@@ -3580,15 +4150,15 @@ public ServiceSentinelRequestOriginAdapter ServiceSentinelRequestOriginAdapter()
 
 - 当传递的Header中location=shanghai，当全链路调用中，API网关负载均衡discovery-guide-service-a服务到1.0版本后再去调用discovery-guide-service-b服务，最终调用成功
 
-![](http://nepxion.gitee.io/docs/discovery-doc/DiscoveryGuide7-6.jpg)
+![](http://nepxion.gitee.io/discovery/docs/discovery-doc/DiscoveryGuide7-6.jpg)
 
 - 当传递的Header中location=beijing，不满足条件，最终调用在discovery-guide-service-b服务端被拒绝掉
 
-![](http://nepxion.gitee.io/docs/discovery-doc/DiscoveryGuide7-7.jpg)
+![](http://nepxion.gitee.io/discovery/docs/discovery-doc/DiscoveryGuide7-7.jpg)
 
 - 当传递的Header中location=shanghai，满足条件之一，当全链路调用中，API网关负载均衡discovery-guide-service-a服务到1.1版本后再去调用discovery-guide-service-b服务，不满足version=1.0的条件，最终调用在discovery-guide-service-b服务端被拒绝掉
 
-![](http://nepxion.gitee.io/docs/discovery-doc/DiscoveryGuide7-8.jpg)
+![](http://nepxion.gitee.io/discovery/docs/discovery-doc/DiscoveryGuide7-8.jpg)
 
 ## 全链路监控
 
@@ -3628,20 +4198,22 @@ public ServiceSentinelRequestOriginAdapter ServiceSentinelRequestOriginAdapter()
 
 - 集成OpenTracing + Jaeger蓝绿灰度全链路监控
 
-![](http://nepxion.gitee.io/docs/discovery-doc/Jaeger2.jpg)
-![](http://nepxion.gitee.io/docs/discovery-doc/Jaeger3.jpg)
-![](http://nepxion.gitee.io/docs/discovery-doc/JaegerPremium1.jpg)
+![](http://nepxion.gitee.io/discovery/docs/discovery-doc/Jaeger2.jpg)
+![](http://nepxion.gitee.io/discovery/docs/discovery-doc/Jaeger3.jpg)
+![](http://nepxion.gitee.io/discovery/docs/discovery-doc/JaegerPremium1.jpg)
 
 - 集成OpenTracing + SkyWalking蓝绿灰度全链路监控
 
-![](http://nepxion.gitee.io/docs/discovery-doc/SkyWalking1.jpg)
-![](http://nepxion.gitee.io/docs/discovery-doc/SkyWalking2.jpg)
+![](http://nepxion.gitee.io/discovery/docs/discovery-doc/SkyWalking1.jpg)
+![](http://nepxion.gitee.io/discovery/docs/discovery-doc/SkyWalking2.jpg)
 
 #### 蓝绿灰度埋点Debug辅助监控
 Debug辅助监控只是通过普通的System.out.println方式输出，便于开发人员在IDE上调试，在生产环境下不建议开启
 
 对于Debug辅助监控功能的开启和关闭，需要通过如下开关做控制
 ```
+# 启动和关闭监控，一旦关闭，调用链和日志输出都将关闭。缺失则默认为false
+spring.application.strategy.monitor.enabled=true
 # 启动和关闭Header传递的Debug日志打印，注意：每调用一次都会打印一次，会对性能有所影响，建议压测环境和生产环境关闭。缺失则默认为false
 spring.application.strategy.rest.intercept.debug.enabled=true
 # 启动和关闭Debug日志打印，注意：每调用一次都会打印一次，会对性能有所影响，建议压测环境和生产环境关闭。缺失则默认为false
@@ -3650,7 +4222,7 @@ spring.application.strategy.logger.debug.enabled=true
 
 ① 网关端和服务端自身蓝绿灰度埋点Debug辅助监控
 ```
------------------- Logger Debug ------------------
+----------------------- Logger Debug -----------------------
 trace-id=dade3982ae65e9e1
 span-id=997e31021e9fce20
 n-d-service-group=discovery-guide-group
@@ -3664,12 +4236,12 @@ n-d-service-zone=zone1
 n-d-version={"discovery-guide-service-a":"1.0", "discovery-guide-service-b":"1.0"}
 mobile=13812345678
 user=
---------------------------------------------------
+------------------------------------------------------------
 ```
 
-② 服务端Feign或者RestTemplate拦截输入的蓝绿灰度埋点Debug辅助监控
+② 服务端Feign、RestTemplate或者WebClient拦截输入的蓝绿灰度埋点Debug辅助监控
 ```
-------- Feign Intercept Input Header Information -------
+--------- Feign Intercept Input Header Information ---------
 n-d-service-group=discovery-guide-group
 n-d-version={"discovery-guide-service-a":"1.0", "discovery-guide-service-b":"1.0"}
 n-d-service-type=gateway
@@ -3680,12 +4252,12 @@ n-d-service-region=default
 n-d-service-zone=default
 n-d-service-address=172.27.208.1:5002
 n-d-service-version=1.0
---------------------------------------------------
+------------------------------------------------------------
 ```
 
-③ 服务端Feign或者RestTemplate拦截输出的蓝绿灰度埋点Debug辅助监控
+③ 服务端Feign、RestTemplate或者WebClient调用拦截输出的蓝绿灰度埋点Debug辅助监控
 ```
-------- Feign Intercept Output Header Information ------
+-------- Feign Intercept Output Header Information ---------
 mobile=[13812345678]
 n-d-service-address=[172.27.208.1:3001]
 n-d-service-env=[env1]
@@ -3696,19 +4268,19 @@ n-d-service-type=[service]
 n-d-service-version=[1.0]
 n-d-service-zone=[zone1]
 n-d-version=[{"discovery-guide-service-a":"1.0", "discovery-guide-service-b":"1.0"}]
---------------------------------------------------
+------------------------------------------------------------
 ```
 
 #### Sentinel熔断埋点调用链监控
 
 - 集成OpenTracing + Jaeger + Sentinel限流熔断降级权限埋点全链路监控
 
-![](http://nepxion.gitee.io/docs/discovery-doc/Jaeger6.jpg)
+![](http://nepxion.gitee.io/discovery/docs/discovery-doc/Jaeger6.jpg)
 
 - 集成OpenTracing + SkyWalking + Sentinel限流熔断降级权限埋点全链路监控
 
-![](http://nepxion.gitee.io/docs/discovery-doc/SkyWalking3.jpg)
-![](http://nepxion.gitee.io/docs/discovery-doc/SkyWalking4.jpg)
+![](http://nepxion.gitee.io/discovery/docs/discovery-doc/SkyWalking3.jpg)
+![](http://nepxion.gitee.io/discovery/docs/discovery-doc/SkyWalking4.jpg)
 
 #### 自定义埋点调用链监控
 ① 自定义调用链上下文参数的创建，继承DefaultStrategyTracerAdapter
@@ -3763,7 +4335,7 @@ public class MyServiceStrategyMonitorAdapter implements ServiceStrategyMonitorAd
     }
 }
 ```
-在配置类里@Bean方式进行创建
+在配置类里@Bean方式进行监控适配类创建
 ```java
 @Bean
 public ServiceStrategyMonitorAdapter serviceStrategyMonitorAdapter() {
@@ -3789,6 +4361,8 @@ public class MyClass {
 ```
 # 启动和关闭监控，一旦关闭，调用链和日志输出都将关闭。缺失则默认为false
 spring.application.strategy.monitor.enabled=true
+# 启动和关闭告警，一旦关闭，蓝绿灰度上下文输出都将关闭。缺失则默认为false
+spring.application.strategy.alarm.enabled=true
 # 启动和关闭日志输出。缺失则默认为false
 spring.application.strategy.logger.enabled=true
 # 日志输出中，是否显示MDC前面的Key。缺失则默认为true
@@ -3809,13 +4383,13 @@ spring.application.strategy.tracer.method.context.output.enabled=true
 spring.application.strategy.tracer.span.value=NEPXION
 # 显示在调用链界面上蓝绿灰度Span Tag的插件名称，建议改成具有公司特色的框架产品的描述。缺失则默认为Nepxion Discovery
 spring.application.strategy.tracer.span.tag.plugin.value=Nepxion Discovery
-# 启动和关闭Sentinel调用链上规则在Span上的输出，注意：原生的Sentinel不是Spring技术栈，下面参数必须通过-D方式或者System.setProperty方式等设置进去。缺失则默认为true
+# 启动和关闭Sentinel调用链上规则在Span上的输出。缺失则默认为true
 spring.application.strategy.tracer.sentinel.rule.output.enabled=true
-# 启动和关闭Sentinel调用链上方法入参在Span上的输出，注意：原生的Sentinel不是Spring技术栈，下面参数必须通过-D方式或者System.setProperty方式等设置进去。缺失则默认为false
+# 启动和关闭Sentinel调用链上方法入参在Span上的输出。缺失则默认为false
 spring.application.strategy.tracer.sentinel.args.output.enabled=true
 ```
 
-![](http://nepxion.gitee.io/docs/icon-doc/warning.png) 需要注意，OpenTracing对Finchley版的Spring Cloud Gateway的reactor-core包存在版本兼容性问题，如果使用者希望Finchley版的Spring Cloud Gateway上使用OpenTracing，需要做如下改造
+![](http://nepxion.gitee.io/discovery/docs/icon-doc/warning.png) 需要注意，OpenTracing对Finchley版的Spring Cloud Gateway的reactor-core包存在版本兼容性问题，如果使用者希望Finchley版的Spring Cloud Gateway上使用OpenTracing，需要做如下改造
 ```xml
 <dependency>
     <groupId>com.nepxion</groupId>
@@ -3894,19 +4468,70 @@ spring.application.strategy.tracer.sentinel.args.output.enabled=true
 </configuration>
 ```
 
-![](http://nepxion.gitee.io/docs/discovery-doc/Tracer.jpg)
+![](http://nepxion.gitee.io/discovery/docs/discovery-doc/Tracer.jpg)
+
+### 全链路告警监控
+
+#### 蓝绿灰度告警监控
+全链路蓝绿灰度实施过程中，使用者需要快速判断蓝绿灰度是否已经生效，可以通过
+
+- Debug开关开启，通过控制台输出去判断相关蓝绿灰度Header是否传递，是否相同
+- 依托监控调用链中间件，通过埋点输出去判断相关蓝绿灰度Header是否传递，是否相同
+
+上述方式需要人工观察和干预，并不友好，使用者也可以通过集成如下蓝绿灰度告警监控模块来实现
+
+① 网关和服务加上下面的类
+```java
+@EventBus
+public class MySubscriber {
+    @Subscribe
+    public void onAlarm(StrategyAlarmEvent strategyAlarmEvent) {
+        // 在本告警中告警类型为StrategyConstant.STRATEGY_CONTEXT_ALARM的静态变量值，表示蓝绿灰度上下文告警
+        String alarmType = strategyAlarmEvent.getAlarmType();
+
+        // 通过事件总线把告警数据alarmMap存储到ElasticSearch、MessageQueue、数据库等
+        Map<String, String> alarmMap = strategyAlarmEvent.getAlarmMap();
+    }
+}
+```
+在配置类里@Bean方式进行订阅类创建
+```java
+@Bean
+public MySubscriber mySubscriber() {
+    return new MySubscriber();
+}
+```
+并开启如下开关
+```
+# 启动和关闭告警，一旦关闭，蓝绿灰度上下文输出都将关闭。缺失则默认为false
+spring.application.strategy.alarm.enabled=true
+```
+② 通过事件总线把告警数据存储到ElasticSearch、MessageQueue、数据库等
+
+③ 根据端到端的traceId对应的蓝绿灰度Header是否传递，是否相同，判断蓝绿灰度是否成功
+
+④ 如果不相同，结合DevOps系统发送告警邮件或者通知
+
+⑤ 告警数据具体信息列表参考源码：
+```java
+com.nepxion.discovery.plugin.strategy.monitor.DefaultStrategyAlarm
+```
+示例如下：
+```
+{n-d-service-group=discovery-guide-group, n-d-version={"discovery-guide-service-a":"1.0", "discovery-guide-service-b":"1.0"}, n-d-service-type=service, n-d-service-id=discovery-guide-service-b, n-d-service-env=env1, mobile=, n-d-service-region=qa, span-id=c37b54d7fec6bd07, n-d-service-zone=zone1, n-d-service-address=192.168.0.107:4001, trace-id=64c79e1ef68eecf3, n-d-service-version=1.0}
+```
 
 ### 全链路指标监控
 
 #### Prometheus监控
-![](http://nepxion.gitee.io/docs/discovery-doc/Prometheus.jpg)
+![](http://nepxion.gitee.io/discovery/docs/discovery-doc/Prometheus.jpg)
 
 #### Grafana监控
-![](http://nepxion.gitee.io/docs/discovery-doc/Grafana.jpg)
+![](http://nepxion.gitee.io/discovery/docs/discovery-doc/Grafana.jpg)
 
 #### Spring-Boot-Admin监控
-![](http://nepxion.gitee.io/docs/discovery-doc/Admin1.jpg)
-![](http://nepxion.gitee.io/docs/discovery-doc/Admin7.jpg)
+![](http://nepxion.gitee.io/discovery/docs/discovery-doc/Admin4.jpg)
+![](http://nepxion.gitee.io/discovery/docs/discovery-doc/Admin7.jpg)
 
 ## 全链路服务侧注解
 服务侧对于RPC方式的调用拦截、消费端的服务隔离和调用链三项功能，默认映射到RestController类（含有@RestController注解），并配合如下的扫描路径才能工作
@@ -4031,7 +4656,7 @@ git.tags=
 git.total.commit.count=765
 ```
 
-![](http://nepxion.gitee.io/docs/icon-doc/warning.png) 需要注意，一般情况下，上述两个地方的配置都同时保持默认即可。对于一些特殊的用法，两个地方的配置项用法必须保持一致，例如
+![](http://nepxion.gitee.io/discovery/docs/icon-doc/warning.png) 需要注意，一般情况下，上述两个地方的配置都同时保持默认即可。对于一些特殊的用法，两个地方的配置项用法必须保持一致，例如
 ```
 # 输出到工程根目录下
 <generateGitPropertiesFilename>${project.basedir}/git.json</generateGitPropertiesFilename>
@@ -4069,9 +4694,71 @@ spring.application.group.generator.character=-
 ### 基于用户自定义创建版本号
 参考[流量染色配置](#流量染色配置)
 
+## 自动扫描目录
+自动扫描目录功能为省掉手工配置扫描目录而设定的，当使用者手工配置了扫描目录，则采用使用者配置的目录，如果没配置，则采用自动扫描目录的方式
+
+如下配置是手工配置扫描目录的样例
+```
+# 路由策略的时候，需要指定对业务RestController类的扫描路径。此项配置作用于RPC方式的调用拦截、消费端的服务隔离和调用链三项功能
+spring.application.strategy.scan.packages=com.nepxion.discovery.guide.service
+```
+
+① 自动扫描目录的配置
+```
+# 启动和关闭自动扫描目录，当扫描目录未人工配置的时候，可以通过自动扫描方式决定扫描目录。缺失则默认为true
+spring.application.strategy.auto.scan.packages.enabled=true
+# 启动和关闭嵌套扫描，嵌套扫描指扫描非本工程下外部包的目录，可以支持多层嵌套。缺失则默认为false
+spring.application.strategy.auto.scan.recursion.enabled=false
+```
+
+② 自动扫描目录的逻辑
+
+在假设的场景中，SpringBoot入口设定扫描目录为com.a，com.a目录下有个Spring对象通过ComponentScan方式设定扫描目录为com.b，com.b目录下有个Spring对象通过ComponentScan方式设定扫描目录为com.c，那么最终计算出来的目录为
+
+嵌套扫描下，得到的扫描目录是
+```
+SpringBoot入口所在的目录;com.a;com.b;com.c
+```
+
+非嵌套扫描下，得到的扫描目录是
+```
+SpringBoot入口所在的目录;com.a
+```
+
+③ 扩展获取自动扫描目录
+
+使用者可以通过如下代码得到自动扫描目录
+```java
+public class MyService {
+    @Autowired
+    private StrategyPackagesExtractor strategyPackagesExtractor;
+
+    public void getPackages() {
+        // 获取@SpringBootApplication所在类入口的扫描目录（一般只有一个），返回List<String>类型
+        strategyPackagesExtractor.getBasePackagesList();
+
+        // 获取所有嵌套的扫描目录（包括当前工程的所有类中@SpringBootApplication和@ComponentScan注解设定的扫描目录），返回List<String>类型
+        strategyPackagesExtractor.getScanningPackagesList();
+
+        // 上面两种目录的相加，返回List<String>类型
+        strategyPackagesExtractor.getAllPackagesList();
+    }
+}
+```
+
 ## 配置文件
 
 ### 流量染色配置
+统一注册中心配置方式，适用于所有注册中心
+```
+spring.cloud.discovery.metadata.group=xxx-service-group
+spring.cloud.discovery.metadata.version=1.0
+spring.cloud.discovery.metadata.region=dev
+spring.cloud.discovery.metadata.env=env1
+spring.cloud.discovery.metadata.zone=zone1
+```
+
+不同注册中心原生配置方式
 ```
 # Eureka config for discovery
 eureka.instance.metadataMap.group=xxx-service-group
@@ -4097,6 +4784,31 @@ spring.cloud.nacos.discovery.metadata.version=1.0
 spring.cloud.nacos.discovery.metadata.region=dev
 spring.cloud.nacos.discovery.metadata.env=env1
 spring.cloud.nacos.discovery.metadata.zone=zone1
+```
+
+![](http://nepxion.gitee.io/discovery/docs/icon-doc/information.png) 〔Spring Cloud 202x版〕特别提醒
+
+> 对于Spring Cloud 202x版，由于它重构了Consul元数据的方式，需要通过如下方式配置
+
+```
+# Consul config for discovery
+spring.cloud.consul.discovery.metadata.group=xxx-service-group
+spring.cloud.consul.discovery.metadata.version=1.0
+spring.cloud.consul.discovery.metadata.region=dev
+spring.cloud.consul.discovery.metadata.env=env1
+spring.cloud.consul.discovery.metadata.zone=zone1
+```
+
+> 对于用户自定义的Consul元数据的Key，不能带有包含“.”，“@”等字符，否则服务无法启动，但允许包含“_”，“-”等字符，参考如下配置
+
+```
+# 合法格式
+spring.cloud.consul.discovery.metadata.my_data=abc
+spring.cloud.consul.discovery.metadata.my-data=abc
+
+# 非法格式
+spring.cloud.consul.discovery.metadata.my.data=abc
+spring.cloud.consul.discovery.metadata.my@data=abc
 ```
 
 ### 中间件属性配置
@@ -4154,25 +4866,8 @@ apollo.meta=http://localhost:8080
 
 ```
 # Nacos config for rule
-nacos.server-addr=localhost:8848
-# nacos.access-key=
-# nacos.secret-key=
-# nacos.plugin.namespace=application
-# nacos.plugin.cluster-name=
-# nacos.plugin.context-path=
-# nacos.plugin.config-long-poll-timeout=
-# nacos.plugin.config-retry-time=
-# nacos.plugin.max-retry=
-# nacos.plugin.endpoint=
-# nacos.plugin.endpoint-port=
-# nacos.plugin.is-use-endpoint-parsing-rule=
-# nacos.plugin.is-use-cloud-namespace-parsing=
-# nacos.plugin.encode=
-# nacos.plugin.naming-load-cache-at-start=
-# nacos.plugin.naming-client-beat-thread-count=
-# nacos.plugin.naming-polling-thread-count=
-# nacos.plugin.ram-role-name=
-# nacos.plugin.timout=
+spring.cloud.nacos.config.server-addr=localhost:8848
+# spring.cloud.nacos.config.namespace=application
 ```
 
 - Redis配置中心配置
@@ -4192,6 +4887,25 @@ spring.redis.database=0
 zookeeper.connect-string=localhost:2181
 zookeeper.retry-count=3
 zookeeper.sleep-time=3000
+```
+
+- Consul配置中心配置
+
+```
+# Consul config for rule
+consul.host=localhost
+consul.port=8500
+consul.timeout=1
+consul.token=
+```
+
+- Etcd配置中心配置
+
+```
+# Etcd config for rule
+etcd.server.addr=http://localhost:2379
+etcd.username=
+etcd.password=
 ```
 
 ③ 监控中心配置
@@ -4215,13 +4929,13 @@ opentracing.jaeger.http-sender.url=http://localhost:14268/api/traces
 ```
 # Spring boot admin config
 spring.boot.admin.client.instance.prefer-ip=true
-spring.boot.admin.client.url=http://localhost:5555
+spring.boot.admin.client.url=http://localhost:9728
 ```
 
 ④ 异步跨线程Agent配置
 
 ```
--javaagent:C:/opt/discovery-agent/discovery-agent-starter-${discovery.agent.version}.jar -Dthread.scan.packages=reactor.core.publisher;org.springframework.aop.interceptor;com.netflix.hystrix;com.nepxion.discovery.guide.service.feign
+-javaagent:C:/opt/discovery-agent/discovery-agent-starter-${discovery.agent.version}.jar -Dthread.scan.packages=com.nepxion.discovery.guide.service.feign
 ```
 
 ### 功能开关配置
@@ -4254,10 +4968,10 @@ spring.application.no.servers.retry.times=5
 spring.application.no.servers.retry.await.time=2000
 # 负载均衡下，消费端尝试获取对应提供端服务实例列表为空的时候，通过日志方式通知。缺失则默认为false
 spring.application.no.servers.notify.enabled=false
+# 由于Nacos注册中心会自动把服务名处理成GROUP@@SERVICE_ID的格式，导致根据服务名去获取元数据的时候会找不到。通过如下开关开启是否要过滤掉GROUP前缀。缺失则默认为true
+spring.application.nacos.service.id.filter.enabled=true
 
 # Plugin strategy config
-# 开启和关闭路由策略的控制。一旦关闭，路由策略功能将失效。缺失则默认为true
-spring.application.strategy.control.enabled=true
 # 开启和关闭Ribbon默认的ZoneAvoidanceRule负载均衡策略。一旦关闭，则使用RoundRobin简单轮询负载均衡策略。缺失则默认为true
 spring.application.strategy.zone.avoidance.rule.enabled=true
 # 启动和关闭路由策略的时候，对REST方式的调用拦截。缺失则默认为true
@@ -4288,9 +5002,19 @@ spring.application.strategy.feign.core.header.transmission.enabled=true
 # 7. n-d-address-blacklist
 # 8. n-d-env (不属于蓝绿灰度范畴的Header，只要外部传入就会全程传递)
 spring.application.strategy.rest.template.core.header.transmission.enabled=true
-# 路由策略的时候，对REST方式调用拦截的时候（支持Feign或者RestTemplate调用），希望把来自外部自定义的Header参数（用于框架内置上下文Header，例如：trace-id, span-id等）传递到服务里，那么配置如下值。如果多个用“;”分隔，不允许出现空格
+# 启动和关闭WebClient上核心策略Header传递，缺失则默认为true。当全局订阅启动时，可以关闭核心策略Header传递，这样可以节省传递数据的大小，一定程度上可以提升性能。核心策略Header，包含如下
+# 1. n-d-version
+# 2. n-d-region
+# 3. n-d-address
+# 4. n-d-version-weight
+# 5. n-d-region-weight
+# 6. n-d-id-blacklist
+# 7. n-d-address-blacklist
+# 8. n-d-env (不属于蓝绿灰度范畴的Header，只要外部传入就会全程传递)
+spring.application.strategy.web.client.core.header.transmission.enabled=true
+# 路由策略的时候，对REST方式调用拦截的时候（支持Feign、RestTemplate或者WebClient调用），希望把来自外部自定义的Header参数（用于框架内置上下文Header，例如：trace-id, span-id等）传递到服务里，那么配置如下值。如果多个用“;”分隔，不允许出现空格
 spring.application.strategy.context.request.headers=trace-id;span-id
-# 路由策略的时候，对REST方式调用拦截的时候（支持Feign或者RestTemplate调用），希望把来自外部自定义的Header参数（用于业务系统自定义Header，例如：mobile）传递到服务里，那么配置如下值。如果多个用“;”分隔，不允许出现空格
+# 路由策略的时候，对REST方式调用拦截的时候（支持Feign、RestTemplate或者WebClient调用），希望把来自外部自定义的Header参数（用于业务系统自定义Header，例如：mobile）传递到服务里，那么配置如下值。如果多个用“;”分隔，不允许出现空格
 spring.application.strategy.business.request.headers=token
 # 路由策略的时候，执行请求过滤，对指定包含的URI字段进行排除。缺失则默认为/actuator/，如果多个用“;”分隔，不允许出现空格
 spring.application.strategy.uri.filter.exclusion=/actuator/
@@ -4305,6 +5029,8 @@ spring.application.strategy.provider.isolation.enabled=true
 
 # 启动和关闭监控，一旦关闭，调用链和日志输出都将关闭。缺失则默认为false
 spring.application.strategy.monitor.enabled=true
+# 启动和关闭告警，一旦关闭，蓝绿灰度上下文输出都将关闭。缺失则默认为false
+spring.application.strategy.alarm.enabled=true
 # 启动和关闭日志输出。缺失则默认为false
 spring.application.strategy.logger.enabled=true
 # 日志输出中，是否显示MDC前面的Key。缺失则默认为true
@@ -4325,16 +5051,16 @@ spring.application.strategy.tracer.method.context.output.enabled=true
 spring.application.strategy.tracer.span.value=NEPXION
 # 显示在调用链界面上蓝绿灰度Span Tag的插件名称，建议改成具有公司特色的框架产品的描述。缺失则默认为Nepxion Discovery
 spring.application.strategy.tracer.span.tag.plugin.value=Nepxion Discovery
-# 启动和关闭Sentinel调用链上规则在Span上的输出，注意：原生的Sentinel不是Spring技术栈，下面参数必须通过-D方式或者System.setProperty方式等设置进去。缺失则默认为true
+# 启动和关闭Sentinel调用链上规则在Span上的输出。缺失则默认为true
 spring.application.strategy.tracer.sentinel.rule.output.enabled=true
-# 启动和关闭Sentinel调用链上方法入参在Span上的输出，注意：原生的Sentinel不是Spring技术栈，下面参数必须通过-D方式或者System.setProperty方式等设置进去。缺失则默认为false
+# 启动和关闭Sentinel调用链上方法入参在Span上的输出。缺失则默认为false
 spring.application.strategy.tracer.sentinel.args.output.enabled=true
 
 # 开启服务端实现Hystrix线程隔离模式做服务隔离时，必须把spring.application.strategy.hystrix.threadlocal.supported设置为true，同时要引入discovery-plugin-strategy-starter-hystrix包，否则线程切换时会发生ThreadLocal上下文对象丢失。缺失则默认为false
 spring.application.strategy.hystrix.threadlocal.supported=true
 
 # 启动和关闭Sentinel限流降级熔断权限等原生功能的数据来源扩展。缺失则默认为false
-spring.application.strategy.sentinel.enabled=true
+spring.application.strategy.sentinel.datasource.enabled=true
 # 流控规则文件路径。缺失则默认为classpath:sentinel-flow.json
 spring.application.strategy.sentinel.flow.path=classpath:sentinel-flow.json
 # 降级规则文件路径。缺失则默认为classpath:sentinel-degrade.json
@@ -4345,10 +5071,11 @@ spring.application.strategy.sentinel.authority.path=classpath:sentinel-authority
 spring.application.strategy.sentinel.system.path=classpath:sentinel-system.json
 # 热点参数流控规则文件路径。缺失则默认为classpath:sentinel-param-flow.json
 spring.application.strategy.sentinel.param.flow.path=classpath:sentinel-param-flow.json
-# 服务端执行规则时候，以Http请求中的Header值作为关键Key。缺失则默认为n-d-service-id，即以服务名作为关键Key
-spring.application.strategy.service.sentinel.request.origin.key=n-d-service-id
-# 启动和关闭Sentinel LimitApp限流等功能。缺失则默认为false
-spring.application.strategy.service.sentinel.limit.app.enabled=true
+
+# 启动和关闭Sentinel LimitApp高级限流熔断功能。缺失则默认为false
+spring.application.strategy.sentinel.limit.app.enabled=true
+# 执行Sentinel LimitApp高级限流熔断时候，以Http请求中的Header值作为关键Key。缺失则默认为n-d-service-id，即以服务名作为关键Key
+spring.application.strategy.sentinel.request.origin.key=n-d-service-id
 
 # 流量路由到指定的环境下。不允许为保留值default，缺失则默认为common
 spring.application.strategy.environment.route=common
@@ -4357,6 +5084,8 @@ spring.application.strategy.environment.route=common
 spring.application.strategy.zone.affinity.enabled=true
 # 启动和关闭可用区亲和性失败后的路由，即调用端实例没有找到同一个可用区的提供端实例的时候，当开关打开，可路由到其它可用区或者不归属任何可用区，当开关关闭，则直接调用失败。缺失则默认为true
 spring.application.strategy.zone.route.enabled=true
+# 启动和关闭Eureka原生的可用区亲和性。当采用的注册中心是Eureka，并希望使用本框架的可用区亲和性功能，需要关闭Eureka原生的可用区亲和性功能，因为两者是冲突的
+niws.loadbalancer.zoneAvoidanceRule.enabled=false
 
 # 版本故障转移，即无法找到相应版本的服务实例，路由到老的稳定版本的实例。其作用是防止蓝绿灰度版本发布人为设置错误，或者对应的版本实例发生灾难性的全部下线，导致流量有损
 # 启动和关闭版本故障转移。缺失则默认为false
@@ -4367,6 +5096,11 @@ spring.application.strategy.version.prefer.enabled=true
 
 # 启动和关闭在服务启动的时候参数订阅事件发送。缺失则默认为true
 spring.application.parameter.event.onstart.enabled=true
+
+# 启动和关闭自动扫描目录，当扫描目录未人工配置的时候，可以通过自动扫描方式决定扫描目录。缺失则默认为true
+spring.application.strategy.auto.scan.packages.enabled=true
+# 启动和关闭嵌套扫描，嵌套扫描指扫描非本工程下外部包的目录，可以支持多层嵌套。缺失则默认为false
+spring.application.strategy.auto.scan.recursion.enabled=false
 
 # 开启和关闭使用服务名前缀来作为服务组名。缺失则默认为false
 spring.application.group.generator.enabled=true
@@ -4414,10 +5148,10 @@ spring.application.no.servers.retry.times=5
 spring.application.no.servers.retry.await.time=2000
 # 负载均衡下，消费端尝试获取对应提供端服务实例列表为空的时候，通过日志方式通知。缺失则默认为false
 spring.application.no.servers.notify.enabled=false
+# 由于Nacos注册中心会自动把服务名处理成GROUP@@SERVICE_ID的格式，导致根据服务名去获取元数据的时候会找不到。通过如下开关开启是否要过滤掉GROUP前缀。缺失则默认为true
+spring.application.nacos.service.id.filter.enabled=true
 
 # Plugin strategy config
-# 开启和关闭路由策略的控制。一旦关闭，路由策略功能将失效。缺失则默认为true
-spring.application.strategy.control.enabled=true
 # 开启和关闭Ribbon默认的ZoneAvoidanceRule负载均衡策略。一旦关闭，则使用RoundRobin简单轮询负载均衡策略。缺失则默认为true
 spring.application.strategy.zone.avoidance.rule.enabled=true
 # 路由策略过滤器的执行顺序（Order）。缺失则默认为9000
@@ -4426,6 +5160,8 @@ spring.application.strategy.gateway.route.filter.order=9000
 spring.application.strategy.gateway.header.priority=false
 # 当以网关设置为优先的时候，网关未配置Header，而外界配置了Header，仍旧忽略外界的Header。缺失则默认为true
 spring.application.strategy.gateway.original.header.ignored=true
+# 开启和关闭网关订阅配置中心的动态路由策略。缺失则默认为false
+spring.application.strategy.gateway.dynamic.route.enabled=true
 # 启动和关闭网关上核心策略Header传递，缺失则默认为true。当全局订阅启动时，可以关闭核心策略Header传递，这样可以节省传递数据的大小，一定程度上可以提升性能。核心策略Header，包含如下
 # 1. n-d-version
 # 2. n-d-region
@@ -4441,6 +5177,8 @@ spring.application.strategy.consumer.isolation.enabled=true
 
 # 启动和关闭监控，一旦关闭，调用链和日志输出都将关闭。缺失则默认为false
 spring.application.strategy.monitor.enabled=true
+# 启动和关闭告警，一旦关闭，蓝绿灰度上下文输出都将关闭。缺失则默认为false
+spring.application.strategy.alarm.enabled=true
 # 启动和关闭日志输出。缺失则默认为false
 spring.application.strategy.logger.enabled=true
 # 日志输出中，是否显示MDC前面的Key。缺失则默认为true
@@ -4459,9 +5197,9 @@ spring.application.strategy.tracer.exception.detail.output.enabled=true
 spring.application.strategy.tracer.span.value=NEPXION
 # 显示在调用链界面上蓝绿灰度Span Tag的插件名称，建议改成具有公司特色的框架产品的描述。缺失则默认为Nepxion Discovery
 spring.application.strategy.tracer.span.tag.plugin.value=Nepxion Discovery
-# 启动和关闭Sentinel调用链上规则在Span上的输出，注意：原生的Sentinel不是Spring技术栈，下面参数必须通过-D方式或者System.setProperty方式等设置进去。缺失则默认为true
+# 启动和关闭Sentinel调用链上规则在Span上的输出。缺失则默认为true
 spring.application.strategy.tracer.sentinel.rule.output.enabled=true
-# 启动和关闭Sentinel调用链上方法入参在Span上的输出，注意：原生的Sentinel不是Spring技术栈，下面参数必须通过-D方式或者System.setProperty方式等设置进去。缺失则默认为false
+# 启动和关闭Sentinel调用链上方法入参在Span上的输出。缺失则默认为false
 spring.application.strategy.tracer.sentinel.args.output.enabled=true
 
 # 开启Spring Cloud Gateway网关上实现Hystrix线程隔离模式做服务隔离时，必须把spring.application.strategy.hystrix.threadlocal.supported设置为true，同时要引入discovery-plugin-strategy-starter-hystrix包，否则线程切换时会发生ThreadLocal上下文对象丢失。缺失则默认为false
@@ -4474,6 +5212,8 @@ spring.application.strategy.environment.route=common
 spring.application.strategy.zone.affinity.enabled=true
 # 启动和关闭可用区亲和性失败后的路由，即调用端实例没有找到同一个可用区的提供端实例的时候，当开关打开，可路由到其它可用区或者不归属任何可用区，当开关关闭，则直接调用失败。缺失则默认为true
 spring.application.strategy.zone.route.enabled=true
+# 启动和关闭Eureka原生的可用区亲和性。当采用的注册中心是Eureka，并希望使用本框架的可用区亲和性功能，需要关闭Eureka原生的可用区亲和性功能，因为两者是冲突的
+niws.loadbalancer.zoneAvoidanceRule.enabled=false
 
 # 版本故障转移，即无法找到相应版本的服务实例，路由到老的稳定版本的实例。其作用是防止蓝绿灰度版本发布人为设置错误，或者对应的版本实例发生灾难性的全部下线，导致流量有损
 # 启动和关闭版本故障转移。缺失则默认为false
@@ -4484,6 +5224,16 @@ spring.application.strategy.version.prefer.enabled=true
 
 # 启动和关闭在服务启动的时候参数订阅事件发送。缺失则默认为true
 spring.application.parameter.event.onstart.enabled=true
+
+# 启动和关闭自动扫描目录，当扫描目录未人工配置的时候，可以通过自动扫描方式决定扫描目录。缺失则默认为true
+spring.application.strategy.auto.scan.packages.enabled=true
+# 启动和关闭嵌套扫描，嵌套扫描指扫描非本工程下外部包的目录，可以支持多层嵌套。缺失则默认为false
+spring.application.strategy.auto.scan.recursion.enabled=false
+
+# 开启Spring Cloud Gateway网关动态路由时，订阅配置中心动态路由变更的主键group值。缺失则默认为nepxion
+# Nacos配置中心，Group为{group}，DataId为网关服务名
+# 其它配置中心，Key的格式为{group}-网关服务名
+spring.application.strategy.dynamic.route.group=nepxion
 
 # 开启和关闭使用服务名前缀来作为服务组名。缺失则默认为false
 spring.application.group.generator.enabled=true
@@ -4500,6 +5250,46 @@ spring.application.git.generator.path=classpath:git.properties
 # 使用Git信息中的字段单个或者多个组合来作为服务版本号。缺失则默认为{git.commit.time}-{git.total.commit.count}
 spring.application.git.version.key={git.commit.id.abbrev}-{git.commit.time}
 # spring.application.git.version.key={git.build.version}-{git.commit.time}
+
+# 下面配置只适用于网关里直接进行Feign、RestTemplate或者WebClient调用场景
+# 启动和关闭路由策略的时候，对REST方式的调用拦截。缺失则默认为true
+spring.application.strategy.rest.intercept.enabled=true
+# 启动和关闭Header传递的Debug日志打印，注意：每调用一次都会打印一次，会对性能有所影响，建议压测环境和生产环境关闭。缺失则默认为false
+spring.application.strategy.rest.intercept.debug.enabled=true
+# 启动和关闭Feign上核心策略Header传递，缺失则默认为true。当全局订阅启动时，可以关闭核心策略Header传递，这样可以节省传递数据的大小，一定程度上可以提升性能。核心策略Header，包含如下
+# 1. n-d-version
+# 2. n-d-region
+# 3. n-d-address
+# 4. n-d-version-weight
+# 5. n-d-region-weight
+# 6. n-d-id-blacklist
+# 7. n-d-address-blacklist
+# 8. n-d-env (不属于蓝绿灰度范畴的Header，只要外部传入就会全程传递)
+spring.application.strategy.feign.core.header.transmission.enabled=true
+# 启动和关闭RestTemplate上核心策略Header传递，缺失则默认为true。当全局订阅启动时，可以关闭核心策略Header传递，这样可以节省传递数据的大小，一定程度上可以提升性能。核心策略Header，包含如下
+# 1. n-d-version
+# 2. n-d-region
+# 3. n-d-address
+# 4. n-d-version-weight
+# 5. n-d-region-weight
+# 6. n-d-id-blacklist
+# 7. n-d-address-blacklist
+# 8. n-d-env (不属于蓝绿灰度范畴的Header，只要外部传入就会全程传递)
+spring.application.strategy.rest.template.core.header.transmission.enabled=true
+# 启动和关闭WebClient上核心策略Header传递，缺失则默认为true。当全局订阅启动时，可以关闭核心策略Header传递，这样可以节省传递数据的大小，一定程度上可以提升性能。核心策略Header，包含如下
+# 1. n-d-version
+# 2. n-d-region
+# 3. n-d-address
+# 4. n-d-version-weight
+# 5. n-d-region-weight
+# 6. n-d-id-blacklist
+# 7. n-d-address-blacklist
+# 8. n-d-env (不属于蓝绿灰度范畴的Header，只要外部传入就会全程传递)
+spring.application.strategy.web.client.core.header.transmission.enabled=true
+# 路由策略的时候，对REST方式调用拦截的时候（支持Feign、RestTemplate或者WebClient调用），希望把来自外部自定义的Header参数（用于框架内置上下文Header，例如：trace-id, span-id等）传递到服务里，那么配置如下值。如果多个用“;”分隔，不允许出现空格
+spring.application.strategy.context.request.headers=trace-id;span-id
+# 路由策略的时候，对REST方式调用拦截的时候（支持Feign、RestTemplate或者WebClient调用），希望把来自外部自定义的Header参数（用于业务系统自定义Header，例如：mobile）传递到服务里，那么配置如下值。如果多个用“;”分隔，不允许出现空格
+spring.application.strategy.business.request.headers=user;mobile;location
 ```
 
 ③ Zuul端配置
@@ -4531,10 +5321,10 @@ spring.application.no.servers.retry.times=5
 spring.application.no.servers.retry.await.time=2000
 # 负载均衡下，消费端尝试获取对应提供端服务实例列表为空的时候，通过日志方式通知。缺失则默认为false
 spring.application.no.servers.notify.enabled=false
+# 由于Nacos注册中心会自动把服务名处理成GROUP@@SERVICE_ID的格式，导致根据服务名去获取元数据的时候会找不到。通过如下开关开启是否要过滤掉GROUP前缀。缺失则默认为true
+spring.application.nacos.service.id.filter.enabled=true
 
 # Plugin strategy config
-# 开启和关闭路由策略的控制。一旦关闭，路由策略功能将失效。缺失则默认为true
-spring.application.strategy.control.enabled=true
 # 开启和关闭Ribbon默认的ZoneAvoidanceRule负载均衡策略。一旦关闭，则使用RoundRobin简单轮询负载均衡策略。缺失则默认为true
 spring.application.strategy.zone.avoidance.rule.enabled=true
 # 路由策略过滤器的执行顺序（Order）。缺失则默认为0
@@ -4543,6 +5333,8 @@ spring.application.strategy.zuul.route.filter.order=0
 spring.application.strategy.zuul.header.priority=false
 # 当以网关设置为优先的时候，网关未配置Header，而外界配置了Header，仍旧忽略外界的Header。缺失则默认为true
 spring.application.strategy.zuul.original.header.ignored=true
+# 开启和关闭网关订阅配置中心的动态路由策略。缺失则默认为false
+spring.application.strategy.zuul.dynamic.route.enabled=true
 # 启动和关闭网关上核心策略Header传递，缺失则默认为true。当全局订阅启动时，可以关闭核心策略Header传递，这样可以节省传递数据的大小，一定程度上可以提升性能。核心策略Header，包含如下
 # 1. n-d-version
 # 2. n-d-region
@@ -4576,9 +5368,9 @@ spring.application.strategy.tracer.exception.detail.output.enabled=true
 spring.application.strategy.tracer.span.value=NEPXION
 # 显示在调用链界面上蓝绿灰度Span Tag的插件名称，建议改成具有公司特色的框架产品的描述。缺失则默认为Nepxion Discovery
 spring.application.strategy.tracer.span.tag.plugin.value=Nepxion Discovery
-# 启动和关闭Sentinel调用链上规则在Span上的输出，注意：原生的Sentinel不是Spring技术栈，下面参数必须通过-D方式或者System.setProperty方式等设置进去。缺失则默认为true
+# 启动和关闭Sentinel调用链上规则在Span上的输出。缺失则默认为true
 spring.application.strategy.tracer.sentinel.rule.output.enabled=true
-# 启动和关闭Sentinel调用链上方法入参在Span上的输出，注意：原生的Sentinel不是Spring技术栈，下面参数必须通过-D方式或者System.setProperty方式等设置进去。缺失则默认为false
+# 启动和关闭Sentinel调用链上方法入参在Span上的输出。缺失则默认为false
 spring.application.strategy.tracer.sentinel.args.output.enabled=true
 
 # 开启Zuul网关上实现Hystrix线程隔离模式做服务隔离时，必须把spring.application.strategy.hystrix.threadlocal.supported设置为true，同时要引入discovery-plugin-strategy-starter-hystrix包，否则线程切换时会发生ThreadLocal上下文对象丢失。缺失则默认为false
@@ -4591,6 +5383,8 @@ spring.application.strategy.environment.route=common
 spring.application.strategy.zone.affinity.enabled=true
 # 启动和关闭可用区亲和性失败后的路由，即调用端实例没有找到同一个可用区的提供端实例的时候，当开关打开，可路由到其它可用区或者不归属任何可用区，当开关关闭，则直接调用失败。缺失则默认为true
 spring.application.strategy.zone.route.enabled=true
+# 启动和关闭Eureka原生的可用区亲和性。当采用的注册中心是Eureka，并希望使用本框架的可用区亲和性功能，需要关闭Eureka原生的可用区亲和性功能，因为两者是冲突的
+niws.loadbalancer.zoneAvoidanceRule.enabled=false
 
 # 版本故障转移，即无法找到相应版本的服务实例，路由到老的稳定版本的实例。其作用是防止蓝绿灰度版本发布人为设置错误，或者对应的版本实例发生灾难性的全部下线，导致流量有损
 # 启动和关闭版本故障转移。缺失则默认为false
@@ -4601,6 +5395,16 @@ spring.application.strategy.version.prefer.enabled=true
 
 # 启动和关闭在服务启动的时候参数订阅事件发送。缺失则默认为true
 spring.application.parameter.event.onstart.enabled=true
+
+# 启动和关闭自动扫描目录，当扫描目录未人工配置的时候，可以通过自动扫描方式决定扫描目录。缺失则默认为true
+spring.application.strategy.auto.scan.packages.enabled=true
+# 启动和关闭嵌套扫描，嵌套扫描指扫描非本工程下外部包的目录，可以支持多层嵌套。缺失则默认为false
+spring.application.strategy.auto.scan.recursion.enabled=false
+
+# 开启Zuul网关动态路由时，订阅配置中心动态路由变更的主键group值。缺失则默认为nepxion
+# Nacos配置中心，Group为{group}，DataId为网关服务名
+# 其它配置中心，Key的格式为{group}-网关服务名
+spring.application.strategy.dynamic.route.group=nepxion
 
 # 开启和关闭使用服务名前缀来作为服务组名。缺失则默认为false
 spring.application.group.generator.enabled=true
@@ -4617,17 +5421,57 @@ spring.application.git.generator.path=classpath:git.properties
 # 使用Git信息中的字段单个或者多个组合来作为服务版本号。缺失则默认为{git.commit.time}-{git.total.commit.count}
 # spring.application.git.version.key={git.commit.id.abbrev}-{git.commit.time}
 # spring.application.git.version.key={git.build.version}-{git.commit.time}
+
+# 下面配置只适用于网关里直接进行Feign、RestTemplate或者WebClient调用场景
+# 启动和关闭路由策略的时候，对REST方式的调用拦截。缺失则默认为true
+spring.application.strategy.rest.intercept.enabled=true
+# 启动和关闭Header传递的Debug日志打印，注意：每调用一次都会打印一次，会对性能有所影响，建议压测环境和生产环境关闭。缺失则默认为false
+spring.application.strategy.rest.intercept.debug.enabled=true
+# 启动和关闭Feign上核心策略Header传递，缺失则默认为true。当全局订阅启动时，可以关闭核心策略Header传递，这样可以节省传递数据的大小，一定程度上可以提升性能。核心策略Header，包含如下
+# 1. n-d-version
+# 2. n-d-region
+# 3. n-d-address
+# 4. n-d-version-weight
+# 5. n-d-region-weight
+# 6. n-d-id-blacklist
+# 7. n-d-address-blacklist
+# 8. n-d-env (不属于蓝绿灰度范畴的Header，只要外部传入就会全程传递)
+spring.application.strategy.feign.core.header.transmission.enabled=true
+# 启动和关闭RestTemplate上核心策略Header传递，缺失则默认为true。当全局订阅启动时，可以关闭核心策略Header传递，这样可以节省传递数据的大小，一定程度上可以提升性能。核心策略Header，包含如下
+# 1. n-d-version
+# 2. n-d-region
+# 3. n-d-address
+# 4. n-d-version-weight
+# 5. n-d-region-weight
+# 6. n-d-id-blacklist
+# 7. n-d-address-blacklist
+# 8. n-d-env (不属于蓝绿灰度范畴的Header，只要外部传入就会全程传递)
+spring.application.strategy.rest.template.core.header.transmission.enabled=true
+# 启动和关闭WebClient上核心策略Header传递，缺失则默认为true。当全局订阅启动时，可以关闭核心策略Header传递，这样可以节省传递数据的大小，一定程度上可以提升性能。核心策略Header，包含如下
+# 1. n-d-version
+# 2. n-d-region
+# 3. n-d-address
+# 4. n-d-version-weight
+# 5. n-d-region-weight
+# 6. n-d-id-blacklist
+# 7. n-d-address-blacklist
+# 8. n-d-env (不属于蓝绿灰度范畴的Header，只要外部传入就会全程传递)
+spring.application.strategy.web.client.core.header.transmission.enabled=true
+# 路由策略的时候，对REST方式调用拦截的时候（支持Feign、RestTemplate或者WebClient调用），希望把来自外部自定义的Header参数（用于框架内置上下文Header，例如：trace-id, span-id等）传递到服务里，那么配置如下值。如果多个用“;”分隔，不允许出现空格
+spring.application.strategy.context.request.headers=trace-id;span-id
+# 路由策略的时候，对REST方式调用拦截的时候（支持Feign、RestTemplate或者WebClient调用），希望把来自外部自定义的Header参数（用于业务系统自定义Header，例如：mobile）传递到服务里，那么配置如下值。如果多个用“;”分隔，不允许出现空格
+spring.application.strategy.business.request.headers=user;mobile;location
 ```
 
 ### 内置文件配置
 框架提供内置文件方式的配置spring-application-default.properties。如果使用者希望对框架做封装，并提供相应的默认配置，可以在src/main/resources目录下放置spring-application-default.properties
 
-![](http://nepxion.gitee.io/docs/icon-doc/warning.png) 需要注意，该文件在整个服务目录和包中只能出现一次
+![](http://nepxion.gitee.io/discovery/docs/icon-doc/warning.png) 需要注意，该文件在整个服务目录和包中只能出现一次
 
 ## Docker容器化和Kubernetes平台支持
 
 ### Docker容器化
-![](http://nepxion.gitee.io/docs/icon-doc/information.png) Spring 2.3.x支持Docker分层部署，步骤也更简单，请参考Polaris【北极星】企业级云原生微服务框架里的介绍
+![](http://nepxion.gitee.io/discovery/docs/icon-doc/information.png) Spring 2.3.x支持Docker分层部署，步骤也更简单，请参考Polaris【北极星】企业级云原生微服务框架里的介绍
 
 ① 搭建Windows10操作系统或者Linux操作系统下的Docker环境
 
@@ -4693,21 +5537,13 @@ spring.application.git.generator.path=classpath:git.properties
 
 - Docker Desktop
 
-![](http://nepxion.gitee.io/docs/discovery-doc/Docker.jpg)
-
-- Docker Windows
-
-![](http://nepxion.gitee.io/docs/polaris-doc/DockerWindows.jpg)
-
-- Docker Linux
-
-![](http://nepxion.gitee.io/docs/polaris-doc/DockerLinux.jpg)
+![](http://nepxion.gitee.io/discovery/docs/discovery-doc/Docker.jpg)
 
 ### Kubernetes平台支持
 请自行研究
 
 ## 自动化测试
-自动化测试，基于Spring Boot/Spring Cloud的自动化测试框架，包括普通调用测试、蓝绿灰度调用测试和扩展调用测试（例如：支持阿里巴巴的Sentinel，FF4j的功能开关等）。通过注解形式，跟Spring Boot内置的测试机制集成，使用简单方便。该自动化测试框架的现实意义，可以把服务注册发现中心、远程配置中心、负载均衡、蓝绿灰度发布、熔断降级限流、功能开关、Feign或者RestTemplate调用等中间件或者组件，一条龙组合起来进行自动化测试
+自动化测试，基于Spring Boot/Spring Cloud的自动化测试框架，包括普通调用测试、蓝绿灰度调用测试和扩展调用测试（例如：支持阿里巴巴的Sentinel，FF4j的功能开关等）。通过注解形式，跟Spring Boot内置的测试机制集成，使用简单方便。该自动化测试框架的现实意义，可以把服务注册发现中心、远程配置中心、负载均衡、蓝绿灰度发布、熔断降级限流、功能开关、Feign、RestTemplate或者WebClient调用等中间件或者组件，一条龙组合起来进行自动化测试
 
 自动化测试代码参考[指南示例自动化测试](https://github.com/Nepxion/DiscoveryGuide/tree/master/discovery-guide-test-automation)
 
@@ -4753,7 +5589,7 @@ gray.weight.testcase.result.offset=5
 
 ### 测试用例
 
-![](http://nepxion.gitee.io/docs/icon-doc/warning.png) 需要注意，当使用Eureka注册中心的时候，因为Spring Cloud内嵌了Eureka可用区亲和性功能，会自动开启该策略，则导致某些自动化测试用例失败。需要把所有服务实例的元数据zone值改成相同或者也可以把该行元数据删除，然后进行自动化测试
+![](http://nepxion.gitee.io/discovery/docs/icon-doc/warning.png) 需要注意，当使用Eureka注册中心的时候，因为Spring Cloud内嵌了Eureka可用区亲和性功能，会自动开启该策略，则导致某些自动化测试用例失败。需要把所有服务实例的元数据zone值改成相同或者也可以把该行元数据删除，然后进行自动化测试
 
 #### 测试包引入
 ```xml
@@ -4783,7 +5619,7 @@ gray.weight.testcase.result.offset=5
 </build>
 ```
 
-![](http://nepxion.gitee.io/docs/icon-doc/warning.png) 需要注意，对于带有注解@DTestConfig的测试用例，要用到Spring的Spel语法格式（即group = "#group", serviceId = "#serviceId"），需要引入Java8的带"-parameters"编译方式，见上面的<compilerArgs>参数设置
+![](http://nepxion.gitee.io/discovery/docs/icon-doc/warning.png) 需要注意，对于带有注解@DTestConfig的测试用例，要用到Spring的Spel语法格式（即group = "#group", serviceId = "#serviceId"），需要引入Java8的带"-parameters"编译方式，见上面的<compilerArgs>参数设置
 
 在IDE环境里需要设置"-parameters"的Compiler Argument
 
@@ -5155,7 +5991,7 @@ zuul.semaphore.max-semaphores=5000
 ## 附录
 
 ### 中间件服务器下载地址
-![](http://nepxion.gitee.io/docs/icon-doc/information_message.png) 注册中心
+![](http://nepxion.gitee.io/discovery/docs/icon-doc/information_message.png) 注册中心
 
 ① Nacos
 
@@ -5177,7 +6013,7 @@ zuul.semaphore.max-semaphores=5000
 - Spring Cloud F版或以上，必须采用Zookeeper服务器的3.5.x服务器版本（或者更高），从[http://zookeeper.apache.org/releases.html#download](http://zookeeper.apache.org/releases.html#download)获取
 - Spring Cloud E版，Zookeeper服务器版本不限制
 
-![](http://nepxion.gitee.io/docs/icon-doc/information_message.png) 配置中心
+![](http://nepxion.gitee.io/discovery/docs/icon-doc/information_message.png) 配置中心
 
 ① Nacos
 
@@ -5191,16 +6027,20 @@ zuul.semaphore.max-semaphores=5000
 
 ③ Redis
 
-- Redis服务器版本，推荐用最新版本，从[https://redis.io/](https://redis.io/)获取
+- Redis服务器版本，推荐用最新版本，从[https://redis.io](https://redis.io)获取
 
-![](http://nepxion.gitee.io/docs/icon-doc/information_message.png) 限流熔断
+④ Etcd
+
+- Etcd服务器版本，推荐用最新版本，从[https://github.com/etcd-io/etcd/releases](https://github.com/etcd-io/etcd/releases)获取
+
+![](http://nepxion.gitee.io/discovery/docs/icon-doc/information_message.png) 限流熔断
 
 ① Sentinel
 
 - Sentinel服务器版本，推荐用最新版本，从[https://github.com/alibaba/Sentinel/releases](https://github.com/alibaba/Sentinel/releases)获取
 - 功能界面主页，[http://localhost:8075/#/dashboard](http://localhost:8075/#/dashboard)
 
-![](http://nepxion.gitee.io/docs/icon-doc/information_message.png) 调用链监控
+![](http://nepxion.gitee.io/discovery/docs/icon-doc/information_message.png) 调用链监控
 
 ① Jaeger
 
@@ -5209,7 +6049,7 @@ zuul.semaphore.max-semaphores=5000
 
 ② SkyWalking
 
-- SkyWalking服务器版本，推荐用最新版本，从[http://skywalking.apache.org/downloads/](http://skywalking.apache.org/downloads/)获取
+- SkyWalking服务器版本，推荐用最新版本，从[http://skywalking.apache.org/downloads](http://skywalking.apache.org/downloads)获取
 - 功能界面主页，[http://127.0.0.1:8080/](http://127.0.0.1:8080/)
 
 ③ Zipkin
@@ -5217,7 +6057,7 @@ zuul.semaphore.max-semaphores=5000
 - Zipkin服务器版本，推荐用最新版本，从[https://search.maven.org/remote_content?g=io.zipkin&a=zipkin-server&v=LATEST&c=exec](https://search.maven.org/remote_content?g=io.zipkin&a=zipkin-server&v=LATEST&c=exec)获取
 - 功能界面主页，[http://localhost:9411/zipkin](http://localhost:9411/zipkin)
 
-![](http://nepxion.gitee.io/docs/icon-doc/information_message.png) 指标监控
+![](http://nepxion.gitee.io/discovery/docs/icon-doc/information_message.png) 指标监控
 
 ① Prometheus
 

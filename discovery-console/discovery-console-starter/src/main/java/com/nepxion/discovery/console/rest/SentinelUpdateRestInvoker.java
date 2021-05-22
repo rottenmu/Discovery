@@ -9,52 +9,37 @@ package com.nepxion.discovery.console.rest;
  * @version 1.0
  */
 
-import java.util.List;
-
 import org.apache.commons.lang3.StringUtils;
-import org.springframework.cloud.client.ServiceInstance;
-import org.springframework.http.HttpEntity;
-import org.springframework.http.HttpHeaders;
-import org.springframework.http.MediaType;
 import org.springframework.web.client.RestTemplate;
 
+import com.nepxion.discovery.console.entity.SentinelRuleType;
+import com.nepxion.discovery.console.resource.ServiceResource;
+
 public class SentinelUpdateRestInvoker extends AbstractRestInvoker {
-    private String type;
+    private SentinelRuleType ruleType;
     private String rule;
 
-    public SentinelUpdateRestInvoker(List<ServiceInstance> instances, RestTemplate restTemplate, String type, String rule) {
-        super(instances, restTemplate);
+    public SentinelUpdateRestInvoker(ServiceResource serviceResource, String serviceId, RestTemplate restTemplate, SentinelRuleType ruleType, String rule) {
+        super(serviceResource, serviceId, restTemplate);
 
-        this.type = type.trim();
+        this.ruleType = ruleType;
         this.rule = rule;
     }
 
     @Override
-    protected String getInfo() {
+    protected String getDescription() {
         return "Sentinel rules updated";
     }
 
     @Override
     protected String getSuffixPath() {
-        return getPrefixPath(type) + "/update-" + type + "-rules";
+        String path = StringUtils.equals(ruleType.toString(), "param-flow") ? "sentinel-param" : "sentinel-core";
+
+        return path + "/update-" + ruleType + "-rules";
     }
 
     @Override
     protected String doRest(String url) {
-        HttpHeaders headers = new HttpHeaders();
-        headers.setContentType(MediaType.APPLICATION_JSON_UTF8);
-
-        HttpEntity<String> entity = new HttpEntity<String>(rule, headers);
-
-        return restTemplate.postForEntity(url, entity, String.class).getBody();
-    }
-
-    @Override
-    protected void checkPermission(ServiceInstance instance) throws Exception {
-        checkConfigRestControlPermission(instance);
-    }
-
-    private String getPrefixPath(String type) {
-        return StringUtils.equals(type, "param-flow") ? "sentinel-param" : "sentinel-core";
+        return restTemplate.postForEntity(url, getInvokeEntity(rule), String.class).getBody();
     }
 }

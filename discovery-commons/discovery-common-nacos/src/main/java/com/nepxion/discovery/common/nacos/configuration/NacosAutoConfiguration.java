@@ -23,6 +23,7 @@ import com.alibaba.nacos.api.config.ConfigService;
 import com.alibaba.nacos.api.exception.NacosException;
 import com.nepxion.discovery.common.nacos.constant.NacosConstant;
 import com.nepxion.discovery.common.nacos.operation.NacosOperation;
+import com.nepxion.discovery.common.util.PropertiesUtil;
 
 @Configuration
 public class NacosAutoConfiguration {
@@ -45,11 +46,13 @@ public class NacosAutoConfiguration {
     public static Properties createNacosProperties(Environment environment, boolean enableRemoteSyncConfig) {
         Properties properties = new Properties();
 
+        // 支持从spring.cloud.nacos.config前缀方式获取
+        PropertiesUtil.enrichProperties(properties, environment, NacosConstant.SPRING_CLOUD_NACOS_CONFIG_PREFIX, true, true);
+
+        // 支持从Nepxion自定义的方式获取
         String serverAddr = environment.getProperty(NacosConstant.NACOS_SERVER_ADDR);
         if (StringUtils.isNotEmpty(serverAddr)) {
             properties.put(NacosConstant.SERVER_ADDR, serverAddr);
-        } else {
-            throw new IllegalArgumentException(NacosConstant.NACOS_SERVER_ADDR + " can't be null or empty");
         }
 
         String accessKey = environment.getProperty(NacosConstant.NACOS_ACCESS_KEY);
@@ -72,7 +75,7 @@ public class NacosAutoConfiguration {
             properties.put(NacosConstant.PASSWORD, password);
         }
 
-        String namespace = environment.getProperty(NacosConstant.NACOS_PLUGIN_NAMESPACE);
+        /*String namespace = environment.getProperty(NacosConstant.NACOS_PLUGIN_NAMESPACE);
         if (StringUtils.isNotEmpty(namespace)) {
             properties.put(NacosConstant.NAMESPACE, namespace);
         }
@@ -142,12 +145,24 @@ public class NacosAutoConfiguration {
             properties.put(NacosConstant.NAMING_POLLING_THREAD_COUNT, namingPollingThreadCount);
         }
 
+        String namingRequestDomainRetryCount = environment.getProperty(NacosConstant.NACOS_PLUGIN_NAMING_REQUEST_DOMAIN_RETRY_COUNT);
+        if (StringUtils.isNotEmpty(namingRequestDomainRetryCount)) {
+            properties.put(NacosConstant.NAMING_REQUEST_DOMAIN_RETRY_COUNT, namingRequestDomainRetryCount);
+        }
+
+        String namingPushEmptyProtection = environment.getProperty(NacosConstant.NACOS_PLUGIN_NAMING_PUSH_EMPTY_PROTECTION);
+        if (StringUtils.isNotEmpty(namingPushEmptyProtection)) {
+            properties.put(NacosConstant.NAMING_PUSH_EMPTY_PROTECTION, namingPushEmptyProtection);
+        }
+
         String ramRoleName = environment.getProperty(NacosConstant.NACOS_PLUGIN_RAM_ROLE_NAME);
         if (StringUtils.isNotEmpty(ramRoleName)) {
             properties.put(NacosConstant.RAM_ROLE_NAME, ramRoleName);
-        }
+        }*/
 
         properties.put(NacosConstant.ENABLE_REMOTE_SYNC_CONFIG, Boolean.toString(enableRemoteSyncConfig));
+
+        PropertiesUtil.enrichProperties(properties, environment, NacosConstant.NACOS_PLUGIN_PREFIX, true, true);
 
         return properties;
     }

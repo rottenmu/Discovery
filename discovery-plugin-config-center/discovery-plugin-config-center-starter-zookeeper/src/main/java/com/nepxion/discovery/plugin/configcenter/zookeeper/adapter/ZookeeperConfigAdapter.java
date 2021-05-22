@@ -6,29 +6,26 @@ package com.nepxion.discovery.plugin.configcenter.zookeeper.adapter;
  * <p>Copyright: Copyright (c) 2017-2050</p>
  * <p>Company: Nepxion</p>
  * @author rotten
+ * @author Ning Zhang
  * @version 1.0
  */
 
 import javax.annotation.PostConstruct;
 
-import org.apache.curator.framework.recipes.cache.TreeCacheListener;
 import org.springframework.beans.factory.annotation.Autowired;
 
 import com.nepxion.discovery.common.zookeeper.constant.ZookeeperConstant;
+import com.nepxion.discovery.common.zookeeper.operation.ZookeeperListener;
 import com.nepxion.discovery.common.zookeeper.operation.ZookeeperOperation;
 import com.nepxion.discovery.common.zookeeper.operation.ZookeeperSubscribeCallback;
 import com.nepxion.discovery.plugin.configcenter.adapter.ConfigAdapter;
-import com.nepxion.discovery.plugin.configcenter.logger.ConfigLogger;
 
 public class ZookeeperConfigAdapter extends ConfigAdapter {
     @Autowired
     private ZookeeperOperation zookeeperOperation;
 
-    @Autowired
-    private ConfigLogger configLogger;
-
-    private TreeCacheListener partialListener;
-    private TreeCacheListener globalListener;
+    private ZookeeperListener partialZookeeperListener;
+    private ZookeeperListener globalZookeeperListener;
 
     @Override
     public String getConfig(String group, String dataId) throws Exception {
@@ -38,15 +35,15 @@ public class ZookeeperConfigAdapter extends ConfigAdapter {
     @PostConstruct
     @Override
     public void subscribeConfig() {
-        partialListener = subscribeConfig(false);
-        globalListener = subscribeConfig(true);
+        partialZookeeperListener = subscribeConfig(false);
+        globalZookeeperListener = subscribeConfig(true);
     }
 
-    private TreeCacheListener subscribeConfig(boolean globalConfig) {
+    private ZookeeperListener subscribeConfig(boolean globalConfig) {
         String group = getGroup();
         String dataId = getDataId(globalConfig);
 
-        configLogger.logSubscribeStarted(globalConfig);
+        logSubscribeStarted(globalConfig);
 
         try {
             return zookeeperOperation.subscribeConfig(group, dataId, new ZookeeperSubscribeCallback() {
@@ -56,7 +53,7 @@ public class ZookeeperConfigAdapter extends ConfigAdapter {
                 }
             });
         } catch (Exception e) {
-            configLogger.logSubscribeFailed(e, globalConfig);
+            logSubscribeFailed(e, globalConfig);
         }
 
         return null;
@@ -64,24 +61,24 @@ public class ZookeeperConfigAdapter extends ConfigAdapter {
 
     @Override
     public void unsubscribeConfig() {
-        unsubscribeConfig(partialListener, false);
-        unsubscribeConfig(globalListener, true);
+        unsubscribeConfig(partialZookeeperListener, false);
+        unsubscribeConfig(globalZookeeperListener, true);
     }
 
-    private void unsubscribeConfig(TreeCacheListener configListener, boolean globalConfig) {
-        if (configListener == null) {
+    private void unsubscribeConfig(ZookeeperListener zookeeperListener, boolean globalConfig) {
+        if (zookeeperListener == null) {
             return;
         }
 
         String group = getGroup();
         String dataId = getDataId(globalConfig);
 
-        configLogger.logUnsubscribeStarted(globalConfig);
+        logUnsubscribeStarted(globalConfig);
 
         try {
-            zookeeperOperation.unsubscribeConfig(group, dataId, configListener);
+            zookeeperOperation.unsubscribeConfig(group, dataId, zookeeperListener);
         } catch (Exception e) {
-            configLogger.logUnsubscribeFailed(e, globalConfig);
+            logUnsubscribeFailed(e, globalConfig);
         }
     }
 

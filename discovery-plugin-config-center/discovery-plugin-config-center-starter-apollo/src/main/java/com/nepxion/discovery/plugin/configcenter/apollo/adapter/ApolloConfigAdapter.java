@@ -18,17 +18,13 @@ import com.nepxion.discovery.common.apollo.constant.ApolloConstant;
 import com.nepxion.discovery.common.apollo.operation.ApolloOperation;
 import com.nepxion.discovery.common.apollo.operation.ApolloSubscribeCallback;
 import com.nepxion.discovery.plugin.configcenter.adapter.ConfigAdapter;
-import com.nepxion.discovery.plugin.configcenter.logger.ConfigLogger;
 
 public class ApolloConfigAdapter extends ConfigAdapter {
     @Autowired
     private ApolloOperation apolloOperation;
 
-    @Autowired
-    private ConfigLogger configLogger;
-
-    private ConfigChangeListener partialListener;
-    private ConfigChangeListener globalListener;
+    private ConfigChangeListener partialConfigChangeListener;
+    private ConfigChangeListener globalConfigChangeListener;
 
     @Override
     public String getConfig(String group, String dataId) throws Exception {
@@ -38,15 +34,15 @@ public class ApolloConfigAdapter extends ConfigAdapter {
     @PostConstruct
     @Override
     public void subscribeConfig() {
-        partialListener = subscribeConfig(false);
-        globalListener = subscribeConfig(true);
+        partialConfigChangeListener = subscribeConfig(false);
+        globalConfigChangeListener = subscribeConfig(true);
     }
 
     private ConfigChangeListener subscribeConfig(boolean globalConfig) {
         String group = getGroup();
         String dataId = getDataId(globalConfig);
 
-        configLogger.logSubscribeStarted(globalConfig);
+        logSubscribeStarted(globalConfig);
 
         try {
             return apolloOperation.subscribeConfig(group, dataId, new ApolloSubscribeCallback() {
@@ -56,7 +52,7 @@ public class ApolloConfigAdapter extends ConfigAdapter {
                 }
             });
         } catch (Exception e) {
-            configLogger.logSubscribeFailed(e, globalConfig);
+            logSubscribeFailed(e, globalConfig);
         }
 
         return null;
@@ -64,24 +60,24 @@ public class ApolloConfigAdapter extends ConfigAdapter {
 
     @Override
     public void unsubscribeConfig() {
-        unsubscribeConfig(partialListener, false);
-        unsubscribeConfig(globalListener, true);
+        unsubscribeConfig(partialConfigChangeListener, false);
+        unsubscribeConfig(globalConfigChangeListener, true);
     }
 
-    private void unsubscribeConfig(ConfigChangeListener configListener, boolean globalConfig) {
-        if (configListener == null) {
+    private void unsubscribeConfig(ConfigChangeListener configChangeListener, boolean globalConfig) {
+        if (configChangeListener == null) {
             return;
         }
 
         String group = getGroup();
         String dataId = getDataId(globalConfig);
 
-        configLogger.logUnsubscribeStarted(globalConfig);
+        logUnsubscribeStarted(globalConfig);
 
         try {
-            apolloOperation.unsubscribeConfig(group, dataId, configListener);
+            apolloOperation.unsubscribeConfig(group, dataId, configChangeListener);
         } catch (Exception e) {
-            configLogger.logUnsubscribeFailed(e, globalConfig);
+            logUnsubscribeFailed(e, globalConfig);
         }
     }
 

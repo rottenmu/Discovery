@@ -7,44 +7,52 @@ package com.nepxion.discovery.plugin.configcenter.redis.adapter;
  * <p>Company: Nepxion</p>
  * @author Haojun Ren
  * @author JiKai Sun
+ * @author Ning Zhang
  * @version 1.0
  */
 
+import javax.annotation.PostConstruct;
+
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.data.redis.listener.PatternTopic;
-import org.springframework.data.redis.listener.RedisMessageListenerContainer;
 import org.springframework.data.redis.listener.adapter.MessageListenerAdapter;
 
 import com.nepxion.discovery.common.redis.constant.RedisConstant;
 import com.nepxion.discovery.common.redis.operation.RedisOperation;
 import com.nepxion.discovery.common.redis.operation.RedisSubscribeCallback;
 import com.nepxion.discovery.plugin.configcenter.adapter.ConfigAdapter;
-import com.nepxion.discovery.plugin.configcenter.logger.ConfigLogger;
 
 public class RedisConfigAdapter extends ConfigAdapter {
     @Autowired
     private RedisOperation redisOperation;
 
-    @Autowired
-    private RedisMessageListenerContainer configMessageListenerContainer;
-
-    @Autowired
     private MessageListenerAdapter partialMessageListenerAdapter;
-
-    @Autowired
     private MessageListenerAdapter globalMessageListenerAdapter;
-
-    @Autowired
-    private ConfigLogger configLogger;
 
     @Override
     public String getConfig(String group, String dataId) throws Exception {
         return redisOperation.getConfig(group, dataId);
     }
 
+    @PostConstruct
     @Override
     public void subscribeConfig() {
-        // No need to implement, that is resolved in RedisConfigAutoConfiguration
+        String group = getGroup();
+
+        logSubscribeStarted(false);
+
+        try {
+            partialMessageListenerAdapter = redisOperation.subscribeConfig(group, getDataId(false), this, "subscribePartialConfig");
+        } catch (Exception e) {
+            logSubscribeFailed(e, false);
+        }
+
+        logSubscribeStarted(true);
+
+        try {
+            globalMessageListenerAdapter = redisOperation.subscribeConfig(group, getDataId(true), this, "subscribeGlobalConfig");
+        } catch (Exception e) {
+            logSubscribeFailed(e, true);
+        }
     }
 
     public void subscribePartialConfig(String config) {
@@ -56,16 +64,12 @@ public class RedisConfigAdapter extends ConfigAdapter {
     }
 
     private void subscribeConfig(String config, boolean globalConfig) {
-        try {
-            redisOperation.subscribeConfig(config, new RedisSubscribeCallback() {
-                @Override
-                public void callback(String config) {
-                    callbackConfig(config, globalConfig);
-                }
-            });
-        } catch (Exception e) {
-            configLogger.logSubscribeFailed(e, globalConfig);
-        }
+        redisOperation.subscribeConfig(config, new RedisSubscribeCallback() {
+            @Override
+            public void callback(String config) {
+                callbackConfig(config, globalConfig);
+            }
+        });
     }
 
     @Override
@@ -82,12 +86,12 @@ public class RedisConfigAdapter extends ConfigAdapter {
         String group = getGroup();
         String dataId = getDataId(globalConfig);
 
-        configLogger.logUnsubscribeStarted(globalConfig);
+        logUnsubscribeStarted(globalConfig);
 
         try {
-            configMessageListenerContainer.removeMessageListener(messageListenerAdapter, new PatternTopic(group + "-" + dataId));
+            redisOperation.unsubscribeConfig(group, dataId, messageListenerAdapter);
         } catch (Exception e) {
-            configLogger.logUnsubscribeFailed(e, globalConfig);
+            logUnsubscribeFailed(e, globalConfig);
         }
     }
 

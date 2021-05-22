@@ -10,7 +10,12 @@ package com.nepxion.discovery.common.constant;
  */
 
 public class DiscoveryConstant {
-    public static final String DISCOVERY_VERSION = "6.6.0-SNAPSHOT";
+    public static final String DISCOVERY_VERSION = "6.11.0-SNAPSHOT";
+
+    public static final String NEPXION = "nepxion";
+    public static final String NEPXION_UPPERCASE = "NEPXION";
+    public static final String NEPXION_FIRST_UPPERCASE = "Nepxion";
+    public static final String NEPXION_DISCOVERY = "Nepxion Discovery";
 
     public static final String SPRING_APPLICATION_DISCOVERY_PLUGIN = "spring.application.discovery.plugin";
     public static final String SPRING_APPLICATION_DISCOVERY_VERSION = "spring.application.discovery.version";
@@ -18,8 +23,6 @@ public class DiscoveryConstant {
     public static final String SPRING_APPLICATION_REGISTER_CONTROL_ENABLED = "spring.application.register.control.enabled";
     public static final String SPRING_APPLICATION_DISCOVERY_CONTROL_ENABLED = "spring.application.discovery.control.enabled";
     public static final String SPRING_APPLICATION_CONFIG_REST_CONTROL_ENABLED = "spring.application.config.rest.control.enabled";
-    public static final String SPRING_APPLICATION_SERVLET_WEB_SERVER_ENABLED = "spring.application.servlet.web.server.enabled";
-    public static final String SPRING_APPLICATION_REACTIVE_WEB_SERVER_ENABLED = "spring.application.reactive.web.server.enabled";
     public static final String SPRING_APPLICATION_CONFIG_FORMAT = "spring.application.config.format";
     public static final String SPRING_APPLICATION_CONFIG_PATH = "spring.application.config.path";
     public static final String SPRING_APPLICATION_GROUP_KEY = "spring.application.group.key";
@@ -33,9 +36,6 @@ public class DiscoveryConstant {
     public static final String SPRING_APPLICATION_PARAMETER_EVENT_ONSTART_ENABLED = "spring.application.parameter.event.onstart.enabled";
 
     public static final String CONTEXT_PATH = "server.servlet.context-path";
-
-    public static final String ANNOTATION_CONFIG_SERVLET_WEB_SERVER_APPLICATION_CONTEXT = "AnnotationConfigServletWebServerApplicationContext";
-    public static final String ANNOTATION_CONFIG_REACTIVE_WEB_SERVER_APPLICATION_CONTEXT = "AnnotationConfigReactiveWebServerApplicationContext";
 
     public static final String SPRING_APPLICATION_GROUP_GENERATOR_ENABLED = "spring.application.group.generator.enabled";
     public static final String SPRING_APPLICATION_GROUP_GENERATOR_LENGTH = "spring.application.group.generator.length";
@@ -56,11 +56,14 @@ public class DiscoveryConstant {
     public static final String SPRING_APPLICATION_UUID = "spring.application.uuid";
     public static final String SPRING_APPLICATION_NAME = "spring.application.name";
     public static final String SPRING_APPLICATION_TYPE = "spring.application.type";
+    public static final String SPRING_APPLICATION_GATEWAY_TYPE = "spring.application.gateway.type";
+    public static final String SPRING_APPLICATION_PROTOCOL = "spring.application.protocol";
     public static final String GROUP = "group";
     public static final String SERVICE_ID = "serviceId";
     public static final String HOST = "host";
     public static final String PORT = "port";
     public static final String METADATA = "metadata";
+    public static final String SPRING_CLOUD_DISCOVERY_PREFIX = "spring.cloud.discovery";
 
     public static final String SERVICE = "service";
     public static final String GATEWAY = "gateway";
@@ -107,6 +110,8 @@ public class DiscoveryConstant {
     public static final String N_D_ID_BLACKLIST = "n-d-id-blacklist";
     public static final String N_D_ADDRESS_BLACKLIST = "n-d-address-blacklist";
 
+    public static final String ACCESS_TOKEN = "access-token";
+
     public static final String BLUE_GREEN = "blue-green";
     public static final String BLUE_GREEN_BASIC = "blue-green-basic";
     public static final String BLUE_BASIC = "blue-basic";
@@ -127,13 +132,11 @@ public class DiscoveryConstant {
 
     public static final String TRACE_ID = "trace-id";
     public static final String SPAN_ID = "span-id";
-    public static final String SPAN_VALUE = "NEPXION";
-    public static final String SPAN_TAG_PLUGIN_NAME = "plugin"; 
-    public static final String SPAN_TAG_PLUGIN_VALUE = "Nepxion Discovery";
+    public static final String SPAN_TAG_PLUGIN_NAME = "plugin";
 
     public static final String CLASS = "class";
     public static final String METHOD = "method";
-    public static final String PARAMETER = "parameter"; 
+    public static final String PARAMETER = "parameter";
     public static final String RETURN = "return";
     public static final String PARAMETER_MAP = "parameterMap";
     public static final String EVENT = "event";
@@ -160,8 +163,6 @@ public class DiscoveryConstant {
     public static final String SYNC = "sync";
     public static final String GLOBAL = "global";
     public static final String PARTIAL = "partial";
-    public static final String OK = "OK";
-    public static final String NO = "NO";
     public static final String NA = "N/A";
     public static final String DEFAULT = "default";
     public static final String UNKNOWN = "unknown";
@@ -178,8 +179,7 @@ public class DiscoveryConstant {
     public static final String EXPRESSION_SUB_PREFIX = "#" + EXPRESSION_PREFIX + "['";
     public static final String EXPRESSION_SUB_SUFFIX = "']";
 
-    public static final String DEFAULT_XML_RULE = "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n" +
-            "<rule>\r\n" +
-            "</rule>";
-    public static final String DEFAULT_JSON_RULE = "{}";
+    public static final String EMPTY_XML_RULE = "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<rule>\n</rule>";
+    public static final String EMPTY_JSON_RULE_SINGLE = "{}";
+    public static final String EMPTY_JSON_RULE_MULTIPLE = "[]";
 }
